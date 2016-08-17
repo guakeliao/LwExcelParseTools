@@ -1,3684 +1,952 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>02AB39A39D44DD83E2A7F215A5997885</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F65CBEC95F02D2369E33177B4520684F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>03DDCD8DB27EE7CEDA6ED100A8F0BC98</key>
-		<dict>
-			<key>fileRef</key>
-			<string>04D7261728EC9760BDD963959066FC4C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>04D7261728EC9760BDD963959066FC4C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAContentTypes.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>052A17875CB827423D627183396CEB60</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>YES</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>RELEASE=1</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>0574F7241E3106BDCC2896D62F845415</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>06BFA15482CA4D772C5A0604625232DD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F824B65F95433E688ABF0C209DB69C93</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>071F77A535000727A31C34EA502EFB04</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>XMLDictionary.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>091B9998047D730742DB27087391D3D7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A3CE8954685834DA2E5BFDBDFF2C3940</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>09DE6CC04A22B1E4B20B0E3C4F5EE187</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRACell.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0B281F2CCF2CE23C49F21312A80C3270</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F7DEBD0848BFDF230E601336CD941322</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0CA6A2FD4DE92014CC77BDCE7B66AAD5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAOfficeDocumentPackage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0E5B9EBFBF7B4E6D43887A13E29968F0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>253A979319868EB1AD51212DAE77ECE6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0EB7017BED28DAB4E12185C94F58D332</key>
-		<dict>
-			<key>fileRef</key>
-			<string>206B63B381454A8E97057FD9944F5F43</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>105EE985BCAEDF1B9794AF7033D34C8F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>264EEED7A4A1C25AE305BA4E7ED48AEE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>11EBDA5CC15308CDE6CEF0B3F11E0DB5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>741ACC7C41F85DABCDD75BB9D9B14E48</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>129313BA3E8B09918E4AAE696956FAF1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRARelationships.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>131A6330D4F10FDF72D00873645A89E7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAComment.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1460659BC3A344A0214E1A699A6824DB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EF9C6AC27C7628748E87889F14FF764F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>153C0F56FB847AB7166ACBC90EAC7ACD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D5FEAFD0E4715426E1056EBD22CA5822</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>15C077D3AB022F35751BB5C527FDDF4B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRACellFormat.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1AA616C617E53FF46997C7420FD11B82</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4001F7B110DA7A31C18FD16E58ECEAE8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1AF2D284E7C2BFAEC3E2BF056F4F87FD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DCE9608CB88D23FB2146EBF99B2C4A44</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1B561524D6D2AF1CB770EE6EEE23C3FF</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3C798F67981D5933B8B1C4909AD09B86</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Development Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1CF47206CADD0BCBA8D7B86684F529BB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRACalcChain.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1D51574D9C7FF33F1A1D538F7649CA43</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>NSDictionary+OpenXmlString.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1E2B863FB53379437FF4A19624B8C9CD</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C469845D9B60068B9F134B932A8A3C9F</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Targets Support Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1F1BEF92B352F47BE1E8909634B20914</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AA9661D0FB118947D5A13E8227D2CBC4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1F3E462C34161DC549BA459B22C97C79</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B6ABC68675BD1D827FF50146B12ECDA8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1F73D023C892CED9EE6A9A5939E8BD1D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3AC1B3C9BCEF47E2A8A7BD8DEDEC994F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>206B63B381454A8E97057FD9944F5F43</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRANumberFormat.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2204B9CBF450B3F2A027383A3D5AB2BF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>94EA2843C7D83D7819161D03DC0D2B71</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>226D127B7B990F742E44F8F59B302720</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>22B4EAEDF308081625ABDC2168CFB294</key>
-		<dict>
-			<key>fileRef</key>
-			<string>795358E315B25C089E504F40A49B28A2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>22C69356F5B2F7FD865B9C13E9E9E558</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NSDictionary+OpenXmlString.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>242F71C241F1BF223CAD27F64E471B2E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRASheet.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>253A979319868EB1AD51212DAE77ECE6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRACell.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>264EEED7A4A1C25AE305BA4E7ED48AEE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>LwExcelParseTools.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>28EC6E25A3651D0391DED5CA1458E2A0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BC54EA51EC81A810D2D09E5A6B251BCE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2A525D84033BFAD1E8607BDB70F7FE1C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>828F45FC530EBF6A6BFE7854B70712E3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>2B51760CD15EFD86A2240D7AA0609A37</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAWorksheet.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2C0EE146BD5CE0A994668D0A564266D2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>784059D2A16F32B46A414AE580DDCA4E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>2C482E19BA1E95DD38FFF75B66E8EFFA</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>F15BAA5D93B881F2DAB175736EE74652</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/LwExcelParseTools/LwExcelParseTools-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/LwExcelParseTools/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/LwExcelParseTools/LwExcelParseTools.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>LwExcelParseTools</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>2C5E1E336C9B0CAAD495B461E1254117</key>
-		<dict>
-			<key>fileRef</key>
-			<string>95CC1D12923E06F2E0BDB03DF522231C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>2D8E8EC45A3A1A1D94AE762CB5028504</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>B37F0F91F85060E28F1DAAB522DC7EC1</string>
-				<string>052A17875CB827423D627183396CEB60</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>2EEA01A13AF50943A7064B50312AF85E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>71151759D1229FB877B6511D1FDAAC72</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>30FB03C3FDEDCF4E384BF3F4EFB49F6F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NativeFont+BoldItalic.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>336D7673B55237FF469CECC6AB2CA9CF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F70BACF7B222257E1D51250BCABA2E33</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>33ED766023A94248A4644EBAD35F3168</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAOpenXmlSubElement.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>341875BA9ACC6081B1C31EE9EAB9149B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F5A863A7846385FD4658E3AC174A5ED9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>36B634E683108EDB041A1B7A31FDD22F</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>A3E7622CC50F226197E5FDA60AF69C96</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-LwExcelParseTools/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_LwExcelParseTools</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>36E7A183C63E88A5B170F9499015A456</key>
-		<dict>
-			<key>fileRef</key>
-			<string>57B246D62CC3E4D1F1B7E17F15B57AE0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>37271BF6A82B86B20206DBFCBF6666F6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7C85623C1A890BE2A5A9528772153526</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>381DB67F4C7DA270AC005F2E5476DFAE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>30FB03C3FDEDCF4E384BF3F4EFB49F6F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>3843037D3041345860137FBF926A1D14</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C9B263EF348F573BA514837B02C2EF55</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3AC1B3C9BCEF47E2A8A7BD8DEDEC994F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRASharedStrings.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3B2032C73A384D167AEB16C2E737EFD8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8BF0BE2AA8B79A71D7FCF639A49B35E8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3BC21F8B098CEF6809F30BDC209190AF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CCB3E52D92A7EE1010A200B5E8EE4D1A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>3C23F842E38DE83ED54157BB4473D3DD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>76D652BDF8BB3DCC8193DF0700507C2B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3C798F67981D5933B8B1C4909AD09B86</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CFA8C49DBA02BC3C3D04671023E38858</string>
-				<string>911E44859807826340FF4D3132CF1C2A</string>
-				<string>CBA34E077033BC65015BA546004B99F4</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>LwExcelParseTools</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>3D4630F82ADA6CE607F52DEBD598D359</key>
-		<dict>
-			<key>fileRef</key>
-			<string>55AE8C8D00F67B4C293900487053D9C5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3DE15C81594AE172A455A9EC3857385F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5EC49240854D41B9D7DA31D30839D6F1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>3E4E89230EF59BC255123B67864ACF77</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>name</key>
-			<string>Foundation.framework</string>
-			<key>path</key>
-			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
-			<key>sourceTree</key>
-			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>4001F7B110DA7A31C18FD16E58ECEAE8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAWorksheetDrawing.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4120BAB19D8CA5C60CA00248ED8D15B9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1CF47206CADD0BCBA8D7B86684F529BB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>46AC3062DB385CCF20E30F627544ED80</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F4CD44A962CB03CB4636BA7B5D5C57E2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>47E638A58FB7748A670534042335D69B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BD87D1E75AE69CA6722D400EFAAC1554</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>47E8868E6B3B8C1133F1F1835141FEBE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRADrawing.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>48538FD5CA176F4CD7E902CC0282B3F3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47E8868E6B3B8C1133F1F1835141FEBE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>494CF35E65C3EB6FCDF1C01FF736F1E5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9A7C1AEDFA82553219EC44878459421F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>4982B40C758178AC13D8C8D0341C12EA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAMergeCell.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4B7D0C9760B1632AB0ABDC5EEE2D800E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRASharedStrings.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4CD3C4D5173A921C391DEBC70174BD03</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAComments.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4D519E20D9725B36E3ABBB846C1ACF9C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>LwExcelParseTools.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E75C21695E3B423C8A1D66FB97E2075</key>
-		<dict>
-			<key>fileRef</key>
-			<string>071F77A535000727A31C34EA502EFB04</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>4EC30A49A0AA45E394B8D5995667E15C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRACellFill.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4F9560D6A52335BFE8147229113691D6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A1CA793C64433E6D66D65D8C6C76DCD3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>52B019786C1AF9F38E6D60D662F46B5B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>ioapi.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5335D5628BDA5B909DF201627DCE0033</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools-acknowledgements.markdown</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>54A619A8748271CAEC2023798094C246</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>F7E9C28B5D3EF6E7A8EF0156A46C39FC</string>
-				<string>825EAD5BD92AF32B5B208A159717B37C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>DHxlsReader</string>
-			<key>path</key>
-			<string>DHxlsReader</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>55AE8C8D00F67B4C293900487053D9C5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAStyles.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>57B246D62CC3E4D1F1B7E17F15B57AE0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>NativeFont+BoldItalic.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5829401F914988E3B46BC1DF7A19F91B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAOfficeDocument.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5AB59D7D475CF949EDFBA0A99110DA9B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>8E241A887218E23B81D9D5845BDC6822</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>5C40271292B3F5A00B98CCA1CE011453</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A99C583793DA9417C36C4C5A781D8860</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5CC79264368BC21AFC13C780B848813D</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>341875BA9ACC6081B1C31EE9EAB9149B</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>5D91E4136723E06029CD4EDFD5E1F599</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>LwExcelParseTools-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5EC49240854D41B9D7DA31D30839D6F1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NSDictionary+OpenXMLDictionaryParser.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5ED57628EF74BE93BD7F55FBA52255F0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7168DB6490BDC558B181450D9D65F9EF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>611FD119943B41A9D174F6D344A2B452</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools-acknowledgements.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>61A456CE5E88411B9D23DCB5B4EBC8D6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>74BF5B330E62E2E111B27A14DA464AD8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>62B61A71B78A93CEC298D97B89632F19</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6C41D6A8C2EE8A81B44A66B83D70F870</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>640F07850FF05A1A9D89350BB809E278</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>NativeColor+OpenXML.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>66E65708C99C35AD42441067B7E6BC97</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>94B7ED98BDC29B6E6535A79A716DF57E</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Pods-LwExcelParseTools/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MACH_O_TYPE</key>
-				<string>staticlib</string>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>OTHER_LDFLAGS</key>
-				<string></string>
-				<key>OTHER_LIBTOOLFLAGS</key>
-				<string></string>
-				<key>PODS_ROOT</key>
-				<string>$(SRCROOT)</string>
-				<key>PRODUCT_NAME</key>
-				<string>Pods_LwExcelParseTools</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>6B0F3D27FB5ECD30CD9F15463048FC4C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>crypt.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6B8F4D82A25A2DBDC8FF4FC636E1D529</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4B7D0C9760B1632AB0ABDC5EEE2D800E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6C2EA71720189DCBD05C9A3A4FDE923E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAMergeCell.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6C41D6A8C2EE8A81B44A66B83D70F870</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRATheme.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6DD282AC9D0A8F403701A8029806B43D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E449D20E8DF32D2CB98E4E63A48C82BD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>706EC546E46B490F78BC19747F79633E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4CD3C4D5173A921C391DEBC70174BD03</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>71151759D1229FB877B6511D1FDAAC72</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRARelationship.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>714336EA73531A86BDB060C3C30E6FEB</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NativeColor+HTML.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7168DB6490BDC558B181450D9D65F9EF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAContentTypes.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>741ACC7C41F85DABCDD75BB9D9B14E48</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAContentTypesOverride.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>74BF5B330E62E2E111B27A14DA464AD8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>zip.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>754B75D20FB9AF4DFD117986399CE40F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>129313BA3E8B09918E4AAE696956FAF1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>7571A660598FEDCDACFFCD9484DF0D53</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F7E9C28B5D3EF6E7A8EF0156A46C39FC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>76AED990FFC99193266EE5A662651429</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools-frameworks.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>76D652BDF8BB3DCC8193DF0700507C2B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAOpenXmlSubElement.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>784059D2A16F32B46A414AE580DDCA4E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>unzip.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>78A2F5E619500A11B754F6B499CB8EB7</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CEC39D2682B4BD6B66794B2ABBC61B54</string>
-				<string>BD81089A729022EA25681771E365598F</string>
-				<string>CC48421FD8F00BB36CD01A15F4DBF86D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>SSZipArchive</string>
-			<key>path</key>
-			<string>SSZipArchive</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>794A4C249AA7A748345028EBC0342D38</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>LwExcelParseTools-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>795358E315B25C089E504F40A49B28A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>mztools.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>79A71E566FF1DF199D3278C80246221C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>714336EA73531A86BDB060C3C30E6FEB</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>79BAE3E7C06C87E1F25ECC1616899FE8</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>91825F6A16092C564F184C9F1E8692F2</string>
-			<key>remoteInfo</key>
-			<string>LwExcelParseTools</string>
-		</dict>
-		<key>7ADC710E36F23DAD247BFA6C53BFC4E2</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>AB2CC230B040D4D1DD52E28DCFB919BD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>7C85623C1A890BE2A5A9528772153526</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAOpenXmlElement.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7DB346D0F39D3F0E887471402A8071AB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
-				<string>1B561524D6D2AF1CB770EE6EEE23C3FF</string>
-				<string>BC3CA7F9E30CC8F7E2DD044DD34432FC</string>
-				<string>DBBF46F37D7DB0EA482C17AE7B29338F</string>
-				<string>1E2B863FB53379437FF4A19624B8C9CD</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7E98BA5A71345B9351926C226215527E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>1D51574D9C7FF33F1A1D538F7649CA43</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>825EAD5BD92AF32B5B208A159717B37C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>DHxlsReader.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>828F45FC530EBF6A6BFE7854B70712E3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRASharedString.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>836D6F0B6191384218CDA35242F7E798</key>
-		<dict>
-			<key>fileRef</key>
-			<string>15C077D3AB022F35751BB5C527FDDF4B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>87E654A2D917A9A65203AF43A26478FE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAVmlDrawing.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>889652F16176DBFB576B0165EE3DDDC4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6B0F3D27FB5ECD30CD9F15463048FC4C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8BF0BE2AA8B79A71D7FCF639A49B35E8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRARow.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8D2F3E3954F77184AD7FD9E83CD22522</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DF6A16290FEB17627B850EAACE384C3C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8D4F318C23B66B13E672189C47198614</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9FCCBC9DACC330D92409A2780ED3CDE4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8E241A887218E23B81D9D5845BDC6822</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3E4E89230EF59BC255123B67864ACF77</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8E6D3A27557283186FFE78F24D3770FE</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>4120BAB19D8CA5C60CA00248ED8D15B9</string>
-				<string>F0F68F274AF60833E60C8D534807348E</string>
-				<string>0E5B9EBFBF7B4E6D43887A13E29968F0</string>
-				<string>F03142482902EE1AA856159C6D018317</string>
-				<string>1AF2D284E7C2BFAEC3E2BF056F4F87FD</string>
-				<string>28EC6E25A3651D0391DED5CA1458E2A0</string>
-				<string>C6B500124A8B304A75B7A49CF4BDA093</string>
-				<string>CFA6A83240864233B01B96ADDA9A591A</string>
-				<string>5C40271292B3F5A00B98CCA1CE011453</string>
-				<string>03DDCD8DB27EE7CEDA6ED100A8F0BC98</string>
-				<string>6DD282AC9D0A8F403701A8029806B43D</string>
-				<string>11EBDA5CC15308CDE6CEF0B3F11E0DB5</string>
-				<string>336D7673B55237FF469CECC6AB2CA9CF</string>
-				<string>CB4B58BEBAE0BD074C6BAE021FDF461C</string>
-				<string>0B281F2CCF2CE23C49F21312A80C3270</string>
-				<string>FF950B77847EC6FD7107E48E9C4CE354</string>
-				<string>0EB7017BED28DAB4E12185C94F58D332</string>
-				<string>E8D892475488B37363B36C86372E1465</string>
-				<string>A75B55BD84C6BAC735C2E1A73E278E4C</string>
-				<string>A91C13E11EC3A29D84A08D0B8357233E</string>
-				<string>3C23F842E38DE83ED54157BB4473D3DD</string>
-				<string>2EEA01A13AF50943A7064B50312AF85E</string>
-				<string>3843037D3041345860137FBF926A1D14</string>
-				<string>3B2032C73A384D167AEB16C2E737EFD8</string>
-				<string>F6D37DE45ACF5D0DC22862FC9F054996</string>
-				<string>6B8F4D82A25A2DBDC8FF4FC636E1D529</string>
-				<string>C039AF4118BEBE08136C83953BD3BE93</string>
-				<string>3D4630F82ADA6CE607F52DEBD598D359</string>
-				<string>62B61A71B78A93CEC298D97B89632F19</string>
-				<string>FAE1B32B4929325D0A0167F3B287469E</string>
-				<string>D6F4D10F9DB34043AB00C2BFEFB3AAA7</string>
-				<string>E476686A348595232A6B61E5076B101B</string>
-				<string>9595C3DEE7A64BF0CE7483FEBB9489D1</string>
-				<string>C271B3E16C5CBF2F32E13C866C549E06</string>
-				<string>105EE985BCAEDF1B9794AF7033D34C8F</string>
-				<string>9156F31CB07BFA9CD3F8CA0EF74E37B2</string>
-				<string>DB01EAA578A315AC25E59C642EE835C4</string>
-				<string>944A17ABC63B38D166DEE0D7C655D072</string>
-				<string>36E7A183C63E88A5B170F9499015A456</string>
-				<string>06BFA15482CA4D772C5A0604625232DD</string>
-				<string>98F669BCB6AEE9F6BCE0AC25E0FEDB43</string>
-				<string>7E98BA5A71345B9351926C226215527E</string>
-				<string>CD22B7A5135A6B4696343B1C157BE0F6</string>
-				<string>BB547F756DCCB58F6F914E3D7769B993</string>
-				<string>CE1024DFB731593D9EB6A60243CD3EA9</string>
-				<string>4F9560D6A52335BFE8147229113691D6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>8F1B2BC35135C18538933978E5661F8A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CDC3FD52910938AE74CD46A6C9D95C5B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>902A24DA639BA0CCE2B53BD58413B30E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mztools.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>908D2A9B00906DDEDE2CD9E36710E484</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C657672D49D38B1CC52550B1F95E14F8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>90C94152E2A0CC8F59CD303692E251AB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4982B40C758178AC13D8C8D0341C12EA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>90F82D6EF51E274B03C14201C072832C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D81837BCA41C04A3CF2E14D592F065DC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>90FB5306EC68108F42624F8BC7EDE42C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3E4E89230EF59BC255123B67864ACF77</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>911E44859807826340FF4D3132CF1C2A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>C9FE9353D5ED583C68BA335C78DAEC90</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9156F31CB07BFA9CD3F8CA0EF74E37B2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>902A24DA639BA0CCE2B53BD58413B30E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>91825F6A16092C564F184C9F1E8692F2</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>AEC961E201E3DCEA32D65AC3016C918F</string>
-			<key>buildPhases</key>
-			<array>
-				<string>8E6D3A27557283186FFE78F24D3770FE</string>
-				<string>9D44412B571A00B44FE6617564A49C11</string>
-				<string>D9BB9F785A424FD7206FED49B4225CF7</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>LwExcelParseTools</string>
-			<key>productName</key>
-			<string>LwExcelParseTools</string>
-			<key>productReference</key>
-			<string>CE5FD12A1F2DA79E10F859FF2075EC01</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>922322A4AFE054BF31A7FE3BFAE34B7B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9EE896659DCEB890A029DD199588945B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>944A17ABC63B38D166DEE0D7C655D072</key>
-		<dict>
-			<key>fileRef</key>
-			<string>640F07850FF05A1A9D89350BB809E278</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>947D6A2635B7F3E0032C841D9FEBF9A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>948C2F4A56E5A3936004CC10E2A6F92C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>LwExcelParseTools.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>94B7ED98BDC29B6E6535A79A716DF57E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>94EA2843C7D83D7819161D03DC0D2B71</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NativeColor+OpenXML.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9595C3DEE7A64BF0CE7483FEBB9489D1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>52B019786C1AF9F38E6D60D662F46B5B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>95CC1D12923E06F2E0BDB03DF522231C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRACalcChain.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9620A76DD4072C6F15DF5D2BCE0C2FB0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAWorksheetDrawing.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>96C50772D73A9F2105F075258369B08D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>NativeColor+HTML.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>98CF720F3685A1BD973F85D4033AB8AE</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>95CC1D12923E06F2E0BDB03DF522231C</string>
-				<string>1CF47206CADD0BCBA8D7B86684F529BB</string>
-				<string>CCB3E52D92A7EE1010A200B5E8EE4D1A</string>
-				<string>A3697818623AE9C35F1079D6F588A1E8</string>
-				<string>09DE6CC04A22B1E4B20B0E3C4F5EE187</string>
-				<string>253A979319868EB1AD51212DAE77ECE6</string>
-				<string>4EC30A49A0AA45E394B8D5995667E15C</string>
-				<string>996F0028467BC3F330E1AA1AB22767E8</string>
-				<string>15C077D3AB022F35751BB5C527FDDF4B</string>
-				<string>DCE9608CB88D23FB2146EBF99B2C4A44</string>
-				<string>D5FEAFD0E4715426E1056EBD22CA5822</string>
-				<string>BC54EA51EC81A810D2D09E5A6B251BCE</string>
-				<string>ED30C63052B3D56BE63D3D6E74CAE1FE</string>
-				<string>B8450EB68B3C119A6282AB973DF4CBA6</string>
-				<string>9FCCBC9DACC330D92409A2780ED3CDE4</string>
-				<string>131A6330D4F10FDF72D00873645A89E7</string>
-				<string>4CD3C4D5173A921C391DEBC70174BD03</string>
-				<string>A99C583793DA9417C36C4C5A781D8860</string>
-				<string>7168DB6490BDC558B181450D9D65F9EF</string>
-				<string>04D7261728EC9760BDD963959066FC4C</string>
-				<string>BD356A175071A8FBCF4F77CFA255F536</string>
-				<string>E449D20E8DF32D2CB98E4E63A48C82BD</string>
-				<string>B6ABC68675BD1D827FF50146B12ECDA8</string>
-				<string>741ACC7C41F85DABCDD75BB9D9B14E48</string>
-				<string>47E8868E6B3B8C1133F1F1835141FEBE</string>
-				<string>F70BACF7B222257E1D51250BCABA2E33</string>
-				<string>9EE896659DCEB890A029DD199588945B</string>
-				<string>FD6A120E6370AEA901F7ACD941360A3F</string>
-				<string>AA9661D0FB118947D5A13E8227D2CBC4</string>
-				<string>F7DEBD0848BFDF230E601336CD941322</string>
-				<string>4982B40C758178AC13D8C8D0341C12EA</string>
-				<string>6C2EA71720189DCBD05C9A3A4FDE923E</string>
-				<string>F4CD44A962CB03CB4636BA7B5D5C57E2</string>
-				<string>206B63B381454A8E97057FD9944F5F43</string>
-				<string>9A7C1AEDFA82553219EC44878459421F</string>
-				<string>5829401F914988E3B46BC1DF7A19F91B</string>
-				<string>F6B16BAE62252DB77322A899728F15B0</string>
-				<string>0CA6A2FD4DE92014CC77BDCE7B66AAD5</string>
-				<string>7C85623C1A890BE2A5A9528772153526</string>
-				<string>ECC8F7EFBADEB435ADD90C0B7323F966</string>
-				<string>33ED766023A94248A4644EBAD35F3168</string>
-				<string>76D652BDF8BB3DCC8193DF0700507C2B</string>
-				<string>A3CE8954685834DA2E5BFDBDFF2C3940</string>
-				<string>F65CBEC95F02D2369E33177B4520684F</string>
-				<string>C657672D49D38B1CC52550B1F95E14F8</string>
-				<string>71151759D1229FB877B6511D1FDAAC72</string>
-				<string>129313BA3E8B09918E4AAE696956FAF1</string>
-				<string>C9B263EF348F573BA514837B02C2EF55</string>
-				<string>DF6A16290FEB17627B850EAACE384C3C</string>
-				<string>8BF0BE2AA8B79A71D7FCF639A49B35E8</string>
-				<string>828F45FC530EBF6A6BFE7854B70712E3</string>
-				<string>C86F334ECE020B18861061E4515F097D</string>
-				<string>3AC1B3C9BCEF47E2A8A7BD8DEDEC994F</string>
-				<string>4B7D0C9760B1632AB0ABDC5EEE2D800E</string>
-				<string>242F71C241F1BF223CAD27F64E471B2E</string>
-				<string>DA8B71238F49B26D277B3D4951B950CF</string>
-				<string>EF9C6AC27C7628748E87889F14FF764F</string>
-				<string>55AE8C8D00F67B4C293900487053D9C5</string>
-				<string>D6F50DE36C5CA56E57406B983B714BCE</string>
-				<string>6C41D6A8C2EE8A81B44A66B83D70F870</string>
-				<string>BD87D1E75AE69CA6722D400EFAAC1554</string>
-				<string>87E654A2D917A9A65203AF43A26478FE</string>
-				<string>EBCCF38B221AD1D91A160645C7C0E116</string>
-				<string>2B51760CD15EFD86A2240D7AA0609A37</string>
-				<string>4001F7B110DA7A31C18FD16E58ECEAE8</string>
-				<string>9620A76DD4072C6F15DF5D2BCE0C2FB0</string>
-				<string>714336EA73531A86BDB060C3C30E6FEB</string>
-				<string>96C50772D73A9F2105F075258369B08D</string>
-				<string>94EA2843C7D83D7819161D03DC0D2B71</string>
-				<string>640F07850FF05A1A9D89350BB809E278</string>
-				<string>30FB03C3FDEDCF4E384BF3F4EFB49F6F</string>
-				<string>57B246D62CC3E4D1F1B7E17F15B57AE0</string>
-				<string>CDC3FD52910938AE74CD46A6C9D95C5B</string>
-				<string>F824B65F95433E688ABF0C209DB69C93</string>
-				<string>5EC49240854D41B9D7DA31D30839D6F1</string>
-				<string>C39AB92BA6F6024654F01390C86CF5A4</string>
-				<string>22C69356F5B2F7FD865B9C13E9E9E558</string>
-				<string>1D51574D9C7FF33F1A1D538F7649CA43</string>
-				<string>E6CFD725FE542F66610279FCC8B4B666</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>XlsxReaderWriter</string>
-			<key>path</key>
-			<string>XlsxReaderWriter</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>98F669BCB6AEE9F6BCE0AC25E0FEDB43</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C39AB92BA6F6024654F01390C86CF5A4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>996F0028467BC3F330E1AA1AB22767E8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRACellFill.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9A7C1AEDFA82553219EC44878459421F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAOfficeDocument.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9B7586FD11D288FCB455A0B9C99DE648</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ioapi.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9D44412B571A00B44FE6617564A49C11</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>90FB5306EC68108F42624F8BC7EDE42C</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>9EE896659DCEB890A029DD199588945B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAElementWithRelationships.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9FCCBC9DACC330D92409A2780ED3CDE4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAComment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A1CA793C64433E6D66D65D8C6C76DCD3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>zip.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A3697818623AE9C35F1079D6F588A1E8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRACalcChainCell.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A3CE8954685834DA2E5BFDBDFF2C3940</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAPlatformSpecificDefines.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A3E7622CC50F226197E5FDA60AF69C96</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A4ADF7BDDEDEF4AC3D05A166A551512D</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>36B634E683108EDB041A1B7A31FDD22F</string>
-				<string>66E65708C99C35AD42441067B7E6BC97</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>A75B55BD84C6BAC735C2E1A73E278E4C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0CA6A2FD4DE92014CC77BDCE7B66AAD5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A84C48C201225E9CFC7C09DC0DBDF8BD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>22C69356F5B2F7FD865B9C13E9E9E558</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>A91C13E11EC3A29D84A08D0B8357233E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ECC8F7EFBADEB435ADD90C0B7323F966</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A9669A9D4154D45D44ECCBA3F72FA62A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>09DE6CC04A22B1E4B20B0E3C4F5EE187</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>A99C583793DA9417C36C4C5A781D8860</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAComments.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AA9661D0FB118947D5A13E8227D2CBC4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAImage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AB2CC230B040D4D1DD52E28DCFB919BD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>947D6A2635B7F3E0032C841D9FEBF9A2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>ABF5B16BD241B335DFEBF0DD8865918C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>unzip.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AEC961E201E3DCEA32D65AC3016C918F</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>B49062A3AFD40C37485AA98A291550BB</string>
-				<string>2C482E19BA1E95DD38FFF75B66E8EFFA</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>AF18CD2684643E705090853F64A24CA9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>XMLDictionary.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B37F0F91F85060E28F1DAAB522DC7EC1</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_SYMBOLS_PRIVATE_EXTERN</key>
-				<string>NO</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>STRIP_INSTALLED_PRODUCT</key>
-				<string>NO</string>
-				<key>SYMROOT</key>
-				<string>${SRCROOT}/../build</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>B49062A3AFD40C37485AA98A291550BB</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>F15BAA5D93B881F2DAB175736EE74652</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/LwExcelParseTools/LwExcelParseTools-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/LwExcelParseTools/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/LwExcelParseTools/LwExcelParseTools.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>LwExcelParseTools</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>B6ABC68675BD1D827FF50146B12ECDA8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAContentTypesOverride.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B798FD5BB543F34BC645401B2433A799</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>LwExcelParseTools</string>
-			<key>target</key>
-			<string>91825F6A16092C564F184C9F1E8692F2</string>
-			<key>targetProxy</key>
-			<string>79BAE3E7C06C87E1F25ECC1616899FE8</string>
-		</dict>
-		<key>B8450EB68B3C119A6282AB973DF4CBA6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAColumn.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>name</key>
-			<string>Podfile</string>
-			<key>path</key>
-			<string>../Podfile</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-			<key>xcLanguageSpecificationIdentifier</key>
-			<string>xcode.lang.ruby</string>
-		</dict>
-		<key>BB547F756DCCB58F6F914E3D7769B993</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ABF5B16BD241B335DFEBF0DD8865918C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BC3CA7F9E30CC8F7E2DD044DD34432FC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>BF6342C8B29F4CEEA088EFF7AB4DE362</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BC54EA51EC81A810D2D09E5A6B251BCE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRACellRange.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BD356A175071A8FBCF4F77CFA255F536</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAContentTypesDefaultExtension.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BD5ECE3EF54A0A58B646FFC240E32DB7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>33ED766023A94248A4644EBAD35F3168</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>BD81089A729022EA25681771E365598F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>SSZipArchive.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BD87D1E75AE69CA6722D400EFAAC1554</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAVmlDrawing.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BF6342C8B29F4CEEA088EFF7AB4DE362</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>3E4E89230EF59BC255123B67864ACF77</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>iOS</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C039AF4118BEBE08136C83953BD3BE93</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DA8B71238F49B26D277B3D4951B950CF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C271B3E16C5CBF2F32E13C866C549E06</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5D91E4136723E06029CD4EDFD5E1F599</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C39AB92BA6F6024654F01390C86CF5A4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>NSDictionary+OpenXMLDictionaryParser.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C469845D9B60068B9F134B932A8A3C9F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D067781498EF75A0893DFE812043E83C</string>
-				<string>226D127B7B990F742E44F8F59B302720</string>
-				<string>5335D5628BDA5B909DF201627DCE0033</string>
-				<string>611FD119943B41A9D174F6D344A2B452</string>
-				<string>F5A863A7846385FD4658E3AC174A5ED9</string>
-				<string>76AED990FFC99193266EE5A662651429</string>
-				<string>DD85FE830F8338E410DEA49134352FD4</string>
-				<string>947D6A2635B7F3E0032C841D9FEBF9A2</string>
-				<string>A3E7622CC50F226197E5FDA60AF69C96</string>
-				<string>94B7ED98BDC29B6E6535A79A716DF57E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods-LwExcelParseTools</string>
-			<key>path</key>
-			<string>Target Support Files/Pods-LwExcelParseTools</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C58E8BE3C8509E613DCD23E158924F23</key>
-		<dict>
-			<key>fileRef</key>
-			<string>242F71C241F1BF223CAD27F64E471B2E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C5F27F4BBA07A4C0635FEA90D965089D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EBCCF38B221AD1D91A160645C7C0E116</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C657672D49D38B1CC52550B1F95E14F8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRARelationship.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C6B500124A8B304A75B7A49CF4BDA093</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B8450EB68B3C119A6282AB973DF4CBA6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C6EED23A3A3AF958897F38AD25327A94</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F6B16BAE62252DB77322A899728F15B0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C86F334ECE020B18861061E4515F097D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRASharedString.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C9B263EF348F573BA514837B02C2EF55</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRARelationships.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C9FE9353D5ED583C68BA335C78DAEC90</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>name</key>
-			<string>libExcelReader.a</string>
-			<key>path</key>
-			<string>ExcelParseTools/Assets/libExcelReader.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CB3FA6BE8A291471C7D3922C5D72B625</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E6CFD725FE542F66610279FCC8B4B666</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>CB4B58BEBAE0BD074C6BAE021FDF461C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FD6A120E6370AEA901F7ACD941360A3F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CBA34E077033BC65015BA546004B99F4</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0574F7241E3106BDCC2896D62F845415</string>
-				<string>948C2F4A56E5A3936004CC10E2A6F92C</string>
-				<string>F15BAA5D93B881F2DAB175736EE74652</string>
-				<string>5D91E4136723E06029CD4EDFD5E1F599</string>
-				<string>794A4C249AA7A748345028EBC0342D38</string>
-				<string>D81837BCA41C04A3CF2E14D592F065DC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>LwExcelParseTools/Pods/Target Support Files/LwExcelParseTools</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CC48421FD8F00BB36CD01A15F4DBF86D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6B0F3D27FB5ECD30CD9F15463048FC4C</string>
-				<string>52B019786C1AF9F38E6D60D662F46B5B</string>
-				<string>9B7586FD11D288FCB455A0B9C99DE648</string>
-				<string>902A24DA639BA0CCE2B53BD58413B30E</string>
-				<string>795358E315B25C089E504F40A49B28A2</string>
-				<string>ABF5B16BD241B335DFEBF0DD8865918C</string>
-				<string>784059D2A16F32B46A414AE580DDCA4E</string>
-				<string>A1CA793C64433E6D66D65D8C6C76DCD3</string>
-				<string>74BF5B330E62E2E111B27A14DA464AD8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>minizip</string>
-			<key>path</key>
-			<string>minizip</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CCB3E52D92A7EE1010A200B5E8EE4D1A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRACalcChainCell.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CD22B7A5135A6B4696343B1C157BE0F6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BD81089A729022EA25681771E365598F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CDC3FD52910938AE74CD46A6C9D95C5B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>NSDictionary+DeepCopy.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CE1024DFB731593D9EB6A60243CD3EA9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AF18CD2684643E705090853F64A24CA9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CE5FD12A1F2DA79E10F859FF2075EC01</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>LwExcelParseTools.framework</string>
-			<key>path</key>
-			<string>LwExcelParseTools.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>CEC39D2682B4BD6B66794B2ABBC61B54</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>SSZipArchive.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CFA6A83240864233B01B96ADDA9A591A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>131A6330D4F10FDF72D00873645A89E7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>CFA8C49DBA02BC3C3D04671023E38858</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E02D60A2544BA31E26583E6826633D84</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>ExcelParseTools</string>
-			<key>path</key>
-			<string>ExcelParseTools</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D067781498EF75A0893DFE812043E83C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D1E7D0A4F48A42120FAF69320A54F783</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>A4ADF7BDDEDEF4AC3D05A166A551512D</string>
-			<key>buildPhases</key>
-			<array>
-				<string>5CC79264368BC21AFC13C780B848813D</string>
-				<string>5AB59D7D475CF949EDFBA0A99110DA9B</string>
-				<string>7ADC710E36F23DAD247BFA6C53BFC4E2</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>B798FD5BB543F34BC645401B2433A799</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Pods-LwExcelParseTools</string>
-			<key>productName</key>
-			<string>Pods-LwExcelParseTools</string>
-			<key>productReference</key>
-			<string>DA448F278355EEE084089949455D2938</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>D38F33BD62C9356B86FE0AD9F2137D24</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ED30C63052B3D56BE63D3D6E74CAE1FE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>D41D8CD98F00B204E9800998ECF8427E</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastSwiftUpdateCheck</key>
-				<string>0700</string>
-				<key>LastUpgradeCheck</key>
-				<string>0700</string>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>2D8E8EC45A3A1A1D94AE762CB5028504</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-			</array>
-			<key>mainGroup</key>
-			<string>7DB346D0F39D3F0E887471402A8071AB</string>
-			<key>productRefGroup</key>
-			<string>DBBF46F37D7DB0EA482C17AE7B29338F</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>91825F6A16092C564F184C9F1E8692F2</string>
-				<string>D1E7D0A4F48A42120FAF69320A54F783</string>
-			</array>
-		</dict>
-		<key>D5FEAFD0E4715426E1056EBD22CA5822</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRACellRange.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D6F4D10F9DB34043AB00C2BFEFB3AAA7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2B51760CD15EFD86A2240D7AA0609A37</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>D6F50DE36C5CA56E57406B983B714BCE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRATheme.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D81837BCA41C04A3CF2E14D592F065DC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>LwExcelParseTools-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D9BB9F785A424FD7206FED49B4225CF7</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>2C5E1E336C9B0CAAD495B461E1254117</string>
-				<string>3BC21F8B098CEF6809F30BDC209190AF</string>
-				<string>A9669A9D4154D45D44ECCBA3F72FA62A</string>
-				<string>EEC2FC08FC33BAF8908C2BF5B2E020A1</string>
-				<string>836D6F0B6191384218CDA35242F7E798</string>
-				<string>153C0F56FB847AB7166ACBC90EAC7ACD</string>
-				<string>D38F33BD62C9356B86FE0AD9F2137D24</string>
-				<string>8D4F318C23B66B13E672189C47198614</string>
-				<string>706EC546E46B490F78BC19747F79633E</string>
-				<string>5ED57628EF74BE93BD7F55FBA52255F0</string>
-				<string>F153061E76538E0D157DD92F29F518D1</string>
-				<string>1F3E462C34161DC549BA459B22C97C79</string>
-				<string>48538FD5CA176F4CD7E902CC0282B3F3</string>
-				<string>922322A4AFE054BF31A7FE3BFAE34B7B</string>
-				<string>1F1BEF92B352F47BE1E8909634B20914</string>
-				<string>90C94152E2A0CC8F59CD303692E251AB</string>
-				<string>46AC3062DB385CCF20E30F627544ED80</string>
-				<string>494CF35E65C3EB6FCDF1C01FF736F1E5</string>
-				<string>C6EED23A3A3AF958897F38AD25327A94</string>
-				<string>37271BF6A82B86B20206DBFCBF6666F6</string>
-				<string>BD5ECE3EF54A0A58B646FFC240E32DB7</string>
-				<string>091B9998047D730742DB27087391D3D7</string>
-				<string>02AB39A39D44DD83E2A7F215A5997885</string>
-				<string>908D2A9B00906DDEDE2CD9E36710E484</string>
-				<string>754B75D20FB9AF4DFD117986399CE40F</string>
-				<string>8D2F3E3954F77184AD7FD9E83CD22522</string>
-				<string>2A525D84033BFAD1E8607BDB70F7FE1C</string>
-				<string>1F73D023C892CED9EE6A9A5939E8BD1D</string>
-				<string>C58E8BE3C8509E613DCD23E158924F23</string>
-				<string>1460659BC3A344A0214E1A699A6824DB</string>
-				<string>DA39BB1D89F2BE304EF99CB4F6110B1F</string>
-				<string>47E638A58FB7748A670534042335D69B</string>
-				<string>C5F27F4BBA07A4C0635FEA90D965089D</string>
-				<string>1AA616C617E53FF46997C7420FD11B82</string>
-				<string>889652F16176DBFB576B0165EE3DDDC4</string>
-				<string>7571A660598FEDCDACFFCD9484DF0D53</string>
-				<string>EFC94C26BE080B22DA217575F4725781</string>
-				<string>E0099E17D40785949D39DE82F00A2378</string>
-				<string>90F82D6EF51E274B03C14201C072832C</string>
-				<string>E5BBDBD86A379C4EAF0454BAB833F36C</string>
-				<string>22B4EAEDF308081625ABDC2168CFB294</string>
-				<string>79A71E566FF1DF199D3278C80246221C</string>
-				<string>2204B9CBF450B3F2A027383A3D5AB2BF</string>
-				<string>381DB67F4C7DA270AC005F2E5476DFAE</string>
-				<string>8F1B2BC35135C18538933978E5661F8A</string>
-				<string>3DE15C81594AE172A455A9EC3857385F</string>
-				<string>A84C48C201225E9CFC7C09DC0DBDF8BD</string>
-				<string>E7E3F94EC59D033BD541C8708FDB4D3D</string>
-				<string>2C0EE146BD5CE0A994668D0A564266D2</string>
-				<string>CB3FA6BE8A291471C7D3922C5D72B625</string>
-				<string>4E75C21695E3B423C8A1D66FB97E2075</string>
-				<string>61A456CE5E88411B9D23DCB5B4EBC8D6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>DA39BB1D89F2BE304EF99CB4F6110B1F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D6F50DE36C5CA56E57406B983B714BCE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>DA448F278355EEE084089949455D2938</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_LwExcelParseTools.framework</string>
-			<key>path</key>
-			<string>Pods_LwExcelParseTools.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>DA8B71238F49B26D277B3D4951B950CF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRASheet.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DB01EAA578A315AC25E59C642EE835C4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>96C50772D73A9F2105F075258369B08D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DBBF46F37D7DB0EA482C17AE7B29338F</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>CE5FD12A1F2DA79E10F859FF2075EC01</string>
-				<string>DA448F278355EEE084089949455D2938</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DCE9608CB88D23FB2146EBF99B2C4A44</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRACellFormat.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DD6EF17877C8D99B7E343E5050DA7558</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>071F77A535000727A31C34EA502EFB04</string>
-				<string>AF18CD2684643E705090853F64A24CA9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>XMLDictionary</string>
-			<key>path</key>
-			<string>XMLDictionary</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DD85FE830F8338E410DEA49134352FD4</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.script.sh</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools-resources.sh</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DF6A16290FEB17627B850EAACE384C3C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRARow.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E0099E17D40785949D39DE82F00A2378</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9B7586FD11D288FCB455A0B9C99DE648</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E02D60A2544BA31E26583E6826633D84</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>4D519E20D9725B36E3ABBB846C1ACF9C</string>
-				<string>264EEED7A4A1C25AE305BA4E7ED48AEE</string>
-				<string>54A619A8748271CAEC2023798094C246</string>
-				<string>78A2F5E619500A11B754F6B499CB8EB7</string>
-				<string>98CF720F3685A1BD973F85D4033AB8AE</string>
-				<string>DD6EF17877C8D99B7E343E5050DA7558</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E449D20E8DF32D2CB98E4E63A48C82BD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAContentTypesDefaultExtension.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E476686A348595232A6B61E5076B101B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9620A76DD4072C6F15DF5D2BCE0C2FB0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E5BBDBD86A379C4EAF0454BAB833F36C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4D519E20D9725B36E3ABBB846C1ACF9C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E6CFD725FE542F66610279FCC8B4B666</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>XlsxReaderWriter-swift-bridge.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E7E3F94EC59D033BD541C8708FDB4D3D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CEC39D2682B4BD6B66794B2ABBC61B54</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E8D892475488B37363B36C86372E1465</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5829401F914988E3B46BC1DF7A19F91B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>EBCCF38B221AD1D91A160645C7C0E116</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAWorksheet.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ECC8F7EFBADEB435ADD90C0B7323F966</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAOpenXmlElement.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ED30C63052B3D56BE63D3D6E74CAE1FE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAColumn.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EEC2FC08FC33BAF8908C2BF5B2E020A1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4EC30A49A0AA45E394B8D5995667E15C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>EF9C6AC27C7628748E87889F14FF764F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAStyles.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>EFC94C26BE080B22DA217575F4725781</key>
-		<dict>
-			<key>fileRef</key>
-			<string>825EAD5BD92AF32B5B208A159717B37C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F03142482902EE1AA856159C6D018317</key>
-		<dict>
-			<key>fileRef</key>
-			<string>996F0028467BC3F330E1AA1AB22767E8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F0F68F274AF60833E60C8D534807348E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A3697818623AE9C35F1079D6F588A1E8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F153061E76538E0D157DD92F29F518D1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BD356A175071A8FBCF4F77CFA255F536</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F15BAA5D93B881F2DAB175736EE74652</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>LwExcelParseTools.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F4CD44A962CB03CB4636BA7B5D5C57E2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRANumberFormat.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F5A863A7846385FD4658E3AC174A5ED9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>Pods-LwExcelParseTools-dummy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F65CBEC95F02D2369E33177B4520684F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRARelatedToColumnAndRowProtocol.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F6B16BAE62252DB77322A899728F15B0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>BRAOfficeDocumentPackage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F6D37DE45ACF5D0DC22862FC9F054996</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C86F334ECE020B18861061E4515F097D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F70BACF7B222257E1D51250BCABA2E33</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRADrawing.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F7DEBD0848BFDF230E601336CD941322</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAImage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F7E9C28B5D3EF6E7A8EF0156A46C39FC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>DHcell.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F824B65F95433E688ABF0C209DB69C93</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>NSDictionary+DeepCopy.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FAE1B32B4929325D0A0167F3B287469E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>87E654A2D917A9A65203AF43A26478FE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FD6A120E6370AEA901F7ACD941360A3F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>BRAElementWithRelationships.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FF950B77847EC6FD7107E48E9C4CE354</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6C2EA71720189DCBD05C9A3A4FDE923E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>D41D8CD98F00B204E9800998ECF8427E</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		02AB39A39D44DD83E2A7F215A5997885 /* BRARelatedToColumnAndRowProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = F65CBEC95F02D2369E33177B4520684F /* BRARelatedToColumnAndRowProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		03DDCD8DB27EE7CEDA6ED100A8F0BC98 /* BRAContentTypes.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D7261728EC9760BDD963959066FC4C /* BRAContentTypes.m */; };
+		06BFA15482CA4D772C5A0604625232DD /* NSDictionary+DeepCopy.m in Sources */ = {isa = PBXBuildFile; fileRef = F824B65F95433E688ABF0C209DB69C93 /* NSDictionary+DeepCopy.m */; };
+		091B9998047D730742DB27087391D3D7 /* BRAPlatformSpecificDefines.h in Headers */ = {isa = PBXBuildFile; fileRef = A3CE8954685834DA2E5BFDBDFF2C3940 /* BRAPlatformSpecificDefines.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0B281F2CCF2CE23C49F21312A80C3270 /* BRAImage.m in Sources */ = {isa = PBXBuildFile; fileRef = F7DEBD0848BFDF230E601336CD941322 /* BRAImage.m */; };
+		0E5B9EBFBF7B4E6D43887A13E29968F0 /* BRACell.m in Sources */ = {isa = PBXBuildFile; fileRef = 253A979319868EB1AD51212DAE77ECE6 /* BRACell.m */; };
+		0EB7017BED28DAB4E12185C94F58D332 /* BRANumberFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = 206B63B381454A8E97057FD9944F5F43 /* BRANumberFormat.m */; };
+		105EE985BCAEDF1B9794AF7033D34C8F /* LwExcelParseTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 264EEED7A4A1C25AE305BA4E7ED48AEE /* LwExcelParseTools.m */; };
+		11EBDA5CC15308CDE6CEF0B3F11E0DB5 /* BRAContentTypesOverride.m in Sources */ = {isa = PBXBuildFile; fileRef = 741ACC7C41F85DABCDD75BB9D9B14E48 /* BRAContentTypesOverride.m */; };
+		1460659BC3A344A0214E1A699A6824DB /* BRAStyles.h in Headers */ = {isa = PBXBuildFile; fileRef = EF9C6AC27C7628748E87889F14FF764F /* BRAStyles.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		153C0F56FB847AB7166ACBC90EAC7ACD /* BRACellRange.h in Headers */ = {isa = PBXBuildFile; fileRef = D5FEAFD0E4715426E1056EBD22CA5822 /* BRACellRange.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1AA616C617E53FF46997C7420FD11B82 /* BRAWorksheetDrawing.h in Headers */ = {isa = PBXBuildFile; fileRef = 4001F7B110DA7A31C18FD16E58ECEAE8 /* BRAWorksheetDrawing.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1AF2D284E7C2BFAEC3E2BF056F4F87FD /* BRACellFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = DCE9608CB88D23FB2146EBF99B2C4A44 /* BRACellFormat.m */; };
+		1F1BEF92B352F47BE1E8909634B20914 /* BRAImage.h in Headers */ = {isa = PBXBuildFile; fileRef = AA9661D0FB118947D5A13E8227D2CBC4 /* BRAImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1F3E462C34161DC549BA459B22C97C79 /* BRAContentTypesOverride.h in Headers */ = {isa = PBXBuildFile; fileRef = B6ABC68675BD1D827FF50146B12ECDA8 /* BRAContentTypesOverride.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1F73D023C892CED9EE6A9A5939E8BD1D /* BRASharedStrings.h in Headers */ = {isa = PBXBuildFile; fileRef = 3AC1B3C9BCEF47E2A8A7BD8DEDEC994F /* BRASharedStrings.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2204B9CBF450B3F2A027383A3D5AB2BF /* NativeColor+OpenXML.h in Headers */ = {isa = PBXBuildFile; fileRef = 94EA2843C7D83D7819161D03DC0D2B71 /* NativeColor+OpenXML.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		22B4EAEDF308081625ABDC2168CFB294 /* mztools.h in Headers */ = {isa = PBXBuildFile; fileRef = 795358E315B25C089E504F40A49B28A2 /* mztools.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		28EC6E25A3651D0391DED5CA1458E2A0 /* BRACellRange.m in Sources */ = {isa = PBXBuildFile; fileRef = BC54EA51EC81A810D2D09E5A6B251BCE /* BRACellRange.m */; };
+		2A525D84033BFAD1E8607BDB70F7FE1C /* BRASharedString.h in Headers */ = {isa = PBXBuildFile; fileRef = 828F45FC530EBF6A6BFE7854B70712E3 /* BRASharedString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2C0EE146BD5CE0A994668D0A564266D2 /* unzip.h in Headers */ = {isa = PBXBuildFile; fileRef = 784059D2A16F32B46A414AE580DDCA4E /* unzip.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2C5E1E336C9B0CAAD495B461E1254117 /* BRACalcChain.h in Headers */ = {isa = PBXBuildFile; fileRef = 95CC1D12923E06F2E0BDB03DF522231C /* BRACalcChain.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2EEA01A13AF50943A7064B50312AF85E /* BRARelationship.m in Sources */ = {isa = PBXBuildFile; fileRef = 71151759D1229FB877B6511D1FDAAC72 /* BRARelationship.m */; };
+		336D7673B55237FF469CECC6AB2CA9CF /* BRADrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = F70BACF7B222257E1D51250BCABA2E33 /* BRADrawing.m */; };
+		341875BA9ACC6081B1C31EE9EAB9149B /* Pods-LwExcelParseTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F5A863A7846385FD4658E3AC174A5ED9 /* Pods-LwExcelParseTools-dummy.m */; };
+		36E7A183C63E88A5B170F9499015A456 /* NativeFont+BoldItalic.m in Sources */ = {isa = PBXBuildFile; fileRef = 57B246D62CC3E4D1F1B7E17F15B57AE0 /* NativeFont+BoldItalic.m */; };
+		37271BF6A82B86B20206DBFCBF6666F6 /* BRAOpenXmlElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C85623C1A890BE2A5A9528772153526 /* BRAOpenXmlElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		381DB67F4C7DA270AC005F2E5476DFAE /* NativeFont+BoldItalic.h in Headers */ = {isa = PBXBuildFile; fileRef = 30FB03C3FDEDCF4E384BF3F4EFB49F6F /* NativeFont+BoldItalic.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3843037D3041345860137FBF926A1D14 /* BRARelationships.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B263EF348F573BA514837B02C2EF55 /* BRARelationships.m */; };
+		3B2032C73A384D167AEB16C2E737EFD8 /* BRARow.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BF0BE2AA8B79A71D7FCF639A49B35E8 /* BRARow.m */; };
+		3BC21F8B098CEF6809F30BDC209190AF /* BRACalcChainCell.h in Headers */ = {isa = PBXBuildFile; fileRef = CCB3E52D92A7EE1010A200B5E8EE4D1A /* BRACalcChainCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3C23F842E38DE83ED54157BB4473D3DD /* BRAOpenXmlSubElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 76D652BDF8BB3DCC8193DF0700507C2B /* BRAOpenXmlSubElement.m */; };
+		3D4630F82ADA6CE607F52DEBD598D359 /* BRAStyles.m in Sources */ = {isa = PBXBuildFile; fileRef = 55AE8C8D00F67B4C293900487053D9C5 /* BRAStyles.m */; };
+		3DE15C81594AE172A455A9EC3857385F /* NSDictionary+OpenXMLDictionaryParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EC49240854D41B9D7DA31D30839D6F1 /* NSDictionary+OpenXMLDictionaryParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4120BAB19D8CA5C60CA00248ED8D15B9 /* BRACalcChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CF47206CADD0BCBA8D7B86684F529BB /* BRACalcChain.m */; };
+		46AC3062DB385CCF20E30F627544ED80 /* BRANumberFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = F4CD44A962CB03CB4636BA7B5D5C57E2 /* BRANumberFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		47E638A58FB7748A670534042335D69B /* BRAVmlDrawing.h in Headers */ = {isa = PBXBuildFile; fileRef = BD87D1E75AE69CA6722D400EFAAC1554 /* BRAVmlDrawing.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		48538FD5CA176F4CD7E902CC0282B3F3 /* BRADrawing.h in Headers */ = {isa = PBXBuildFile; fileRef = 47E8868E6B3B8C1133F1F1835141FEBE /* BRADrawing.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		494CF35E65C3EB6FCDF1C01FF736F1E5 /* BRAOfficeDocument.h in Headers */ = {isa = PBXBuildFile; fileRef = 9A7C1AEDFA82553219EC44878459421F /* BRAOfficeDocument.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4E75C21695E3B423C8A1D66FB97E2075 /* XMLDictionary.h in Headers */ = {isa = PBXBuildFile; fileRef = 071F77A535000727A31C34EA502EFB04 /* XMLDictionary.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4F9560D6A52335BFE8147229113691D6 /* zip.c in Sources */ = {isa = PBXBuildFile; fileRef = A1CA793C64433E6D66D65D8C6C76DCD3 /* zip.c */; };
+		5C40271292B3F5A00B98CCA1CE011453 /* BRAComments.m in Sources */ = {isa = PBXBuildFile; fileRef = A99C583793DA9417C36C4C5A781D8860 /* BRAComments.m */; };
+		5ED57628EF74BE93BD7F55FBA52255F0 /* BRAContentTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = 7168DB6490BDC558B181450D9D65F9EF /* BRAContentTypes.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		61A456CE5E88411B9D23DCB5B4EBC8D6 /* zip.h in Headers */ = {isa = PBXBuildFile; fileRef = 74BF5B330E62E2E111B27A14DA464AD8 /* zip.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		62B61A71B78A93CEC298D97B89632F19 /* BRATheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C41D6A8C2EE8A81B44A66B83D70F870 /* BRATheme.m */; };
+		6B8F4D82A25A2DBDC8FF4FC636E1D529 /* BRASharedStrings.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D0C9760B1632AB0ABDC5EEE2D800E /* BRASharedStrings.m */; };
+		6DD282AC9D0A8F403701A8029806B43D /* BRAContentTypesDefaultExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = E449D20E8DF32D2CB98E4E63A48C82BD /* BRAContentTypesDefaultExtension.m */; };
+		706EC546E46B490F78BC19747F79633E /* BRAComments.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CD3C4D5173A921C391DEBC70174BD03 /* BRAComments.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		754B75D20FB9AF4DFD117986399CE40F /* BRARelationships.h in Headers */ = {isa = PBXBuildFile; fileRef = 129313BA3E8B09918E4AAE696956FAF1 /* BRARelationships.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7571A660598FEDCDACFFCD9484DF0D53 /* DHcell.h in Headers */ = {isa = PBXBuildFile; fileRef = F7E9C28B5D3EF6E7A8EF0156A46C39FC /* DHcell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		79A71E566FF1DF199D3278C80246221C /* NativeColor+HTML.h in Headers */ = {isa = PBXBuildFile; fileRef = 714336EA73531A86BDB060C3C30E6FEB /* NativeColor+HTML.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7E98BA5A71345B9351926C226215527E /* NSDictionary+OpenXmlString.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D51574D9C7FF33F1A1D538F7649CA43 /* NSDictionary+OpenXmlString.m */; };
+		836D6F0B6191384218CDA35242F7E798 /* BRACellFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = 15C077D3AB022F35751BB5C527FDDF4B /* BRACellFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		889652F16176DBFB576B0165EE3DDDC4 /* crypt.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B0F3D27FB5ECD30CD9F15463048FC4C /* crypt.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D2F3E3954F77184AD7FD9E83CD22522 /* BRARow.h in Headers */ = {isa = PBXBuildFile; fileRef = DF6A16290FEB17627B850EAACE384C3C /* BRARow.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D4F318C23B66B13E672189C47198614 /* BRAComment.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FCCBC9DACC330D92409A2780ED3CDE4 /* BRAComment.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8E241A887218E23B81D9D5845BDC6822 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		8F1B2BC35135C18538933978E5661F8A /* NSDictionary+DeepCopy.h in Headers */ = {isa = PBXBuildFile; fileRef = CDC3FD52910938AE74CD46A6C9D95C5B /* NSDictionary+DeepCopy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		908D2A9B00906DDEDE2CD9E36710E484 /* BRARelationship.h in Headers */ = {isa = PBXBuildFile; fileRef = C657672D49D38B1CC52550B1F95E14F8 /* BRARelationship.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		90C94152E2A0CC8F59CD303692E251AB /* BRAMergeCell.h in Headers */ = {isa = PBXBuildFile; fileRef = 4982B40C758178AC13D8C8D0341C12EA /* BRAMergeCell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		90F82D6EF51E274B03C14201C072832C /* LwExcelParseTools-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D81837BCA41C04A3CF2E14D592F065DC /* LwExcelParseTools-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		90FB5306EC68108F42624F8BC7EDE42C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		9156F31CB07BFA9CD3F8CA0EF74E37B2 /* mztools.c in Sources */ = {isa = PBXBuildFile; fileRef = 902A24DA639BA0CCE2B53BD58413B30E /* mztools.c */; };
+		922322A4AFE054BF31A7FE3BFAE34B7B /* BRAElementWithRelationships.h in Headers */ = {isa = PBXBuildFile; fileRef = 9EE896659DCEB890A029DD199588945B /* BRAElementWithRelationships.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		944A17ABC63B38D166DEE0D7C655D072 /* NativeColor+OpenXML.m in Sources */ = {isa = PBXBuildFile; fileRef = 640F07850FF05A1A9D89350BB809E278 /* NativeColor+OpenXML.m */; };
+		9595C3DEE7A64BF0CE7483FEBB9489D1 /* ioapi.c in Sources */ = {isa = PBXBuildFile; fileRef = 52B019786C1AF9F38E6D60D662F46B5B /* ioapi.c */; };
+		98F669BCB6AEE9F6BCE0AC25E0FEDB43 /* NSDictionary+OpenXMLDictionaryParser.m in Sources */ = {isa = PBXBuildFile; fileRef = C39AB92BA6F6024654F01390C86CF5A4 /* NSDictionary+OpenXMLDictionaryParser.m */; };
+		A75B55BD84C6BAC735C2E1A73E278E4C /* BRAOfficeDocumentPackage.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CA6A2FD4DE92014CC77BDCE7B66AAD5 /* BRAOfficeDocumentPackage.m */; };
+		A84C48C201225E9CFC7C09DC0DBDF8BD /* NSDictionary+OpenXmlString.h in Headers */ = {isa = PBXBuildFile; fileRef = 22C69356F5B2F7FD865B9C13E9E9E558 /* NSDictionary+OpenXmlString.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A91C13E11EC3A29D84A08D0B8357233E /* BRAOpenXmlElement.m in Sources */ = {isa = PBXBuildFile; fileRef = ECC8F7EFBADEB435ADD90C0B7323F966 /* BRAOpenXmlElement.m */; };
+		A9669A9D4154D45D44ECCBA3F72FA62A /* BRACell.h in Headers */ = {isa = PBXBuildFile; fileRef = 09DE6CC04A22B1E4B20B0E3C4F5EE187 /* BRACell.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AB2CC230B040D4D1DD52E28DCFB919BD /* Pods-LwExcelParseTools-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 947D6A2635B7F3E0032C841D9FEBF9A2 /* Pods-LwExcelParseTools-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BB547F756DCCB58F6F914E3D7769B993 /* unzip.c in Sources */ = {isa = PBXBuildFile; fileRef = ABF5B16BD241B335DFEBF0DD8865918C /* unzip.c */; };
+		BD5ECE3EF54A0A58B646FFC240E32DB7 /* BRAOpenXmlSubElement.h in Headers */ = {isa = PBXBuildFile; fileRef = 33ED766023A94248A4644EBAD35F3168 /* BRAOpenXmlSubElement.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C039AF4118BEBE08136C83953BD3BE93 /* BRASheet.m in Sources */ = {isa = PBXBuildFile; fileRef = DA8B71238F49B26D277B3D4951B950CF /* BRASheet.m */; };
+		C271B3E16C5CBF2F32E13C866C549E06 /* LwExcelParseTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D91E4136723E06029CD4EDFD5E1F599 /* LwExcelParseTools-dummy.m */; };
+		C58E8BE3C8509E613DCD23E158924F23 /* BRASheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 242F71C241F1BF223CAD27F64E471B2E /* BRASheet.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C5F27F4BBA07A4C0635FEA90D965089D /* BRAWorksheet.h in Headers */ = {isa = PBXBuildFile; fileRef = EBCCF38B221AD1D91A160645C7C0E116 /* BRAWorksheet.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C6B500124A8B304A75B7A49CF4BDA093 /* BRAColumn.m in Sources */ = {isa = PBXBuildFile; fileRef = B8450EB68B3C119A6282AB973DF4CBA6 /* BRAColumn.m */; };
+		C6EED23A3A3AF958897F38AD25327A94 /* BRAOfficeDocumentPackage.h in Headers */ = {isa = PBXBuildFile; fileRef = F6B16BAE62252DB77322A899728F15B0 /* BRAOfficeDocumentPackage.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB3FA6BE8A291471C7D3922C5D72B625 /* XlsxReaderWriter-swift-bridge.h in Headers */ = {isa = PBXBuildFile; fileRef = E6CFD725FE542F66610279FCC8B4B666 /* XlsxReaderWriter-swift-bridge.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CB4B58BEBAE0BD074C6BAE021FDF461C /* BRAElementWithRelationships.m in Sources */ = {isa = PBXBuildFile; fileRef = FD6A120E6370AEA901F7ACD941360A3F /* BRAElementWithRelationships.m */; };
+		CD22B7A5135A6B4696343B1C157BE0F6 /* SSZipArchive.m in Sources */ = {isa = PBXBuildFile; fileRef = BD81089A729022EA25681771E365598F /* SSZipArchive.m */; };
+		CE1024DFB731593D9EB6A60243CD3EA9 /* XMLDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = AF18CD2684643E705090853F64A24CA9 /* XMLDictionary.m */; };
+		CFA6A83240864233B01B96ADDA9A591A /* BRAComment.m in Sources */ = {isa = PBXBuildFile; fileRef = 131A6330D4F10FDF72D00873645A89E7 /* BRAComment.m */; };
+		D38F33BD62C9356B86FE0AD9F2137D24 /* BRAColumn.h in Headers */ = {isa = PBXBuildFile; fileRef = ED30C63052B3D56BE63D3D6E74CAE1FE /* BRAColumn.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D6F4D10F9DB34043AB00C2BFEFB3AAA7 /* BRAWorksheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B51760CD15EFD86A2240D7AA0609A37 /* BRAWorksheet.m */; };
+		DA39BB1D89F2BE304EF99CB4F6110B1F /* BRATheme.h in Headers */ = {isa = PBXBuildFile; fileRef = D6F50DE36C5CA56E57406B983B714BCE /* BRATheme.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DB01EAA578A315AC25E59C642EE835C4 /* NativeColor+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = 96C50772D73A9F2105F075258369B08D /* NativeColor+HTML.m */; };
+		E0099E17D40785949D39DE82F00A2378 /* ioapi.h in Headers */ = {isa = PBXBuildFile; fileRef = 9B7586FD11D288FCB455A0B9C99DE648 /* ioapi.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E476686A348595232A6B61E5076B101B /* BRAWorksheetDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 9620A76DD4072C6F15DF5D2BCE0C2FB0 /* BRAWorksheetDrawing.m */; };
+		E5BBDBD86A379C4EAF0454BAB833F36C /* LwExcelParseTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D519E20D9725B36E3ABBB846C1ACF9C /* LwExcelParseTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7E3F94EC59D033BD541C8708FDB4D3D /* SSZipArchive.h in Headers */ = {isa = PBXBuildFile; fileRef = CEC39D2682B4BD6B66794B2ABBC61B54 /* SSZipArchive.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E8D892475488B37363B36C86372E1465 /* BRAOfficeDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 5829401F914988E3B46BC1DF7A19F91B /* BRAOfficeDocument.m */; };
+		EEC2FC08FC33BAF8908C2BF5B2E020A1 /* BRACellFill.h in Headers */ = {isa = PBXBuildFile; fileRef = 4EC30A49A0AA45E394B8D5995667E15C /* BRACellFill.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EFC94C26BE080B22DA217575F4725781 /* DHxlsReader.h in Headers */ = {isa = PBXBuildFile; fileRef = 825EAD5BD92AF32B5B208A159717B37C /* DHxlsReader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F03142482902EE1AA856159C6D018317 /* BRACellFill.m in Sources */ = {isa = PBXBuildFile; fileRef = 996F0028467BC3F330E1AA1AB22767E8 /* BRACellFill.m */; };
+		F0F68F274AF60833E60C8D534807348E /* BRACalcChainCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A3697818623AE9C35F1079D6F588A1E8 /* BRACalcChainCell.m */; };
+		F153061E76538E0D157DD92F29F518D1 /* BRAContentTypesDefaultExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = BD356A175071A8FBCF4F77CFA255F536 /* BRAContentTypesDefaultExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6D37DE45ACF5D0DC22862FC9F054996 /* BRASharedString.m in Sources */ = {isa = PBXBuildFile; fileRef = C86F334ECE020B18861061E4515F097D /* BRASharedString.m */; };
+		FAE1B32B4929325D0A0167F3B287469E /* BRAVmlDrawing.m in Sources */ = {isa = PBXBuildFile; fileRef = 87E654A2D917A9A65203AF43A26478FE /* BRAVmlDrawing.m */; };
+		FF950B77847EC6FD7107E48E9C4CE354 /* BRAMergeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C2EA71720189DCBD05C9A3A4FDE923E /* BRAMergeCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		79BAE3E7C06C87E1F25ECC1616899FE8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 91825F6A16092C564F184C9F1E8692F2;
+			remoteInfo = LwExcelParseTools;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04D7261728EC9760BDD963959066FC4C /* BRAContentTypes.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAContentTypes.m; sourceTree = "<group>"; };
+		0574F7241E3106BDCC2896D62F845415 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		071F77A535000727A31C34EA502EFB04 /* XMLDictionary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = XMLDictionary.h; sourceTree = "<group>"; };
+		09DE6CC04A22B1E4B20B0E3C4F5EE187 /* BRACell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRACell.h; sourceTree = "<group>"; };
+		0CA6A2FD4DE92014CC77BDCE7B66AAD5 /* BRAOfficeDocumentPackage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAOfficeDocumentPackage.m; sourceTree = "<group>"; };
+		129313BA3E8B09918E4AAE696956FAF1 /* BRARelationships.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRARelationships.h; sourceTree = "<group>"; };
+		131A6330D4F10FDF72D00873645A89E7 /* BRAComment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAComment.m; sourceTree = "<group>"; };
+		15C077D3AB022F35751BB5C527FDDF4B /* BRACellFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRACellFormat.h; sourceTree = "<group>"; };
+		1CF47206CADD0BCBA8D7B86684F529BB /* BRACalcChain.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRACalcChain.m; sourceTree = "<group>"; };
+		1D51574D9C7FF33F1A1D538F7649CA43 /* NSDictionary+OpenXmlString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+OpenXmlString.m"; sourceTree = "<group>"; };
+		206B63B381454A8E97057FD9944F5F43 /* BRANumberFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRANumberFormat.m; sourceTree = "<group>"; };
+		226D127B7B990F742E44F8F59B302720 /* Pods-LwExcelParseTools.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-LwExcelParseTools.modulemap"; sourceTree = "<group>"; };
+		22C69356F5B2F7FD865B9C13E9E9E558 /* NSDictionary+OpenXmlString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+OpenXmlString.h"; sourceTree = "<group>"; };
+		242F71C241F1BF223CAD27F64E471B2E /* BRASheet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRASheet.h; sourceTree = "<group>"; };
+		253A979319868EB1AD51212DAE77ECE6 /* BRACell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRACell.m; sourceTree = "<group>"; };
+		264EEED7A4A1C25AE305BA4E7ED48AEE /* LwExcelParseTools.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LwExcelParseTools.m; sourceTree = "<group>"; };
+		2B51760CD15EFD86A2240D7AA0609A37 /* BRAWorksheet.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAWorksheet.m; sourceTree = "<group>"; };
+		30FB03C3FDEDCF4E384BF3F4EFB49F6F /* NativeFont+BoldItalic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NativeFont+BoldItalic.h"; sourceTree = "<group>"; };
+		33ED766023A94248A4644EBAD35F3168 /* BRAOpenXmlSubElement.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAOpenXmlSubElement.h; sourceTree = "<group>"; };
+		3AC1B3C9BCEF47E2A8A7BD8DEDEC994F /* BRASharedStrings.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRASharedStrings.h; sourceTree = "<group>"; };
+		3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		4001F7B110DA7A31C18FD16E58ECEAE8 /* BRAWorksheetDrawing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAWorksheetDrawing.h; sourceTree = "<group>"; };
+		47E8868E6B3B8C1133F1F1835141FEBE /* BRADrawing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRADrawing.h; sourceTree = "<group>"; };
+		4982B40C758178AC13D8C8D0341C12EA /* BRAMergeCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAMergeCell.h; sourceTree = "<group>"; };
+		4B7D0C9760B1632AB0ABDC5EEE2D800E /* BRASharedStrings.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRASharedStrings.m; sourceTree = "<group>"; };
+		4CD3C4D5173A921C391DEBC70174BD03 /* BRAComments.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAComments.h; sourceTree = "<group>"; };
+		4D519E20D9725B36E3ABBB846C1ACF9C /* LwExcelParseTools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LwExcelParseTools.h; sourceTree = "<group>"; };
+		4EC30A49A0AA45E394B8D5995667E15C /* BRACellFill.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRACellFill.h; sourceTree = "<group>"; };
+		52B019786C1AF9F38E6D60D662F46B5B /* ioapi.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = ioapi.c; sourceTree = "<group>"; };
+		5335D5628BDA5B909DF201627DCE0033 /* Pods-LwExcelParseTools-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LwExcelParseTools-acknowledgements.markdown"; sourceTree = "<group>"; };
+		55AE8C8D00F67B4C293900487053D9C5 /* BRAStyles.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAStyles.m; sourceTree = "<group>"; };
+		57B246D62CC3E4D1F1B7E17F15B57AE0 /* NativeFont+BoldItalic.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NativeFont+BoldItalic.m"; sourceTree = "<group>"; };
+		5829401F914988E3B46BC1DF7A19F91B /* BRAOfficeDocument.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAOfficeDocument.m; sourceTree = "<group>"; };
+		5D91E4136723E06029CD4EDFD5E1F599 /* LwExcelParseTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LwExcelParseTools-dummy.m"; sourceTree = "<group>"; };
+		5EC49240854D41B9D7DA31D30839D6F1 /* NSDictionary+OpenXMLDictionaryParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+OpenXMLDictionaryParser.h"; sourceTree = "<group>"; };
+		611FD119943B41A9D174F6D344A2B452 /* Pods-LwExcelParseTools-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LwExcelParseTools-acknowledgements.plist"; sourceTree = "<group>"; };
+		640F07850FF05A1A9D89350BB809E278 /* NativeColor+OpenXML.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NativeColor+OpenXML.m"; sourceTree = "<group>"; };
+		6B0F3D27FB5ECD30CD9F15463048FC4C /* crypt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypt.h; sourceTree = "<group>"; };
+		6C2EA71720189DCBD05C9A3A4FDE923E /* BRAMergeCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAMergeCell.m; sourceTree = "<group>"; };
+		6C41D6A8C2EE8A81B44A66B83D70F870 /* BRATheme.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRATheme.m; sourceTree = "<group>"; };
+		71151759D1229FB877B6511D1FDAAC72 /* BRARelationship.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRARelationship.m; sourceTree = "<group>"; };
+		714336EA73531A86BDB060C3C30E6FEB /* NativeColor+HTML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NativeColor+HTML.h"; sourceTree = "<group>"; };
+		7168DB6490BDC558B181450D9D65F9EF /* BRAContentTypes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAContentTypes.h; sourceTree = "<group>"; };
+		741ACC7C41F85DABCDD75BB9D9B14E48 /* BRAContentTypesOverride.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAContentTypesOverride.m; sourceTree = "<group>"; };
+		74BF5B330E62E2E111B27A14DA464AD8 /* zip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = zip.h; sourceTree = "<group>"; };
+		76AED990FFC99193266EE5A662651429 /* Pods-LwExcelParseTools-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LwExcelParseTools-frameworks.sh"; sourceTree = "<group>"; };
+		76D652BDF8BB3DCC8193DF0700507C2B /* BRAOpenXmlSubElement.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAOpenXmlSubElement.m; sourceTree = "<group>"; };
+		784059D2A16F32B46A414AE580DDCA4E /* unzip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = unzip.h; sourceTree = "<group>"; };
+		794A4C249AA7A748345028EBC0342D38 /* LwExcelParseTools-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LwExcelParseTools-prefix.pch"; sourceTree = "<group>"; };
+		795358E315B25C089E504F40A49B28A2 /* mztools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = mztools.h; sourceTree = "<group>"; };
+		7C85623C1A890BE2A5A9528772153526 /* BRAOpenXmlElement.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAOpenXmlElement.h; sourceTree = "<group>"; };
+		825EAD5BD92AF32B5B208A159717B37C /* DHxlsReader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DHxlsReader.h; sourceTree = "<group>"; };
+		828F45FC530EBF6A6BFE7854B70712E3 /* BRASharedString.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRASharedString.h; sourceTree = "<group>"; };
+		87E654A2D917A9A65203AF43A26478FE /* BRAVmlDrawing.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAVmlDrawing.m; sourceTree = "<group>"; };
+		8BF0BE2AA8B79A71D7FCF639A49B35E8 /* BRARow.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRARow.m; sourceTree = "<group>"; };
+		902A24DA639BA0CCE2B53BD58413B30E /* mztools.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = mztools.c; sourceTree = "<group>"; };
+		947D6A2635B7F3E0032C841D9FEBF9A2 /* Pods-LwExcelParseTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LwExcelParseTools-umbrella.h"; sourceTree = "<group>"; };
+		948C2F4A56E5A3936004CC10E2A6F92C /* LwExcelParseTools.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = LwExcelParseTools.modulemap; sourceTree = "<group>"; };
+		94B7ED98BDC29B6E6535A79A716DF57E /* Pods-LwExcelParseTools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LwExcelParseTools.release.xcconfig"; sourceTree = "<group>"; };
+		94EA2843C7D83D7819161D03DC0D2B71 /* NativeColor+OpenXML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NativeColor+OpenXML.h"; sourceTree = "<group>"; };
+		95CC1D12923E06F2E0BDB03DF522231C /* BRACalcChain.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRACalcChain.h; sourceTree = "<group>"; };
+		9620A76DD4072C6F15DF5D2BCE0C2FB0 /* BRAWorksheetDrawing.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAWorksheetDrawing.m; sourceTree = "<group>"; };
+		96C50772D73A9F2105F075258369B08D /* NativeColor+HTML.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NativeColor+HTML.m"; sourceTree = "<group>"; };
+		996F0028467BC3F330E1AA1AB22767E8 /* BRACellFill.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRACellFill.m; sourceTree = "<group>"; };
+		9A7C1AEDFA82553219EC44878459421F /* BRAOfficeDocument.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAOfficeDocument.h; sourceTree = "<group>"; };
+		9B7586FD11D288FCB455A0B9C99DE648 /* ioapi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ioapi.h; sourceTree = "<group>"; };
+		9EE896659DCEB890A029DD199588945B /* BRAElementWithRelationships.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAElementWithRelationships.h; sourceTree = "<group>"; };
+		9FCCBC9DACC330D92409A2780ED3CDE4 /* BRAComment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAComment.h; sourceTree = "<group>"; };
+		A1CA793C64433E6D66D65D8C6C76DCD3 /* zip.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = zip.c; sourceTree = "<group>"; };
+		A3697818623AE9C35F1079D6F588A1E8 /* BRACalcChainCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRACalcChainCell.m; sourceTree = "<group>"; };
+		A3CE8954685834DA2E5BFDBDFF2C3940 /* BRAPlatformSpecificDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAPlatformSpecificDefines.h; sourceTree = "<group>"; };
+		A3E7622CC50F226197E5FDA60AF69C96 /* Pods-LwExcelParseTools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LwExcelParseTools.debug.xcconfig"; sourceTree = "<group>"; };
+		A99C583793DA9417C36C4C5A781D8860 /* BRAComments.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAComments.m; sourceTree = "<group>"; };
+		AA9661D0FB118947D5A13E8227D2CBC4 /* BRAImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAImage.h; sourceTree = "<group>"; };
+		ABF5B16BD241B335DFEBF0DD8865918C /* unzip.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; path = unzip.c; sourceTree = "<group>"; };
+		AF18CD2684643E705090853F64A24CA9 /* XMLDictionary.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = XMLDictionary.m; sourceTree = "<group>"; };
+		B6ABC68675BD1D827FF50146B12ECDA8 /* BRAContentTypesOverride.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAContentTypesOverride.h; sourceTree = "<group>"; };
+		B8450EB68B3C119A6282AB973DF4CBA6 /* BRAColumn.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAColumn.m; sourceTree = "<group>"; };
+		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		BC54EA51EC81A810D2D09E5A6B251BCE /* BRACellRange.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRACellRange.m; sourceTree = "<group>"; };
+		BD356A175071A8FBCF4F77CFA255F536 /* BRAContentTypesDefaultExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAContentTypesDefaultExtension.h; sourceTree = "<group>"; };
+		BD81089A729022EA25681771E365598F /* SSZipArchive.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SSZipArchive.m; sourceTree = "<group>"; };
+		BD87D1E75AE69CA6722D400EFAAC1554 /* BRAVmlDrawing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAVmlDrawing.h; sourceTree = "<group>"; };
+		C39AB92BA6F6024654F01390C86CF5A4 /* NSDictionary+OpenXMLDictionaryParser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+OpenXMLDictionaryParser.m"; sourceTree = "<group>"; };
+		C657672D49D38B1CC52550B1F95E14F8 /* BRARelationship.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRARelationship.h; sourceTree = "<group>"; };
+		C86F334ECE020B18861061E4515F097D /* BRASharedString.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRASharedString.m; sourceTree = "<group>"; };
+		C9B263EF348F573BA514837B02C2EF55 /* BRARelationships.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRARelationships.m; sourceTree = "<group>"; };
+		C9FE9353D5ED583C68BA335C78DAEC90 /* libExcelReader.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libExcelReader.a; path = ExcelParseTools/Assets/libExcelReader.a; sourceTree = "<group>"; };
+		CCB3E52D92A7EE1010A200B5E8EE4D1A /* BRACalcChainCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRACalcChainCell.h; sourceTree = "<group>"; };
+		CDC3FD52910938AE74CD46A6C9D95C5B /* NSDictionary+DeepCopy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+DeepCopy.h"; sourceTree = "<group>"; };
+		CE5FD12A1F2DA79E10F859FF2075EC01 /* LwExcelParseTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LwExcelParseTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEC39D2682B4BD6B66794B2ABBC61B54 /* SSZipArchive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = SSZipArchive.h; sourceTree = "<group>"; };
+		D067781498EF75A0893DFE812043E83C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D5FEAFD0E4715426E1056EBD22CA5822 /* BRACellRange.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRACellRange.h; sourceTree = "<group>"; };
+		D6F50DE36C5CA56E57406B983B714BCE /* BRATheme.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRATheme.h; sourceTree = "<group>"; };
+		D81837BCA41C04A3CF2E14D592F065DC /* LwExcelParseTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LwExcelParseTools-umbrella.h"; sourceTree = "<group>"; };
+		DA448F278355EEE084089949455D2938 /* Pods_LwExcelParseTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LwExcelParseTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA8B71238F49B26D277B3D4951B950CF /* BRASheet.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRASheet.m; sourceTree = "<group>"; };
+		DCE9608CB88D23FB2146EBF99B2C4A44 /* BRACellFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRACellFormat.m; sourceTree = "<group>"; };
+		DD85FE830F8338E410DEA49134352FD4 /* Pods-LwExcelParseTools-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LwExcelParseTools-resources.sh"; sourceTree = "<group>"; };
+		DF6A16290FEB17627B850EAACE384C3C /* BRARow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRARow.h; sourceTree = "<group>"; };
+		E449D20E8DF32D2CB98E4E63A48C82BD /* BRAContentTypesDefaultExtension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAContentTypesDefaultExtension.m; sourceTree = "<group>"; };
+		E6CFD725FE542F66610279FCC8B4B666 /* XlsxReaderWriter-swift-bridge.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XlsxReaderWriter-swift-bridge.h"; sourceTree = "<group>"; };
+		EBCCF38B221AD1D91A160645C7C0E116 /* BRAWorksheet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAWorksheet.h; sourceTree = "<group>"; };
+		ECC8F7EFBADEB435ADD90C0B7323F966 /* BRAOpenXmlElement.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAOpenXmlElement.m; sourceTree = "<group>"; };
+		ED30C63052B3D56BE63D3D6E74CAE1FE /* BRAColumn.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAColumn.h; sourceTree = "<group>"; };
+		EF9C6AC27C7628748E87889F14FF764F /* BRAStyles.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAStyles.h; sourceTree = "<group>"; };
+		F15BAA5D93B881F2DAB175736EE74652 /* LwExcelParseTools.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LwExcelParseTools.xcconfig; sourceTree = "<group>"; };
+		F4CD44A962CB03CB4636BA7B5D5C57E2 /* BRANumberFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRANumberFormat.h; sourceTree = "<group>"; };
+		F5A863A7846385FD4658E3AC174A5ED9 /* Pods-LwExcelParseTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LwExcelParseTools-dummy.m"; sourceTree = "<group>"; };
+		F65CBEC95F02D2369E33177B4520684F /* BRARelatedToColumnAndRowProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRARelatedToColumnAndRowProtocol.h; sourceTree = "<group>"; };
+		F6B16BAE62252DB77322A899728F15B0 /* BRAOfficeDocumentPackage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = BRAOfficeDocumentPackage.h; sourceTree = "<group>"; };
+		F70BACF7B222257E1D51250BCABA2E33 /* BRADrawing.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRADrawing.m; sourceTree = "<group>"; };
+		F7DEBD0848BFDF230E601336CD941322 /* BRAImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAImage.m; sourceTree = "<group>"; };
+		F7E9C28B5D3EF6E7A8EF0156A46C39FC /* DHcell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DHcell.h; sourceTree = "<group>"; };
+		F824B65F95433E688ABF0C209DB69C93 /* NSDictionary+DeepCopy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+DeepCopy.m"; sourceTree = "<group>"; };
+		FD6A120E6370AEA901F7ACD941360A3F /* BRAElementWithRelationships.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = BRAElementWithRelationships.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5AB59D7D475CF949EDFBA0A99110DA9B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8E241A887218E23B81D9D5845BDC6822 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9D44412B571A00B44FE6617564A49C11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				90FB5306EC68108F42624F8BC7EDE42C /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1B561524D6D2AF1CB770EE6EEE23C3FF /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3C798F67981D5933B8B1C4909AD09B86 /* LwExcelParseTools */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		1E2B863FB53379437FF4A19624B8C9CD /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				C469845D9B60068B9F134B932A8A3C9F /* Pods-LwExcelParseTools */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		3C798F67981D5933B8B1C4909AD09B86 /* LwExcelParseTools */ = {
+			isa = PBXGroup;
+			children = (
+				CFA8C49DBA02BC3C3D04671023E38858 /* ExcelParseTools */,
+				911E44859807826340FF4D3132CF1C2A /* Frameworks */,
+				CBA34E077033BC65015BA546004B99F4 /* Support Files */,
+			);
+			name = LwExcelParseTools;
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		54A619A8748271CAEC2023798094C246 /* DHxlsReader */ = {
+			isa = PBXGroup;
+			children = (
+				F7E9C28B5D3EF6E7A8EF0156A46C39FC /* DHcell.h */,
+				825EAD5BD92AF32B5B208A159717B37C /* DHxlsReader.h */,
+			);
+			path = DHxlsReader;
+			sourceTree = "<group>";
+		};
+		78A2F5E619500A11B754F6B499CB8EB7 /* SSZipArchive */ = {
+			isa = PBXGroup;
+			children = (
+				CEC39D2682B4BD6B66794B2ABBC61B54 /* SSZipArchive.h */,
+				BD81089A729022EA25681771E365598F /* SSZipArchive.m */,
+				CC48421FD8F00BB36CD01A15F4DBF86D /* minizip */,
+			);
+			path = SSZipArchive;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
+				1B561524D6D2AF1CB770EE6EEE23C3FF /* Development Pods */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				DBBF46F37D7DB0EA482C17AE7B29338F /* Products */,
+				1E2B863FB53379437FF4A19624B8C9CD /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		911E44859807826340FF4D3132CF1C2A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9FE9353D5ED583C68BA335C78DAEC90 /* libExcelReader.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		98CF720F3685A1BD973F85D4033AB8AE /* XlsxReaderWriter */ = {
+			isa = PBXGroup;
+			children = (
+				95CC1D12923E06F2E0BDB03DF522231C /* BRACalcChain.h */,
+				1CF47206CADD0BCBA8D7B86684F529BB /* BRACalcChain.m */,
+				CCB3E52D92A7EE1010A200B5E8EE4D1A /* BRACalcChainCell.h */,
+				A3697818623AE9C35F1079D6F588A1E8 /* BRACalcChainCell.m */,
+				09DE6CC04A22B1E4B20B0E3C4F5EE187 /* BRACell.h */,
+				253A979319868EB1AD51212DAE77ECE6 /* BRACell.m */,
+				4EC30A49A0AA45E394B8D5995667E15C /* BRACellFill.h */,
+				996F0028467BC3F330E1AA1AB22767E8 /* BRACellFill.m */,
+				15C077D3AB022F35751BB5C527FDDF4B /* BRACellFormat.h */,
+				DCE9608CB88D23FB2146EBF99B2C4A44 /* BRACellFormat.m */,
+				D5FEAFD0E4715426E1056EBD22CA5822 /* BRACellRange.h */,
+				BC54EA51EC81A810D2D09E5A6B251BCE /* BRACellRange.m */,
+				ED30C63052B3D56BE63D3D6E74CAE1FE /* BRAColumn.h */,
+				B8450EB68B3C119A6282AB973DF4CBA6 /* BRAColumn.m */,
+				9FCCBC9DACC330D92409A2780ED3CDE4 /* BRAComment.h */,
+				131A6330D4F10FDF72D00873645A89E7 /* BRAComment.m */,
+				4CD3C4D5173A921C391DEBC70174BD03 /* BRAComments.h */,
+				A99C583793DA9417C36C4C5A781D8860 /* BRAComments.m */,
+				7168DB6490BDC558B181450D9D65F9EF /* BRAContentTypes.h */,
+				04D7261728EC9760BDD963959066FC4C /* BRAContentTypes.m */,
+				BD356A175071A8FBCF4F77CFA255F536 /* BRAContentTypesDefaultExtension.h */,
+				E449D20E8DF32D2CB98E4E63A48C82BD /* BRAContentTypesDefaultExtension.m */,
+				B6ABC68675BD1D827FF50146B12ECDA8 /* BRAContentTypesOverride.h */,
+				741ACC7C41F85DABCDD75BB9D9B14E48 /* BRAContentTypesOverride.m */,
+				47E8868E6B3B8C1133F1F1835141FEBE /* BRADrawing.h */,
+				F70BACF7B222257E1D51250BCABA2E33 /* BRADrawing.m */,
+				9EE896659DCEB890A029DD199588945B /* BRAElementWithRelationships.h */,
+				FD6A120E6370AEA901F7ACD941360A3F /* BRAElementWithRelationships.m */,
+				AA9661D0FB118947D5A13E8227D2CBC4 /* BRAImage.h */,
+				F7DEBD0848BFDF230E601336CD941322 /* BRAImage.m */,
+				4982B40C758178AC13D8C8D0341C12EA /* BRAMergeCell.h */,
+				6C2EA71720189DCBD05C9A3A4FDE923E /* BRAMergeCell.m */,
+				F4CD44A962CB03CB4636BA7B5D5C57E2 /* BRANumberFormat.h */,
+				206B63B381454A8E97057FD9944F5F43 /* BRANumberFormat.m */,
+				9A7C1AEDFA82553219EC44878459421F /* BRAOfficeDocument.h */,
+				5829401F914988E3B46BC1DF7A19F91B /* BRAOfficeDocument.m */,
+				F6B16BAE62252DB77322A899728F15B0 /* BRAOfficeDocumentPackage.h */,
+				0CA6A2FD4DE92014CC77BDCE7B66AAD5 /* BRAOfficeDocumentPackage.m */,
+				7C85623C1A890BE2A5A9528772153526 /* BRAOpenXmlElement.h */,
+				ECC8F7EFBADEB435ADD90C0B7323F966 /* BRAOpenXmlElement.m */,
+				33ED766023A94248A4644EBAD35F3168 /* BRAOpenXmlSubElement.h */,
+				76D652BDF8BB3DCC8193DF0700507C2B /* BRAOpenXmlSubElement.m */,
+				A3CE8954685834DA2E5BFDBDFF2C3940 /* BRAPlatformSpecificDefines.h */,
+				F65CBEC95F02D2369E33177B4520684F /* BRARelatedToColumnAndRowProtocol.h */,
+				C657672D49D38B1CC52550B1F95E14F8 /* BRARelationship.h */,
+				71151759D1229FB877B6511D1FDAAC72 /* BRARelationship.m */,
+				129313BA3E8B09918E4AAE696956FAF1 /* BRARelationships.h */,
+				C9B263EF348F573BA514837B02C2EF55 /* BRARelationships.m */,
+				DF6A16290FEB17627B850EAACE384C3C /* BRARow.h */,
+				8BF0BE2AA8B79A71D7FCF639A49B35E8 /* BRARow.m */,
+				828F45FC530EBF6A6BFE7854B70712E3 /* BRASharedString.h */,
+				C86F334ECE020B18861061E4515F097D /* BRASharedString.m */,
+				3AC1B3C9BCEF47E2A8A7BD8DEDEC994F /* BRASharedStrings.h */,
+				4B7D0C9760B1632AB0ABDC5EEE2D800E /* BRASharedStrings.m */,
+				242F71C241F1BF223CAD27F64E471B2E /* BRASheet.h */,
+				DA8B71238F49B26D277B3D4951B950CF /* BRASheet.m */,
+				EF9C6AC27C7628748E87889F14FF764F /* BRAStyles.h */,
+				55AE8C8D00F67B4C293900487053D9C5 /* BRAStyles.m */,
+				D6F50DE36C5CA56E57406B983B714BCE /* BRATheme.h */,
+				6C41D6A8C2EE8A81B44A66B83D70F870 /* BRATheme.m */,
+				BD87D1E75AE69CA6722D400EFAAC1554 /* BRAVmlDrawing.h */,
+				87E654A2D917A9A65203AF43A26478FE /* BRAVmlDrawing.m */,
+				EBCCF38B221AD1D91A160645C7C0E116 /* BRAWorksheet.h */,
+				2B51760CD15EFD86A2240D7AA0609A37 /* BRAWorksheet.m */,
+				4001F7B110DA7A31C18FD16E58ECEAE8 /* BRAWorksheetDrawing.h */,
+				9620A76DD4072C6F15DF5D2BCE0C2FB0 /* BRAWorksheetDrawing.m */,
+				714336EA73531A86BDB060C3C30E6FEB /* NativeColor+HTML.h */,
+				96C50772D73A9F2105F075258369B08D /* NativeColor+HTML.m */,
+				94EA2843C7D83D7819161D03DC0D2B71 /* NativeColor+OpenXML.h */,
+				640F07850FF05A1A9D89350BB809E278 /* NativeColor+OpenXML.m */,
+				30FB03C3FDEDCF4E384BF3F4EFB49F6F /* NativeFont+BoldItalic.h */,
+				57B246D62CC3E4D1F1B7E17F15B57AE0 /* NativeFont+BoldItalic.m */,
+				CDC3FD52910938AE74CD46A6C9D95C5B /* NSDictionary+DeepCopy.h */,
+				F824B65F95433E688ABF0C209DB69C93 /* NSDictionary+DeepCopy.m */,
+				5EC49240854D41B9D7DA31D30839D6F1 /* NSDictionary+OpenXMLDictionaryParser.h */,
+				C39AB92BA6F6024654F01390C86CF5A4 /* NSDictionary+OpenXMLDictionaryParser.m */,
+				22C69356F5B2F7FD865B9C13E9E9E558 /* NSDictionary+OpenXmlString.h */,
+				1D51574D9C7FF33F1A1D538F7649CA43 /* NSDictionary+OpenXmlString.m */,
+				E6CFD725FE542F66610279FCC8B4B666 /* XlsxReaderWriter-swift-bridge.h */,
+			);
+			path = XlsxReaderWriter;
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BF6342C8B29F4CEEA088EFF7AB4DE362 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		C469845D9B60068B9F134B932A8A3C9F /* Pods-LwExcelParseTools */ = {
+			isa = PBXGroup;
+			children = (
+				D067781498EF75A0893DFE812043E83C /* Info.plist */,
+				226D127B7B990F742E44F8F59B302720 /* Pods-LwExcelParseTools.modulemap */,
+				5335D5628BDA5B909DF201627DCE0033 /* Pods-LwExcelParseTools-acknowledgements.markdown */,
+				611FD119943B41A9D174F6D344A2B452 /* Pods-LwExcelParseTools-acknowledgements.plist */,
+				F5A863A7846385FD4658E3AC174A5ED9 /* Pods-LwExcelParseTools-dummy.m */,
+				76AED990FFC99193266EE5A662651429 /* Pods-LwExcelParseTools-frameworks.sh */,
+				DD85FE830F8338E410DEA49134352FD4 /* Pods-LwExcelParseTools-resources.sh */,
+				947D6A2635B7F3E0032C841D9FEBF9A2 /* Pods-LwExcelParseTools-umbrella.h */,
+				A3E7622CC50F226197E5FDA60AF69C96 /* Pods-LwExcelParseTools.debug.xcconfig */,
+				94B7ED98BDC29B6E6535A79A716DF57E /* Pods-LwExcelParseTools.release.xcconfig */,
+			);
+			name = "Pods-LwExcelParseTools";
+			path = "Target Support Files/Pods-LwExcelParseTools";
+			sourceTree = "<group>";
+		};
+		CBA34E077033BC65015BA546004B99F4 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0574F7241E3106BDCC2896D62F845415 /* Info.plist */,
+				948C2F4A56E5A3936004CC10E2A6F92C /* LwExcelParseTools.modulemap */,
+				F15BAA5D93B881F2DAB175736EE74652 /* LwExcelParseTools.xcconfig */,
+				5D91E4136723E06029CD4EDFD5E1F599 /* LwExcelParseTools-dummy.m */,
+				794A4C249AA7A748345028EBC0342D38 /* LwExcelParseTools-prefix.pch */,
+				D81837BCA41C04A3CF2E14D592F065DC /* LwExcelParseTools-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "LwExcelParseTools/Pods/Target Support Files/LwExcelParseTools";
+			sourceTree = "<group>";
+		};
+		CC48421FD8F00BB36CD01A15F4DBF86D /* minizip */ = {
+			isa = PBXGroup;
+			children = (
+				6B0F3D27FB5ECD30CD9F15463048FC4C /* crypt.h */,
+				52B019786C1AF9F38E6D60D662F46B5B /* ioapi.c */,
+				9B7586FD11D288FCB455A0B9C99DE648 /* ioapi.h */,
+				902A24DA639BA0CCE2B53BD58413B30E /* mztools.c */,
+				795358E315B25C089E504F40A49B28A2 /* mztools.h */,
+				ABF5B16BD241B335DFEBF0DD8865918C /* unzip.c */,
+				784059D2A16F32B46A414AE580DDCA4E /* unzip.h */,
+				A1CA793C64433E6D66D65D8C6C76DCD3 /* zip.c */,
+				74BF5B330E62E2E111B27A14DA464AD8 /* zip.h */,
+			);
+			path = minizip;
+			sourceTree = "<group>";
+		};
+		CFA8C49DBA02BC3C3D04671023E38858 /* ExcelParseTools */ = {
+			isa = PBXGroup;
+			children = (
+				E02D60A2544BA31E26583E6826633D84 /* Classes */,
+			);
+			path = ExcelParseTools;
+			sourceTree = "<group>";
+		};
+		DBBF46F37D7DB0EA482C17AE7B29338F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CE5FD12A1F2DA79E10F859FF2075EC01 /* LwExcelParseTools.framework */,
+				DA448F278355EEE084089949455D2938 /* Pods_LwExcelParseTools.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DD6EF17877C8D99B7E343E5050DA7558 /* XMLDictionary */ = {
+			isa = PBXGroup;
+			children = (
+				071F77A535000727A31C34EA502EFB04 /* XMLDictionary.h */,
+				AF18CD2684643E705090853F64A24CA9 /* XMLDictionary.m */,
+			);
+			path = XMLDictionary;
+			sourceTree = "<group>";
+		};
+		E02D60A2544BA31E26583E6826633D84 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4D519E20D9725B36E3ABBB846C1ACF9C /* LwExcelParseTools.h */,
+				264EEED7A4A1C25AE305BA4E7ED48AEE /* LwExcelParseTools.m */,
+				54A619A8748271CAEC2023798094C246 /* DHxlsReader */,
+				78A2F5E619500A11B754F6B499CB8EB7 /* SSZipArchive */,
+				98CF720F3685A1BD973F85D4033AB8AE /* XlsxReaderWriter */,
+				DD6EF17877C8D99B7E343E5050DA7558 /* XMLDictionary */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		7ADC710E36F23DAD247BFA6C53BFC4E2 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB2CC230B040D4D1DD52E28DCFB919BD /* Pods-LwExcelParseTools-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9BB9F785A424FD7206FED49B4225CF7 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C5E1E336C9B0CAAD495B461E1254117 /* BRACalcChain.h in Headers */,
+				3BC21F8B098CEF6809F30BDC209190AF /* BRACalcChainCell.h in Headers */,
+				A9669A9D4154D45D44ECCBA3F72FA62A /* BRACell.h in Headers */,
+				EEC2FC08FC33BAF8908C2BF5B2E020A1 /* BRACellFill.h in Headers */,
+				836D6F0B6191384218CDA35242F7E798 /* BRACellFormat.h in Headers */,
+				153C0F56FB847AB7166ACBC90EAC7ACD /* BRACellRange.h in Headers */,
+				D38F33BD62C9356B86FE0AD9F2137D24 /* BRAColumn.h in Headers */,
+				8D4F318C23B66B13E672189C47198614 /* BRAComment.h in Headers */,
+				706EC546E46B490F78BC19747F79633E /* BRAComments.h in Headers */,
+				5ED57628EF74BE93BD7F55FBA52255F0 /* BRAContentTypes.h in Headers */,
+				F153061E76538E0D157DD92F29F518D1 /* BRAContentTypesDefaultExtension.h in Headers */,
+				1F3E462C34161DC549BA459B22C97C79 /* BRAContentTypesOverride.h in Headers */,
+				48538FD5CA176F4CD7E902CC0282B3F3 /* BRADrawing.h in Headers */,
+				922322A4AFE054BF31A7FE3BFAE34B7B /* BRAElementWithRelationships.h in Headers */,
+				1F1BEF92B352F47BE1E8909634B20914 /* BRAImage.h in Headers */,
+				90C94152E2A0CC8F59CD303692E251AB /* BRAMergeCell.h in Headers */,
+				46AC3062DB385CCF20E30F627544ED80 /* BRANumberFormat.h in Headers */,
+				494CF35E65C3EB6FCDF1C01FF736F1E5 /* BRAOfficeDocument.h in Headers */,
+				C6EED23A3A3AF958897F38AD25327A94 /* BRAOfficeDocumentPackage.h in Headers */,
+				37271BF6A82B86B20206DBFCBF6666F6 /* BRAOpenXmlElement.h in Headers */,
+				BD5ECE3EF54A0A58B646FFC240E32DB7 /* BRAOpenXmlSubElement.h in Headers */,
+				091B9998047D730742DB27087391D3D7 /* BRAPlatformSpecificDefines.h in Headers */,
+				02AB39A39D44DD83E2A7F215A5997885 /* BRARelatedToColumnAndRowProtocol.h in Headers */,
+				908D2A9B00906DDEDE2CD9E36710E484 /* BRARelationship.h in Headers */,
+				754B75D20FB9AF4DFD117986399CE40F /* BRARelationships.h in Headers */,
+				8D2F3E3954F77184AD7FD9E83CD22522 /* BRARow.h in Headers */,
+				2A525D84033BFAD1E8607BDB70F7FE1C /* BRASharedString.h in Headers */,
+				1F73D023C892CED9EE6A9A5939E8BD1D /* BRASharedStrings.h in Headers */,
+				C58E8BE3C8509E613DCD23E158924F23 /* BRASheet.h in Headers */,
+				1460659BC3A344A0214E1A699A6824DB /* BRAStyles.h in Headers */,
+				DA39BB1D89F2BE304EF99CB4F6110B1F /* BRATheme.h in Headers */,
+				47E638A58FB7748A670534042335D69B /* BRAVmlDrawing.h in Headers */,
+				C5F27F4BBA07A4C0635FEA90D965089D /* BRAWorksheet.h in Headers */,
+				1AA616C617E53FF46997C7420FD11B82 /* BRAWorksheetDrawing.h in Headers */,
+				889652F16176DBFB576B0165EE3DDDC4 /* crypt.h in Headers */,
+				7571A660598FEDCDACFFCD9484DF0D53 /* DHcell.h in Headers */,
+				EFC94C26BE080B22DA217575F4725781 /* DHxlsReader.h in Headers */,
+				E0099E17D40785949D39DE82F00A2378 /* ioapi.h in Headers */,
+				90F82D6EF51E274B03C14201C072832C /* LwExcelParseTools-umbrella.h in Headers */,
+				E5BBDBD86A379C4EAF0454BAB833F36C /* LwExcelParseTools.h in Headers */,
+				22B4EAEDF308081625ABDC2168CFB294 /* mztools.h in Headers */,
+				79A71E566FF1DF199D3278C80246221C /* NativeColor+HTML.h in Headers */,
+				2204B9CBF450B3F2A027383A3D5AB2BF /* NativeColor+OpenXML.h in Headers */,
+				381DB67F4C7DA270AC005F2E5476DFAE /* NativeFont+BoldItalic.h in Headers */,
+				8F1B2BC35135C18538933978E5661F8A /* NSDictionary+DeepCopy.h in Headers */,
+				3DE15C81594AE172A455A9EC3857385F /* NSDictionary+OpenXMLDictionaryParser.h in Headers */,
+				A84C48C201225E9CFC7C09DC0DBDF8BD /* NSDictionary+OpenXmlString.h in Headers */,
+				E7E3F94EC59D033BD541C8708FDB4D3D /* SSZipArchive.h in Headers */,
+				2C0EE146BD5CE0A994668D0A564266D2 /* unzip.h in Headers */,
+				CB3FA6BE8A291471C7D3922C5D72B625 /* XlsxReaderWriter-swift-bridge.h in Headers */,
+				4E75C21695E3B423C8A1D66FB97E2075 /* XMLDictionary.h in Headers */,
+				61A456CE5E88411B9D23DCB5B4EBC8D6 /* zip.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		91825F6A16092C564F184C9F1E8692F2 /* LwExcelParseTools */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AEC961E201E3DCEA32D65AC3016C918F /* Build configuration list for PBXNativeTarget "LwExcelParseTools" */;
+			buildPhases = (
+				8E6D3A27557283186FFE78F24D3770FE /* Sources */,
+				9D44412B571A00B44FE6617564A49C11 /* Frameworks */,
+				D9BB9F785A424FD7206FED49B4225CF7 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LwExcelParseTools;
+			productName = LwExcelParseTools;
+			productReference = CE5FD12A1F2DA79E10F859FF2075EC01 /* LwExcelParseTools.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		D1E7D0A4F48A42120FAF69320A54F783 /* Pods-LwExcelParseTools */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A4ADF7BDDEDEF4AC3D05A166A551512D /* Build configuration list for PBXNativeTarget "Pods-LwExcelParseTools" */;
+			buildPhases = (
+				5CC79264368BC21AFC13C780B848813D /* Sources */,
+				5AB59D7D475CF949EDFBA0A99110DA9B /* Frameworks */,
+				7ADC710E36F23DAD247BFA6C53BFC4E2 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B798FD5BB543F34BC645401B2433A799 /* PBXTargetDependency */,
+			);
+			name = "Pods-LwExcelParseTools";
+			productName = "Pods-LwExcelParseTools";
+			productReference = DA448F278355EEE084089949455D2938 /* Pods_LwExcelParseTools.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0700;
+				LastUpgradeCheck = 0730;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = DBBF46F37D7DB0EA482C17AE7B29338F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				91825F6A16092C564F184C9F1E8692F2 /* LwExcelParseTools */,
+				D1E7D0A4F48A42120FAF69320A54F783 /* Pods-LwExcelParseTools */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5CC79264368BC21AFC13C780B848813D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				341875BA9ACC6081B1C31EE9EAB9149B /* Pods-LwExcelParseTools-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8E6D3A27557283186FFE78F24D3770FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4120BAB19D8CA5C60CA00248ED8D15B9 /* BRACalcChain.m in Sources */,
+				F0F68F274AF60833E60C8D534807348E /* BRACalcChainCell.m in Sources */,
+				0E5B9EBFBF7B4E6D43887A13E29968F0 /* BRACell.m in Sources */,
+				F03142482902EE1AA856159C6D018317 /* BRACellFill.m in Sources */,
+				1AF2D284E7C2BFAEC3E2BF056F4F87FD /* BRACellFormat.m in Sources */,
+				28EC6E25A3651D0391DED5CA1458E2A0 /* BRACellRange.m in Sources */,
+				C6B500124A8B304A75B7A49CF4BDA093 /* BRAColumn.m in Sources */,
+				CFA6A83240864233B01B96ADDA9A591A /* BRAComment.m in Sources */,
+				5C40271292B3F5A00B98CCA1CE011453 /* BRAComments.m in Sources */,
+				03DDCD8DB27EE7CEDA6ED100A8F0BC98 /* BRAContentTypes.m in Sources */,
+				6DD282AC9D0A8F403701A8029806B43D /* BRAContentTypesDefaultExtension.m in Sources */,
+				11EBDA5CC15308CDE6CEF0B3F11E0DB5 /* BRAContentTypesOverride.m in Sources */,
+				336D7673B55237FF469CECC6AB2CA9CF /* BRADrawing.m in Sources */,
+				CB4B58BEBAE0BD074C6BAE021FDF461C /* BRAElementWithRelationships.m in Sources */,
+				0B281F2CCF2CE23C49F21312A80C3270 /* BRAImage.m in Sources */,
+				FF950B77847EC6FD7107E48E9C4CE354 /* BRAMergeCell.m in Sources */,
+				0EB7017BED28DAB4E12185C94F58D332 /* BRANumberFormat.m in Sources */,
+				E8D892475488B37363B36C86372E1465 /* BRAOfficeDocument.m in Sources */,
+				A75B55BD84C6BAC735C2E1A73E278E4C /* BRAOfficeDocumentPackage.m in Sources */,
+				A91C13E11EC3A29D84A08D0B8357233E /* BRAOpenXmlElement.m in Sources */,
+				3C23F842E38DE83ED54157BB4473D3DD /* BRAOpenXmlSubElement.m in Sources */,
+				2EEA01A13AF50943A7064B50312AF85E /* BRARelationship.m in Sources */,
+				3843037D3041345860137FBF926A1D14 /* BRARelationships.m in Sources */,
+				3B2032C73A384D167AEB16C2E737EFD8 /* BRARow.m in Sources */,
+				F6D37DE45ACF5D0DC22862FC9F054996 /* BRASharedString.m in Sources */,
+				6B8F4D82A25A2DBDC8FF4FC636E1D529 /* BRASharedStrings.m in Sources */,
+				C039AF4118BEBE08136C83953BD3BE93 /* BRASheet.m in Sources */,
+				3D4630F82ADA6CE607F52DEBD598D359 /* BRAStyles.m in Sources */,
+				62B61A71B78A93CEC298D97B89632F19 /* BRATheme.m in Sources */,
+				FAE1B32B4929325D0A0167F3B287469E /* BRAVmlDrawing.m in Sources */,
+				D6F4D10F9DB34043AB00C2BFEFB3AAA7 /* BRAWorksheet.m in Sources */,
+				E476686A348595232A6B61E5076B101B /* BRAWorksheetDrawing.m in Sources */,
+				9595C3DEE7A64BF0CE7483FEBB9489D1 /* ioapi.c in Sources */,
+				C271B3E16C5CBF2F32E13C866C549E06 /* LwExcelParseTools-dummy.m in Sources */,
+				105EE985BCAEDF1B9794AF7033D34C8F /* LwExcelParseTools.m in Sources */,
+				9156F31CB07BFA9CD3F8CA0EF74E37B2 /* mztools.c in Sources */,
+				DB01EAA578A315AC25E59C642EE835C4 /* NativeColor+HTML.m in Sources */,
+				944A17ABC63B38D166DEE0D7C655D072 /* NativeColor+OpenXML.m in Sources */,
+				36E7A183C63E88A5B170F9499015A456 /* NativeFont+BoldItalic.m in Sources */,
+				06BFA15482CA4D772C5A0604625232DD /* NSDictionary+DeepCopy.m in Sources */,
+				98F669BCB6AEE9F6BCE0AC25E0FEDB43 /* NSDictionary+OpenXMLDictionaryParser.m in Sources */,
+				7E98BA5A71345B9351926C226215527E /* NSDictionary+OpenXmlString.m in Sources */,
+				CD22B7A5135A6B4696343B1C157BE0F6 /* SSZipArchive.m in Sources */,
+				BB547F756DCCB58F6F914E3D7769B993 /* unzip.c in Sources */,
+				CE1024DFB731593D9EB6A60243CD3EA9 /* XMLDictionary.m in Sources */,
+				4F9560D6A52335BFE8147229113691D6 /* zip.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B798FD5BB543F34BC645401B2433A799 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = LwExcelParseTools;
+			target = 91825F6A16092C564F184C9F1E8692F2 /* LwExcelParseTools */;
+			targetProxy = 79BAE3E7C06C87E1F25ECC1616899FE8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		052A17875CB827423D627183396CEB60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2C482E19BA1E95DD38FFF75B66E8EFFA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F15BAA5D93B881F2DAB175736EE74652 /* LwExcelParseTools.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/LwExcelParseTools/LwExcelParseTools-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LwExcelParseTools/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LwExcelParseTools/LwExcelParseTools.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = LwExcelParseTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		36B634E683108EDB041A1B7A31FDD22F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A3E7622CC50F226197E5FDA60AF69C96 /* Pods-LwExcelParseTools.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-LwExcelParseTools/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_LwExcelParseTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		66E65708C99C35AD42441067B7E6BC97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 94B7ED98BDC29B6E6535A79A716DF57E /* Pods-LwExcelParseTools.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-LwExcelParseTools/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_LwExcelParseTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		B37F0F91F85060E28F1DAAB522DC7EC1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		B49062A3AFD40C37485AA98A291550BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F15BAA5D93B881F2DAB175736EE74652 /* LwExcelParseTools.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/LwExcelParseTools/LwExcelParseTools-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LwExcelParseTools/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LwExcelParseTools/LwExcelParseTools.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = LwExcelParseTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B37F0F91F85060E28F1DAAB522DC7EC1 /* Debug */,
+				052A17875CB827423D627183396CEB60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A4ADF7BDDEDEF4AC3D05A166A551512D /* Build configuration list for PBXNativeTarget "Pods-LwExcelParseTools" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				36B634E683108EDB041A1B7A31FDD22F /* Debug */,
+				66E65708C99C35AD42441067B7E6BC97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AEC961E201E3DCEA32D65AC3016C918F /* Build configuration list for PBXNativeTarget "LwExcelParseTools" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B49062A3AFD40C37485AA98A291550BB /* Debug */,
+				2C482E19BA1E95DD38FFF75B66E8EFFA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

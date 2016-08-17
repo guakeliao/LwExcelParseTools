@@ -2,6 +2,6 @@ use_frameworks!
 platform :ios, '7.0'
 
 target 'LwExcelParseTools' do
-  pod 'LwExcelParseTools', :path => '../'
+  pod 'LwExcelParseTools', '~> 0.1.0'
 
 end
