@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'B7A4DF6273B760284963F217'
+               BlueprintIdentifier = '21ADA4B9B608ECB0C9A54813'
                BlueprintName = 'LwExcelParseTools'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'LwExcelParseTools.framework'>

@@ -15,11 +15,9 @@
 /**
  *  解析excel
  *
- *  @param name excel名字
- *  @param type "xls" 或者 "xlsx"
+ *  @param filePath excel的地址
  *
  *  @return 两层(sheetArr[rowArr[]]）
  */
-+ (NSArray *)excelParseForResource:(NSString *)name ofType:(NSString *)type;
-
++ (NSArray *)excelParseForResource:(NSString *)filePath;
 @end

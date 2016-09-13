@@ -1,1 +1,1 @@
-../../../LwExcelParseTools/ExcelParseTools/Classes/XlsxReaderWriter/BRARelatedToColumnAndRowProtocol.h
+../../../../../ExcelParseTools/Classes/XlsxReaderWriter/BRARelatedToColumnAndRowProtocol.h

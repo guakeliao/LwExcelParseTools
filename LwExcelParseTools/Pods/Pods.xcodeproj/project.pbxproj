@@ -10,22 +10,28 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>01AE13DFA3181F837032E6A2D5D9C568</key>
+		<key>02AB39A39D44DD83E2A7F215A5997885</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>F65CBEC95F02D2369E33177B4520684F</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRACalcChain.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACalcChain.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
-		<key>04B572A8B89929988533B91E755C8B69</key>
+		<key>03DDCD8DB27EE7CEDA6ED100A8F0BC98</key>
+		<dict>
+			<key>fileRef</key>
+			<string>04D7261728EC9760BDD963959066FC4C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>04D7261728EC9760BDD963959066FC4C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -33,10 +39,8 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NSDictionary+OpenXMLDictionaryParser.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.m</string>
+			<string>BRAContentTypes.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -108,14 +112,27 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>056F855DB2051879D0DADBE37F9A4E24</key>
+		<key>0574F7241E3106BDCC2896D62F845415</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>06BFA15482CA4D772C5A0604625232DD</key>
 		<dict>
 			<key>fileRef</key>
-			<string>232F5E7FA3183C3C0290AA699AC34E0B</string>
+			<string>F824B65F95433E688ABF0C209DB69C93</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>05C55C7580F5CEF6356CFDB87748F97C</key>
+		<key>071F77A535000727A31C34EA502EFB04</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -123,31 +140,15 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NativeColor+HTML.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NativeColor+HTML.h</string>
+			<string>XMLDictionary.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>07B35567BB6DD9FE51622FE9622F2417</key>
+		<key>091B9998047D730742DB27087391D3D7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>FECE6289CABEFCBBEFDFE2C77DCE5B4F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>087C4494AE1003957CC3346B32185842</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B826A6AF7B55702594CF6436A2B4EEBA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0A26649CB5318C8FE9809B13EEDEB62A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BCECCB178980F04F24974C37CE9D262A</string>
+			<string>A3CE8954685834DA2E5BFDBDFF2C3940</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -158,43 +159,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>0A2F2A9A233D182B3A1B34B4B28E2573</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRARelationship.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARelationship.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>0AF9AF9C3DA5F6476DCA8DC26FF92018</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E47B926F890DEADBACFB0E8C68D1ED22</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>0B030BA79FC7FBC32974FDF0C749653B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>01AE13DFA3181F837032E6A2D5D9C568</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>0C1C5055863F5A6CF330EC913FA70602</key>
+		<key>09DE6CC04A22B1E4B20B0E3C4F5EE187</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -202,126 +167,19 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAWorksheetDrawing.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAWorksheetDrawing.h</string>
+			<string>BRACell.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0CB5EDF01A44DF15B5D1FE09823DCA58</key>
+		<key>0B281F2CCF2CE23C49F21312A80C3270</key>
 		<dict>
 			<key>fileRef</key>
-			<string>16854C4439E8386614553DD90F0E055B</string>
+			<string>F7DEBD0848BFDF230E601336CD941322</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>0CD0BB655F7046690BF5D7F5354E90CC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DF201D03113DF3A6A6203E5BE63CEDA8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>0FC9020C5AD3897B666F49141BF98057</key>
-		<dict>
-			<key>fileRef</key>
-			<string>17CD630AEDCEFB4BD0801318832051D8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>0FF97A2D03EBE0182A61979E17FB4742</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C984B554DF3162A649A20C87169B4069</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>118FD58E5F364CD18B7972E7C2B94EA9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C42C963BEBC1D813EA3B5A69018B8251</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>11F6AD3BC37F6B3E34DC4D7C6BD53A3A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8B5A9A8AFA29E3AE31F55333EC79EC0E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>12B34AF7317407F39C2440D33F40CECB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5D33B03378E4A9598FD95FC81E912EC0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>15E3E15AB8619E9E85CBBFE8CF458FD2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FAAB7F0FB743DA1ACE90177DCD24C545</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>15F94DD8BF28B823DDAF4E75FD03439A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>70C5BD2848A719EB72373252CADD701D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>16854C4439E8386614553DD90F0E055B</key>
+		<key>0CA6A2FD4DE92014CC77BDCE7B66AAD5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -329,28 +187,40 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>SSZipArchive.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/SSZipArchive.m</string>
+			<string>BRAOfficeDocumentPackage.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>172072F644918DAD4E6D1AA31B40A629</key>
+		<key>0E5B9EBFBF7B4E6D43887A13E29968F0</key>
 		<dict>
 			<key>fileRef</key>
-			<string>278FABD1E11027C45FA73BAAAE1B9065</string>
+			<string>253A979319868EB1AD51212DAE77ECE6</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
-		<key>17CD630AEDCEFB4BD0801318832051D8</key>
+		<key>0EB7017BED28DAB4E12185C94F58D332</key>
+		<dict>
+			<key>fileRef</key>
+			<string>206B63B381454A8E97057FD9944F5F43</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>105EE985BCAEDF1B9794AF7033D34C8F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>264EEED7A4A1C25AE305BA4E7ED48AEE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>11EBDA5CC15308CDE6CEF0B3F11E0DB5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>741ACC7C41F85DABCDD75BB9D9B14E48</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>129313BA3E8B09918E4AAE696956FAF1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -358,28 +228,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRACalcChainCell.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACalcChainCell.h</string>
+			<string>BRARelationships.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>18AB47B3F7D37AC46DA9CBD834B185CC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CB7D8CB662E5E77C717E3DB163058FFE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>19B0F2A954626FD9406714411BAE446A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DA03A7E9100CD6B0757F1DB55A733C8D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>19B2820947832406E79CDD365A22FDDF</key>
+		<key>131A6330D4F10FDF72D00873645A89E7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -387,53 +241,109 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAComment.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1460659BC3A344A0214E1A699A6824DB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EF9C6AC27C7628748E87889F14FF764F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>153C0F56FB847AB7166ACBC90EAC7ACD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D5FEAFD0E4715426E1056EBD22CA5822</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>15C077D3AB022F35751BB5C527FDDF4B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRACellFormat.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1AA616C617E53FF46997C7420FD11B82</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4001F7B110DA7A31C18FD16E58ECEAE8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>1AF2D284E7C2BFAEC3E2BF056F4F87FD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DCE9608CB88D23FB2146EBF99B2C4A44</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1B561524D6D2AF1CB770EE6EEE23C3FF</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>3C798F67981D5933B8B1C4909AD09B86</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
 			<key>name</key>
+			<string>Development Pods</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1CF47206CADD0BCBA8D7B86684F529BB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRACalcChain.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1D51574D9C7FF33F1A1D538F7649CA43</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
 			<string>NSDictionary+OpenXmlString.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+OpenXmlString.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>19D4D2D63288160F7261B512905E90FF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>99DD128BEFC21C06609202530B29A028</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1A539906126CDF943A4D7006EF7822F4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>79720C19D8822EC5EE9D715F544F6C01</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>1A88E35AC57EDC7B030EC5556337D7FA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NativeFont+BoldItalic.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NativeFont+BoldItalic.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -450,38 +360,74 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>21756D3E801B7933312B1852172A73D6</key>
+		<key>1F1BEF92B352F47BE1E8909634B20914</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2962FD813723CCFF59BCADEB336C1123</string>
+			<string>AA9661D0FB118947D5A13E8227D2CBC4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
-		<key>21E6DE6CCCF0FC28CC39A4B0B87F8DD7</key>
+		<key>1F3E462C34161DC549BA459B22C97C79</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B6ABC68675BD1D827FF50146B12ECDA8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>1F73D023C892CED9EE6A9A5939E8BD1D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3AC1B3C9BCEF47E2A8A7BD8DEDEC994F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>206B63B381454A8E97057FD9944F5F43</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRARow.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARow.h</string>
+			<string>BRANumberFormat.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>21F2DFD92FE343DFE399B7EB19D4A08E</key>
+		<key>2204B9CBF450B3F2A027383A3D5AB2BF</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>94EA2843C7D83D7819161D03DC0D2B71</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>LwExcelParseTools.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>226D127B7B990F742E44F8F59B302720</key>
 		<dict>
@@ -494,25 +440,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>232F5E7FA3183C3C0290AA699AC34E0B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NativeColor+HTML.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NativeColor+HTML.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2593DAA96A1A37022E3D21E227D2D1F2</key>
+		<key>22B4EAEDF308081625ABDC2168CFB294</key>
 		<dict>
 			<key>fileRef</key>
-			<string>99692E33952DABB9A3BE27484761EA45</string>
+			<string>795358E315B25C089E504F40A49B28A2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -523,7 +454,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>278FABD1E11027C45FA73BAAAE1B9065</key>
+		<key>22C69356F5B2F7FD865B9C13E9E9E558</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -531,64 +462,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSDictionary+DeepCopy.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+DeepCopy.h</string>
+			<string>NSDictionary+OpenXmlString.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>285D7F1BE83830C4C9A792270D266C3D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9957813503A38BB9126C8CF74C81235B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>2962FD813723CCFF59BCADEB336C1123</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NativeColor+OpenXML.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NativeColor+OpenXML.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2AEFEC9CA7DEC7FA75F5DE7E8F41BEB8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>19B2820947832406E79CDD365A22FDDF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>2B044396ADD8CC5252A24B1563C30095</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A98160F5ED90304A32507BC0E36BAE27</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>2BEDE258E20490F13B474DBC80CD5B02</key>
+		<key>242F71C241F1BF223CAD27F64E471B2E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -596,17 +475,89 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRARelatedToColumnAndRowProtocol.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARelatedToColumnAndRowProtocol.h</string>
+			<string>BRASheet.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>253A979319868EB1AD51212DAE77ECE6</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRACell.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>264EEED7A4A1C25AE305BA4E7ED48AEE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>LwExcelParseTools.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>28EC6E25A3651D0391DED5CA1458E2A0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BC54EA51EC81A810D2D09E5A6B251BCE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2A525D84033BFAD1E8607BDB70F7FE1C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>828F45FC530EBF6A6BFE7854B70712E3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>2B51760CD15EFD86A2240D7AA0609A37</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAWorksheet.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>2C0EE146BD5CE0A994668D0A564266D2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>784059D2A16F32B46A414AE580DDCA4E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>2C482E19BA1E95DD38FFF75B66E8EFFA</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>830A7BF52B7DFCAB6E30389953F9DB17</string>
+			<string>F15BAA5D93B881F2DAB175736EE74652</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
@@ -659,10 +610,10 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>2D6A488501F60D4E4197A9C62D47146E</key>
+		<key>2C5E1E336C9B0CAAD495B461E1254117</key>
 		<dict>
 			<key>fileRef</key>
-			<string>85C5D4667F81C608EFC35F847D7D2552</string>
+			<string>95CC1D12923E06F2E0BDB03DF522231C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -687,110 +638,50 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>2F480F1D779739BBB295E8B383640589</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRACalcChain.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACalcChain.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>30317EF21F8B0355AF41425CA36B907D</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>5D04AE67F39D3ED79017C8C34D0A4897</string>
-				<string>21F2DFD92FE343DFE399B7EB19D4A08E</string>
-				<string>830A7BF52B7DFCAB6E30389953F9DB17</string>
-				<string>FF09EFACC2DA72F9DB172F84ECF25F24</string>
-				<string>BBAC9987A16A97A21750FDC3BF451251</string>
-				<string>5CC3156C7AAC6F48252F57FA2E45C66E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>../Target Support Files/LwExcelParseTools</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>30B834FA207EA1B55D5F222D9C565A5B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRARelationships.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARelationships.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>311C28989A8C76ABC05003B6D4849B4F</key>
+		<key>2EEA01A13AF50943A7064B50312AF85E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A40F80C4CF56EA98BF38E28C2D213106</string>
+			<string>71151759D1229FB877B6511D1FDAAC72</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>32047252BCE718771C4F69DF44B8972D</key>
+		<key>30FB03C3FDEDCF4E384BF3F4EFB49F6F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAColumn.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAColumn.m</string>
+			<string>NativeFont+BoldItalic.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>33E3A29333ACD5227DD2281284510164</key>
+		<key>336D7673B55237FF469CECC6AB2CA9CF</key>
 		<dict>
 			<key>fileRef</key>
-			<string>485EDADB63C27210886BE810C674012F</string>
+			<string>F70BACF7B222257E1D51250BCABA2E33</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+		</dict>
+		<key>33ED766023A94248A4644EBAD35F3168</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAOpenXmlSubElement.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>341875BA9ACC6081B1C31EE9EAB9149B</key>
 		<dict>
 			<key>fileRef</key>
 			<string>F5A863A7846385FD4658E3AC174A5ED9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>345C2DC31CF3BF51EB7F907CC4CB6F8D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A78544CE3FD63C445E7E436B5BE73BF4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>3474AB13574437AA7AF5F44A995A42A4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>724A6E25EE2694B0E869684C02C7E845</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -856,10 +747,17 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>3819E08E6440B8486AF92429E97DFDF3</key>
+		<key>36E7A183C63E88A5B170F9499015A456</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A1FB9CBEAE76662D44920D09575146F2</string>
+			<string>57B246D62CC3E4D1F1B7E17F15B57AE0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>37271BF6A82B86B20206DBFCBF6666F6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7C85623C1A890BE2A5A9528772153526</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -870,25 +768,96 @@
 				</array>
 			</dict>
 		</dict>
-		<key>398EA62D1E3DD2F1154755C764399CFC</key>
+		<key>381DB67F4C7DA270AC005F2E5476DFAE</key>
+		<dict>
+			<key>fileRef</key>
+			<string>30FB03C3FDEDCF4E384BF3F4EFB49F6F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>3843037D3041345860137FBF926A1D14</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C9B263EF348F573BA514837B02C2EF55</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3AC1B3C9BCEF47E2A8A7BD8DEDEC994F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRACellFormat.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACellFormat.m</string>
+			<string>BRASharedStrings.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3CA20267157A52E3077C5824C78FC520</key>
+		<key>3B2032C73A384D167AEB16C2E737EFD8</key>
 		<dict>
 			<key>fileRef</key>
-			<string>05C55C7580F5CEF6356CFDB87748F97C</string>
+			<string>8BF0BE2AA8B79A71D7FCF639A49B35E8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3BC21F8B098CEF6809F30BDC209190AF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CCB3E52D92A7EE1010A200B5E8EE4D1A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>3C23F842E38DE83ED54157BB4473D3DD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>76D652BDF8BB3DCC8193DF0700507C2B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3C798F67981D5933B8B1C4909AD09B86</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>CFA8C49DBA02BC3C3D04671023E38858</string>
+				<string>911E44859807826340FF4D3132CF1C2A</string>
+				<string>CBA34E077033BC65015BA546004B99F4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>LwExcelParseTools</string>
+			<key>path</key>
+			<string>../..</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>3D4630F82ADA6CE607F52DEBD598D359</key>
+		<dict>
+			<key>fileRef</key>
+			<string>55AE8C8D00F67B4C293900487053D9C5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3DE15C81594AE172A455A9EC3857385F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5EC49240854D41B9D7DA31D30839D6F1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -912,14 +881,7 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>4257E410E29B9624BCABEB4F4BA0EA55</key>
-		<dict>
-			<key>fileRef</key>
-			<string>7BFA18390E38CE7279100EF873692DCA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>43CDB60B8B0CB043EC58860A9F8E04DE</key>
+		<key>4001F7B110DA7A31C18FD16E58ECEAE8</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -927,17 +889,22 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>XlsxReaderWriter-swift-bridge.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/XlsxReaderWriter-swift-bridge.h</string>
+			<string>BRAWorksheetDrawing.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>46189FD2E22E33266B6E1647002D479E</key>
+		<key>4120BAB19D8CA5C60CA00248ED8D15B9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>4A6321B4431B7AF95B9044EC0692228D</string>
+			<string>1CF47206CADD0BCBA8D7B86684F529BB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>46AC3062DB385CCF20E30F627544ED80</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F4CD44A962CB03CB4636BA7B5D5C57E2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -948,39 +915,10 @@
 				</array>
 			</dict>
 		</dict>
-		<key>46D9E65CC87E8BF2ADDE95FF2C925C26</key>
+		<key>47E638A58FB7748A670534042335D69B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>DB5C459277AFE6741A34B6E63F840B65</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47379679418D7DD69DFD99DB3A18BD98</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5EB001E2B396C279CA86B801DCCBCB67</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>47C11C5F05878C2243BF7B2414BBB620</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAOpenXmlSubElement.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOpenXmlSubElement.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>47C28533250182E42F6053283708CA94</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0C1C5055863F5A6CF330EC913FA70602</string>
+			<string>BD87D1E75AE69CA6722D400EFAAC1554</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -991,7 +929,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>485EDADB63C27210886BE810C674012F</key>
+		<key>47E8868E6B3B8C1133F1F1835141FEBE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -999,14 +937,53 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>DHxlsReader.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/DHxlsReader/DHxlsReader.h</string>
+			<string>BRADrawing.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>48ACEECA35C0C5A027281D9018CB2466</key>
+		<key>48538FD5CA176F4CD7E902CC0282B3F3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>47E8868E6B3B8C1133F1F1835141FEBE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>494CF35E65C3EB6FCDF1C01FF736F1E5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9A7C1AEDFA82553219EC44878459421F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>4982B40C758178AC13D8C8D0341C12EA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAMergeCell.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4B7D0C9760B1632AB0ABDC5EEE2D800E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1014,21 +991,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRATheme.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRATheme.m</string>
+			<string>BRASharedStrings.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4A163A8C65F584C9542656F5E36AE8A3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>62628B0CD561FBEF43DA421F559C9062</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>4A6321B4431B7AF95B9044EC0692228D</key>
+		<key>4CD3C4D5173A921C391DEBC70174BD03</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1036,32 +1004,28 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAContentTypesOverride.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAContentTypesOverride.h</string>
+			<string>BRAComments.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4BA0F8CA0DE09994ADB194B188DFCDBD</key>
+		<key>4D519E20D9725B36E3ABBB846C1ACF9C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRASheet.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRASheet.m</string>
+			<string>LwExcelParseTools.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4CF2C93CD31C6B4CC615423FBE953EC0</key>
+		<key>4E75C21695E3B423C8A1D66FB97E2075</key>
 		<dict>
 			<key>fileRef</key>
-			<string>43CDB60B8B0CB043EC58860A9F8E04DE</string>
+			<string>071F77A535000727A31C34EA502EFB04</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1072,68 +1036,36 @@
 				</array>
 			</dict>
 		</dict>
-		<key>4D13F5758DDDE0E363BDDA3BF0B2F6B5</key>
+		<key>4EC30A49A0AA45E394B8D5995667E15C</key>
 		<dict>
-			<key>fileRef</key>
-			<string>63609C0D74C8CE0029815E07D9673331</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRACellFill.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>50734EAF0C66787594040DD34100DB29</key>
+		<key>4F9560D6A52335BFE8147229113691D6</key>
 		<dict>
 			<key>fileRef</key>
-			<string>B46D4CDD9C1ADA1A044CE094EFB07FC1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>509C0E4E66DE09515423DDF94AF6BE4E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6190D83DD5F405FBBCA1DA9C21851347</string>
+			<string>A1CA793C64433E6D66D65D8C6C76DCD3</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>50AF687EB9CBED42EF0087D3C08E671E</key>
+		<key>52B019786C1AF9F38E6D60D662F46B5B</key>
 		<dict>
-			<key>fileRef</key>
-			<string>5CC3156C7AAC6F48252F57FA2E45C66E</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>52B185AB4FC2BD2BAC581C4EEC8875DC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9DB355B60B99B4F6051EA8279922F714</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>53070C5DB84C654FF9DA922F5A45A754</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A426822A267AB3EF478D610212C80B48</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>ioapi.c</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5335D5628BDA5B909DF201627DCE0033</key>
 		<dict>
@@ -1148,119 +1080,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>54C971196BEB199AE00BEE9CFD3827C9</key>
+		<key>54A619A8748271CAEC2023798094C246</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>01AE13DFA3181F837032E6A2D5D9C568</string>
-				<string>2F480F1D779739BBB295E8B383640589</string>
-				<string>17CD630AEDCEFB4BD0801318832051D8</string>
-				<string>C54F6F81F926CFC2E16E4D95ED6C42A0</string>
-				<string>8301DEB9A1C6B01EB8A242EC81637FAD</string>
-				<string>CB7D8CB662E5E77C717E3DB163058FFE</string>
-				<string>B46D4CDD9C1ADA1A044CE094EFB07FC1</string>
-				<string>801FACB3F3710AF65AA0F33AA662AAB9</string>
-				<string>C8740E2CC2F745887E3827F6DCE7C16C</string>
-				<string>398EA62D1E3DD2F1154755C764399CFC</string>
-				<string>BCECCB178980F04F24974C37CE9D262A</string>
-				<string>62628B0CD561FBEF43DA421F559C9062</string>
-				<string>9BA54A65F02A5A98F955452872BD289F</string>
-				<string>32047252BCE718771C4F69DF44B8972D</string>
-				<string>A93B36FDFC58C129DDFDF78E32E097E3</string>
-				<string>E262860017B684C3D234743046D437EE</string>
-				<string>85C5D4667F81C608EFC35F847D7D2552</string>
-				<string>5EB001E2B396C279CA86B801DCCBCB67</string>
-				<string>A98160F5ED90304A32507BC0E36BAE27</string>
-				<string>6190D83DD5F405FBBCA1DA9C21851347</string>
-				<string>A1FB9CBEAE76662D44920D09575146F2</string>
-				<string>5BF825763D1217B67F8093C8EBC30FA9</string>
-				<string>4A6321B4431B7AF95B9044EC0692228D</string>
-				<string>D14A5264149414583F0748AD6E6FC289</string>
-				<string>79A04213042C365484E7790764EDF4D4</string>
-				<string>A78544CE3FD63C445E7E436B5BE73BF4</string>
-				<string>99692E33952DABB9A3BE27484761EA45</string>
-				<string>E47B926F890DEADBACFB0E8C68D1ED22</string>
-				<string>D21989BA49E5ECB8FF1CE7033217723F</string>
-				<string>755D16F627597544875ECF6922530647</string>
-				<string>C12779B0C7533C14B196E388FD075AC0</string>
-				<string>A40F80C4CF56EA98BF38E28C2D213106</string>
-				<string>A63FEBA6BD651D539FE8D6DE12E9B4F1</string>
-				<string>B826A6AF7B55702594CF6436A2B4EEBA</string>
-				<string>73744942EA6086099A2225361E182416</string>
-				<string>9074427E6BAD4E83F41AADE3894DFE48</string>
-				<string>9957813503A38BB9126C8CF74C81235B</string>
-				<string>E5A52F66FE829A80D7A7BD3473F37C16</string>
-				<string>5D33B03378E4A9598FD95FC81E912EC0</string>
-				<string>55036D74D4FDA5CA3A22B17460AE8695</string>
-				<string>47C11C5F05878C2243BF7B2414BBB620</string>
-				<string>DA03A7E9100CD6B0757F1DB55A733C8D</string>
-				<string>C984B554DF3162A649A20C87169B4069</string>
-				<string>2BEDE258E20490F13B474DBC80CD5B02</string>
-				<string>99DD128BEFC21C06609202530B29A028</string>
-				<string>0A2F2A9A233D182B3A1B34B4B28E2573</string>
-				<string>924B39D3925F361FA78539F8FD44252C</string>
-				<string>30B834FA207EA1B55D5F222D9C565A5B</string>
-				<string>21E6DE6CCCF0FC28CC39A4B0B87F8DD7</string>
-				<string>555C9DB95FB8552797F42C4BF1BF6050</string>
-				<string>91B1437F9CA46DBEA40AA625A5BF43CF</string>
-				<string>DB5C459277AFE6741A34B6E63F840B65</string>
-				<string>79720C19D8822EC5EE9D715F544F6C01</string>
-				<string>8B5A9A8AFA29E3AE31F55333EC79EC0E</string>
-				<string>8D73A3CA337627FA3C2D190B1906C029</string>
-				<string>4BA0F8CA0DE09994ADB194B188DFCDBD</string>
-				<string>88DD7E0FCF579D4D5136DE9C55B5D398</string>
-				<string>9DB355B60B99B4F6051EA8279922F714</string>
-				<string>70C5BD2848A719EB72373252CADD701D</string>
-				<string>48ACEECA35C0C5A027281D9018CB2466</string>
-				<string>63609C0D74C8CE0029815E07D9673331</string>
-				<string>9380A3A8944EAA41B9C170E5E2E4E836</string>
-				<string>62DE16D4CC89552267B29230CF1621A8</string>
-				<string>B0F34F094FAE0FA9163EE0EE82F22D9E</string>
-				<string>0C1C5055863F5A6CF330EC913FA70602</string>
-				<string>7BFA18390E38CE7279100EF873692DCA</string>
-				<string>A34935C1CF91432F204F374BC7906077</string>
-				<string>AB1F4B647375BE3CDDED9F677332BBF3</string>
-				<string>485EDADB63C27210886BE810C674012F</string>
-				<string>FA102429B280812F451FFBAA1F7AAD4C</string>
-				<string>CF0EF8C704AC46A2E7709DE83A04427B</string>
-				<string>C42C963BEBC1D813EA3B5A69018B8251</string>
-				<string>ED150CE7C299DFE07B328DB36CBBEEF3</string>
-				<string>A426822A267AB3EF478D610212C80B48</string>
-				<string>FAAB7F0FB743DA1ACE90177DCD24C545</string>
-				<string>05C55C7580F5CEF6356CFDB87748F97C</string>
-				<string>232F5E7FA3183C3C0290AA699AC34E0B</string>
-				<string>DF201D03113DF3A6A6203E5BE63CEDA8</string>
-				<string>2962FD813723CCFF59BCADEB336C1123</string>
-				<string>73D105E21FA73136BBC595310F2DF174</string>
-				<string>1A88E35AC57EDC7B030EC5556337D7FA</string>
-				<string>278FABD1E11027C45FA73BAAAE1B9065</string>
-				<string>9CAAAA4C053DAEE9292BDEF20F22713C</string>
-				<string>FD2407BDBAF891632CB5603B2CD7E024</string>
-				<string>04B572A8B89929988533B91E755C8B69</string>
-				<string>BC74664C680B4B874032EB48D58E010F</string>
-				<string>19B2820947832406E79CDD365A22FDDF</string>
-				<string>9E18632C55ED9C282319CC5850D8698A</string>
-				<string>16854C4439E8386614553DD90F0E055B</string>
-				<string>724A6E25EE2694B0E869684C02C7E845</string>
-				<string>E14DB50C01913FCAF8C37962116344A0</string>
-				<string>43CDB60B8B0CB043EC58860A9F8E04DE</string>
-				<string>AC34AA954EA27EDD8318D6AD3AB4A530</string>
-				<string>D97B79E65263C1733C0AEEE4328E258E</string>
-				<string>FECE6289CABEFCBBEFDFE2C77DCE5B4F</string>
-				<string>D110C68D088B4CF3E1C8D56893132C6E</string>
-				<string>C576036B2BC69DDFD9CBA268A6CABB81</string>
-				<string>30317EF21F8B0355AF41425CA36B907D</string>
+				<string>F7E9C28B5D3EF6E7A8EF0156A46C39FC</string>
+				<string>825EAD5BD92AF32B5B208A159717B37C</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>LwExcelParseTools</string>
+			<string>DHxlsReader</string>
 			<key>path</key>
-			<string>LwExcelParseTools</string>
+			<string>DHxlsReader</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>55036D74D4FDA5CA3A22B17460AE8695</key>
+		<key>55AE8C8D00F67B4C293900487053D9C5</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1268,14 +1104,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAOpenXmlElement.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOpenXmlElement.m</string>
+			<string>BRAStyles.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>555C9DB95FB8552797F42C4BF1BF6050</key>
+		<key>57B246D62CC3E4D1F1B7E17F15B57AE0</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1283,68 +1117,23 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRARow.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARow.m</string>
+			<string>NativeFont+BoldItalic.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5663EF0C5C6288C729C152AB292AC718</key>
+		<key>5829401F914988E3B46BC1DF7A19F91B</key>
 		<dict>
-			<key>fileRef</key>
-			<string>A34935C1CF91432F204F374BC7906077</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>56E2FF52CCC190AB179AB47310F18DE7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D14A5264149414583F0748AD6E6FC289</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>574A41555EDE676221226936AE8AE95E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FD2407BDBAF891632CB5603B2CD7E024</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>5793093AA22D85FB40BFC336194615C2</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CF0EF8C704AC46A2E7709DE83A04427B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>58979B4B605EA681B3AA3BDF993CC1CA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9380A3A8944EAA41B9C170E5E2E4E836</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAOfficeDocument.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5AB59D7D475CF949EDFBA0A99110DA9B</key>
 		<dict>
@@ -1359,40 +1148,12 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>5BBCF148171291E9F0B66BC791D0B30D</key>
+		<key>5C40271292B3F5A00B98CCA1CE011453</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E262860017B684C3D234743046D437EE</string>
+			<string>A99C583793DA9417C36C4C5A781D8860</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>5BF825763D1217B67F8093C8EBC30FA9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAContentTypesDefaultExtension.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAContentTypesDefaultExtension.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5CC3156C7AAC6F48252F57FA2E45C66E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>LwExcelParseTools-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5CC79264368BC21AFC13C780B848813D</key>
 		<dict>
@@ -1407,35 +1168,7 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>5D04AE67F39D3ED79017C8C34D0A4897</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5D33B03378E4A9598FD95FC81E912EC0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAOpenXmlElement.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOpenXmlElement.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5EB001E2B396C279CA86B801DCCBCB67</key>
+		<key>5D91E4136723E06029CD4EDFD5E1F599</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1443,12 +1176,37 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAComments.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAComments.m</string>
+			<string>LwExcelParseTools-dummy.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5EC49240854D41B9D7DA31D30839D6F1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>NSDictionary+OpenXMLDictionaryParser.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>5ED57628EF74BE93BD7F55FBA52255F0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7168DB6490BDC558B181450D9D65F9EF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>611FD119943B41A9D174F6D344A2B452</key>
 		<dict>
@@ -1463,7 +1221,28 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6190D83DD5F405FBBCA1DA9C21851347</key>
+		<key>61A456CE5E88411B9D23DCB5B4EBC8D6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>74BF5B330E62E2E111B27A14DA464AD8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>62B61A71B78A93CEC298D97B89632F19</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6C41D6A8C2EE8A81B44A66B83D70F870</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>640F07850FF05A1A9D89350BB809E278</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1471,114 +1250,10 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAContentTypes.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAContentTypes.m</string>
+			<string>NativeColor+OpenXML.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>62628B0CD561FBEF43DA421F559C9062</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRACellRange.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACellRange.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>62DD4E88EE04712D81F54B32A60D6E88</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>name</key>
-			<string>libExcelReader.a</string>
-			<key>path</key>
-			<string>ExcelParseTools/Assets/libExcelReader.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>62DE16D4CC89552267B29230CF1621A8</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAWorksheet.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAWorksheet.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>63609C0D74C8CE0029815E07D9673331</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAVmlDrawing.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAVmlDrawing.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>64542B83A155CA4AAE94A669EBD8AB41</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C12779B0C7533C14B196E388FD075AC0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>65612A0441C0980D3829F18242530780</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BC74664C680B4B874032EB48D58E010F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>65EC6502AE2A3172152FD451BF2E8D1F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>88DD7E0FCF579D4D5136DE9C55B5D398</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>66E65708C99C35AD42441067B7E6BC97</key>
 		<dict>
@@ -1642,56 +1317,7 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>6B65708E8864DB38E8E6BC1038DEE982</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9CAAAA4C053DAEE9292BDEF20F22713C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6C00DB3ACD6D843ECAAD9B39252DFDB8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47C11C5F05878C2243BF7B2414BBB620</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>6E874818BAFF19CA538137E26E300FF6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>73D105E21FA73136BBC595310F2DF174</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>70BEAE703DB4B6B22467FB4BE771AC7B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>91B1437F9CA46DBEA40AA625A5BF43CF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>70C5BD2848A719EB72373252CADD701D</key>
+		<key>6B0F3D27FB5ECD30CD9F15463048FC4C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1699,71 +1325,19 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRATheme.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRATheme.h</string>
+			<string>crypt.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>724A6E25EE2694B0E869684C02C7E845</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>unzip.c</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/unzip.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>73744942EA6086099A2225361E182416</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAOfficeDocument.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOfficeDocument.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>73D105E21FA73136BBC595310F2DF174</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NativeFont+BoldItalic.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NativeFont+BoldItalic.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>751D4F83C727A3C6E26806F7A97828F2</key>
+		<key>6B8F4D82A25A2DBDC8FF4FC636E1D529</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9E18632C55ED9C282319CC5850D8698A</string>
+			<string>4B7D0C9760B1632AB0ABDC5EEE2D800E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
-		<key>755D16F627597544875ECF6922530647</key>
+		<key>6C2EA71720189DCBD05C9A3A4FDE923E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1771,12 +1345,137 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAImage.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAImage.m</string>
+			<string>BRAMergeCell.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6C41D6A8C2EE8A81B44A66B83D70F870</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRATheme.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6DD282AC9D0A8F403701A8029806B43D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E449D20E8DF32D2CB98E4E63A48C82BD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>706EC546E46B490F78BC19747F79633E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4CD3C4D5173A921C391DEBC70174BD03</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>71151759D1229FB877B6511D1FDAAC72</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRARelationship.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>714336EA73531A86BDB060C3C30E6FEB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>NativeColor+HTML.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7168DB6490BDC558B181450D9D65F9EF</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAContentTypes.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>741ACC7C41F85DABCDD75BB9D9B14E48</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAContentTypesOverride.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>74BF5B330E62E2E111B27A14DA464AD8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>zip.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>754B75D20FB9AF4DFD117986399CE40F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>129313BA3E8B09918E4AAE696956FAF1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>7571A660598FEDCDACFFCD9484DF0D53</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F7E9C28B5D3EF6E7A8EF0156A46C39FC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>76AED990FFC99193266EE5A662651429</key>
 		<dict>
@@ -1791,22 +1490,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>79720C19D8822EC5EE9D715F544F6C01</key>
+		<key>76D652BDF8BB3DCC8193DF0700507C2B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRASharedStrings.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRASharedStrings.h</string>
+			<string>BRAOpenXmlSubElement.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>79A04213042C365484E7790764EDF4D4</key>
+		<key>784059D2A16F32B46A414AE580DDCA4E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1814,12 +1511,67 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRADrawing.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRADrawing.h</string>
+			<string>unzip.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>78A2F5E619500A11B754F6B499CB8EB7</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>CEC39D2682B4BD6B66794B2ABBC61B54</string>
+				<string>BD81089A729022EA25681771E365598F</string>
+				<string>CC48421FD8F00BB36CD01A15F4DBF86D</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>SSZipArchive</string>
+			<key>path</key>
+			<string>SSZipArchive</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>794A4C249AA7A748345028EBC0342D38</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>LwExcelParseTools-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>795358E315B25C089E504F40A49B28A2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>mztools.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>79A71E566FF1DF199D3278C80246221C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>714336EA73531A86BDB060C3C30E6FEB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>79BAE3E7C06C87E1F25ECC1616899FE8</key>
 		<dict>
@@ -1834,13 +1586,6 @@
 			<key>remoteInfo</key>
 			<string>LwExcelParseTools</string>
 		</dict>
-		<key>7A5FBCDB81214EF022953EBBEB5BE99A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>398EA62D1E3DD2F1154755C764399CFC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>7ADC710E36F23DAD247BFA6C53BFC4E2</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -1854,18 +1599,16 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>7BFA18390E38CE7279100EF873692DCA</key>
+		<key>7C85623C1A890BE2A5A9528772153526</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAWorksheetDrawing.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAWorksheetDrawing.m</string>
+			<string>BRAOpenXmlElement.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1874,8 +1617,8 @@
 			<key>children</key>
 			<array>
 				<string>BA6428E9F66FD5A23C0A2E06ED26CD2F</string>
+				<string>1B561524D6D2AF1CB770EE6EEE23C3FF</string>
 				<string>BC3CA7F9E30CC8F7E2DD044DD34432FC</string>
-				<string>94556ECDB687401DFA0BE18F8C0A8A29</string>
 				<string>DBBF46F37D7DB0EA482C17AE7B29338F</string>
 				<string>1E2B863FB53379437FF4A19624B8C9CD</string>
 			</array>
@@ -1884,22 +1627,14 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>801FACB3F3710AF65AA0F33AA662AAB9</key>
+		<key>7E98BA5A71345B9351926C226215527E</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>1D51574D9C7FF33F1A1D538F7649CA43</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRACellFill.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACellFill.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>8301DEB9A1C6B01EB8A242EC81637FAD</key>
+		<key>825EAD5BD92AF32B5B208A159717B37C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -1907,88 +1642,28 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRACell.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACell.h</string>
+			<string>DHxlsReader.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>830A7BF52B7DFCAB6E30389953F9DB17</key>
+		<key>828F45FC530EBF6A6BFE7854B70712E3</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>LwExcelParseTools.xcconfig</string>
+			<string>BRASharedString.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8502ED4ADEBFA62BDD5A4E9E6C0F9B74</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>ED53C82DC67ECB83055B9443F0F6195D</string>
-				<string>BE8C2A68F513D3543836FCF5541F5A92</string>
-				<string>18AB47B3F7D37AC46DA9CBD834B185CC</string>
-				<string>BA27E06C221337C6809208688CD65542</string>
-				<string>7A5FBCDB81214EF022953EBBEB5BE99A</string>
-				<string>4A163A8C65F584C9542656F5E36AE8A3</string>
-				<string>DD3FC2C6A4382656563BD98A1F0D4787</string>
-				<string>5BBCF148171291E9F0B66BC791D0B30D</string>
-				<string>47379679418D7DD69DFD99DB3A18BD98</string>
-				<string>509C0E4E66DE09515423DDF94AF6BE4E</string>
-				<string>C0A9D84B2F42621D6E0EEB3599A08439</string>
-				<string>56E2FF52CCC190AB179AB47310F18DE7</string>
-				<string>345C2DC31CF3BF51EB7F907CC4CB6F8D</string>
-				<string>0AF9AF9C3DA5F6476DCA8DC26FF92018</string>
-				<string>CFD74F3C13560AFE4DC60EE418131FB9</string>
-				<string>311C28989A8C76ABC05003B6D4849B4F</string>
-				<string>087C4494AE1003957CC3346B32185842</string>
-				<string>FAE81549E1473784E094C959BFA1651A</string>
-				<string>A97C9D38F6840DE38E7FFB31F3848DA3</string>
-				<string>F18DCBB87FE956687E10EE456828F71D</string>
-				<string>19B0F2A954626FD9406714411BAE446A</string>
-				<string>9DA181797073D21866CF46125DB8D84E</string>
-				<string>D53657522BD6024880BA781F17ADCCB3</string>
-				<string>F94C0FE0369B6570F94886FCA1529120</string>
-				<string>46D9E65CC87E8BF2ADDE95FF2C925C26</string>
-				<string>11F6AD3BC37F6B3E34DC4D7C6BD53A3A</string>
-				<string>C3466DEF072A7D3520A988FC9E7C0048</string>
-				<string>52B185AB4FC2BD2BAC581C4EEC8875DC</string>
-				<string>930AA95B13534EA6F1948539451E5103</string>
-				<string>58979B4B605EA681B3AA3BDF993CC1CA</string>
-				<string>C39F7DC02B844C049C420D5828EA869F</string>
-				<string>4257E410E29B9624BCABEB4F4BA0EA55</string>
-				<string>DB8BA981651B39A2D19EF7DAA17EC394</string>
-				<string>B58D18D9EDA982D78FE6A4F62E726003</string>
-				<string>94E7FADC337294AA3A334EC31839D0F8</string>
-				<string>53070C5DB84C654FF9DA922F5A45A754</string>
-				<string>056F855DB2051879D0DADBE37F9A4E24</string>
-				<string>21756D3E801B7933312B1852172A73D6</string>
-				<string>B4E3B5A5C4917D5965B9649BFDFBD8EF</string>
-				<string>6B65708E8864DB38E8E6BC1038DEE982</string>
-				<string>DC9E759B45E64A7716DA65B014895BC5</string>
-				<string>2AEFEC9CA7DEC7FA75F5DE7E8F41BEB8</string>
-				<string>0CB5EDF01A44DF15B5D1FE09823DCA58</string>
-				<string>3474AB13574437AA7AF5F44A995A42A4</string>
-				<string>E8490D043612ADA89A87DB91B56D1004</string>
-				<string>07B35567BB6DD9FE51622FE9622F2417</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>8538E5963C9F4E7686751E93B9F06DCA</key>
+		<key>836D6F0B6191384218CDA35242F7E798</key>
 		<dict>
 			<key>fileRef</key>
-			<string>AC34AA954EA27EDD8318D6AD3AB4A530</string>
+			<string>15C077D3AB022F35751BB5C527FDDF4B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -1999,37 +1674,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>85C5D4667F81C608EFC35F847D7D2552</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAComments.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAComments.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>88DD7E0FCF579D4D5136DE9C55B5D398</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAStyles.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAStyles.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8B5A9A8AFA29E3AE31F55333EC79EC0E</key>
+		<key>87E654A2D917A9A65203AF43A26478FE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2037,27 +1682,65 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRASharedStrings.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRASharedStrings.m</string>
+			<string>BRAVmlDrawing.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8D73A3CA337627FA3C2D190B1906C029</key>
+		<key>889652F16176DBFB576B0165EE3DDDC4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6B0F3D27FB5ECD30CD9F15463048FC4C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>8BF0BE2AA8B79A71D7FCF639A49B35E8</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRASheet.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRASheet.h</string>
+			<string>BRARow.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8D2F3E3954F77184AD7FD9E83CD22522</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DF6A16290FEB17627B850EAACE384C3C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>8D4F318C23B66B13E672189C47198614</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9FCCBC9DACC330D92409A2780ED3CDE4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>8E241A887218E23B81D9D5845BDC6822</key>
 		<dict>
@@ -2066,32 +1749,68 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>9074427E6BAD4E83F41AADE3894DFE48</key>
+		<key>8E6D3A27557283186FFE78F24D3770FE</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>4120BAB19D8CA5C60CA00248ED8D15B9</string>
+				<string>F0F68F274AF60833E60C8D534807348E</string>
+				<string>0E5B9EBFBF7B4E6D43887A13E29968F0</string>
+				<string>F03142482902EE1AA856159C6D018317</string>
+				<string>1AF2D284E7C2BFAEC3E2BF056F4F87FD</string>
+				<string>28EC6E25A3651D0391DED5CA1458E2A0</string>
+				<string>C6B500124A8B304A75B7A49CF4BDA093</string>
+				<string>CFA6A83240864233B01B96ADDA9A591A</string>
+				<string>5C40271292B3F5A00B98CCA1CE011453</string>
+				<string>03DDCD8DB27EE7CEDA6ED100A8F0BC98</string>
+				<string>6DD282AC9D0A8F403701A8029806B43D</string>
+				<string>11EBDA5CC15308CDE6CEF0B3F11E0DB5</string>
+				<string>336D7673B55237FF469CECC6AB2CA9CF</string>
+				<string>CB4B58BEBAE0BD074C6BAE021FDF461C</string>
+				<string>0B281F2CCF2CE23C49F21312A80C3270</string>
+				<string>FF950B77847EC6FD7107E48E9C4CE354</string>
+				<string>0EB7017BED28DAB4E12185C94F58D332</string>
+				<string>E8D892475488B37363B36C86372E1465</string>
+				<string>A75B55BD84C6BAC735C2E1A73E278E4C</string>
+				<string>A91C13E11EC3A29D84A08D0B8357233E</string>
+				<string>3C23F842E38DE83ED54157BB4473D3DD</string>
+				<string>2EEA01A13AF50943A7064B50312AF85E</string>
+				<string>3843037D3041345860137FBF926A1D14</string>
+				<string>3B2032C73A384D167AEB16C2E737EFD8</string>
+				<string>F6D37DE45ACF5D0DC22862FC9F054996</string>
+				<string>6B8F4D82A25A2DBDC8FF4FC636E1D529</string>
+				<string>C039AF4118BEBE08136C83953BD3BE93</string>
+				<string>3D4630F82ADA6CE607F52DEBD598D359</string>
+				<string>62B61A71B78A93CEC298D97B89632F19</string>
+				<string>FAE1B32B4929325D0A0167F3B287469E</string>
+				<string>D6F4D10F9DB34043AB00C2BFEFB3AAA7</string>
+				<string>E476686A348595232A6B61E5076B101B</string>
+				<string>9595C3DEE7A64BF0CE7483FEBB9489D1</string>
+				<string>C271B3E16C5CBF2F32E13C866C549E06</string>
+				<string>105EE985BCAEDF1B9794AF7033D34C8F</string>
+				<string>9156F31CB07BFA9CD3F8CA0EF74E37B2</string>
+				<string>DB01EAA578A315AC25E59C642EE835C4</string>
+				<string>944A17ABC63B38D166DEE0D7C655D072</string>
+				<string>36E7A183C63E88A5B170F9499015A456</string>
+				<string>06BFA15482CA4D772C5A0604625232DD</string>
+				<string>98F669BCB6AEE9F6BCE0AC25E0FEDB43</string>
+				<string>7E98BA5A71345B9351926C226215527E</string>
+				<string>CD22B7A5135A6B4696343B1C157BE0F6</string>
+				<string>BB547F756DCCB58F6F914E3D7769B993</string>
+				<string>CE1024DFB731593D9EB6A60243CD3EA9</string>
+				<string>4F9560D6A52335BFE8147229113691D6</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAOfficeDocument.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOfficeDocument.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>90FB5306EC68108F42624F8BC7EDE42C</key>
+		<key>8F1B2BC35135C18538933978E5661F8A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>3E4E89230EF59BC255123B67864ACF77</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>91338BD0FE9A59FDBE16D579284B7F22</key>
-		<dict>
-			<key>fileRef</key>
-			<string>21E6DE6CCCF0FC28CC39A4B0B87F8DD7</string>
+			<string>CDC3FD52910938AE74CD46A6C9D95C5B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2102,15 +1821,95 @@
 				</array>
 			</dict>
 		</dict>
+		<key>902A24DA639BA0CCE2B53BD58413B30E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mztools.c</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>908D2A9B00906DDEDE2CD9E36710E484</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C657672D49D38B1CC52550B1F95E14F8</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>90C94152E2A0CC8F59CD303692E251AB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4982B40C758178AC13D8C8D0341C12EA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>90F82D6EF51E274B03C14201C072832C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D81837BCA41C04A3CF2E14D592F065DC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>90FB5306EC68108F42624F8BC7EDE42C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3E4E89230EF59BC255123B67864ACF77</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>911E44859807826340FF4D3132CF1C2A</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>C9FE9353D5ED583C68BA335C78DAEC90</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9156F31CB07BFA9CD3F8CA0EF74E37B2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>902A24DA639BA0CCE2B53BD58413B30E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>91825F6A16092C564F184C9F1E8692F2</key>
 		<dict>
 			<key>buildConfigurationList</key>
 			<string>AEC961E201E3DCEA32D65AC3016C918F</string>
 			<key>buildPhases</key>
 			<array>
-				<string>8502ED4ADEBFA62BDD5A4E9E6C0F9B74</string>
+				<string>8E6D3A27557283186FFE78F24D3770FE</string>
 				<string>9D44412B571A00B44FE6617564A49C11</string>
-				<string>A0B4CD79D0B6941D4B6195D41C2576F3</string>
+				<string>D9BB9F785A424FD7206FED49B4225CF7</string>
 			</array>
 			<key>buildRules</key>
 			<array/>
@@ -2127,40 +1926,10 @@
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>91B1437F9CA46DBEA40AA625A5BF43CF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRASharedString.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRASharedString.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>924B39D3925F361FA78539F8FD44252C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRARelationships.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARelationships.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>929E821C415423D5AFEB706734D97B22</key>
+		<key>922322A4AFE054BF31A7FE3BFAE34B7B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2BEDE258E20490F13B474DBC80CD5B02</string>
+			<string>9EE896659DCEB890A029DD199588945B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2171,40 +1940,12 @@
 				</array>
 			</dict>
 		</dict>
-		<key>930AA95B13534EA6F1948539451E5103</key>
+		<key>944A17ABC63B38D166DEE0D7C655D072</key>
 		<dict>
 			<key>fileRef</key>
-			<string>48ACEECA35C0C5A027281D9018CB2466</string>
+			<string>640F07850FF05A1A9D89350BB809E278</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>9380A3A8944EAA41B9C170E5E2E4E836</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAVmlDrawing.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAVmlDrawing.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>94556ECDB687401DFA0BE18F8C0A8A29</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>54C971196BEB199AE00BEE9CFD3827C9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>947D6A2635B7F3E0032C841D9FEBF9A2</key>
 		<dict>
@@ -2216,6 +1957,17 @@
 			<string>sourcecode.c.h</string>
 			<key>path</key>
 			<string>Pods-LwExcelParseTools-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>948C2F4A56E5A3936004CC10E2A6F92C</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>LwExcelParseTools.modulemap</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2232,28 +1984,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>94E7FADC337294AA3A334EC31839D0F8</key>
+		<key>94EA2843C7D83D7819161D03DC0D2B71</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>NativeColor+OpenXML.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9595C3DEE7A64BF0CE7483FEBB9489D1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>ED150CE7C299DFE07B328DB36CBBEEF3</string>
+			<string>52B019786C1AF9F38E6D60D662F46B5B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>9898EC71D4BF2B584A7CF7C9B1E571EA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8D73A3CA337627FA3C2D190B1906C029</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9957813503A38BB9126C8CF74C81235B</key>
+		<key>95CC1D12923E06F2E0BDB03DF522231C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2261,73 +2012,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAOfficeDocumentPackage.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOfficeDocumentPackage.h</string>
+			<string>BRACalcChain.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>99692E33952DABB9A3BE27484761EA45</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAElementWithRelationships.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAElementWithRelationships.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>99DD128BEFC21C06609202530B29A028</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRARelationship.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRARelationship.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9B0D28D007D71387DE25808689679128</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D110C68D088B4CF3E1C8D56893132C6E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9BA54A65F02A5A98F955452872BD289F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAColumn.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAColumn.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9CAAAA4C053DAEE9292BDEF20F22713C</key>
+		<key>9620A76DD4072C6F15DF5D2BCE0C2FB0</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2335,10 +2025,160 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>NSDictionary+DeepCopy.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+DeepCopy.m</string>
+			<string>BRAWorksheetDrawing.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>96C50772D73A9F2105F075258369B08D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>NativeColor+HTML.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>98CF720F3685A1BD973F85D4033AB8AE</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>95CC1D12923E06F2E0BDB03DF522231C</string>
+				<string>1CF47206CADD0BCBA8D7B86684F529BB</string>
+				<string>CCB3E52D92A7EE1010A200B5E8EE4D1A</string>
+				<string>A3697818623AE9C35F1079D6F588A1E8</string>
+				<string>09DE6CC04A22B1E4B20B0E3C4F5EE187</string>
+				<string>253A979319868EB1AD51212DAE77ECE6</string>
+				<string>4EC30A49A0AA45E394B8D5995667E15C</string>
+				<string>996F0028467BC3F330E1AA1AB22767E8</string>
+				<string>15C077D3AB022F35751BB5C527FDDF4B</string>
+				<string>DCE9608CB88D23FB2146EBF99B2C4A44</string>
+				<string>D5FEAFD0E4715426E1056EBD22CA5822</string>
+				<string>BC54EA51EC81A810D2D09E5A6B251BCE</string>
+				<string>ED30C63052B3D56BE63D3D6E74CAE1FE</string>
+				<string>B8450EB68B3C119A6282AB973DF4CBA6</string>
+				<string>9FCCBC9DACC330D92409A2780ED3CDE4</string>
+				<string>131A6330D4F10FDF72D00873645A89E7</string>
+				<string>4CD3C4D5173A921C391DEBC70174BD03</string>
+				<string>A99C583793DA9417C36C4C5A781D8860</string>
+				<string>7168DB6490BDC558B181450D9D65F9EF</string>
+				<string>04D7261728EC9760BDD963959066FC4C</string>
+				<string>BD356A175071A8FBCF4F77CFA255F536</string>
+				<string>E449D20E8DF32D2CB98E4E63A48C82BD</string>
+				<string>B6ABC68675BD1D827FF50146B12ECDA8</string>
+				<string>741ACC7C41F85DABCDD75BB9D9B14E48</string>
+				<string>47E8868E6B3B8C1133F1F1835141FEBE</string>
+				<string>F70BACF7B222257E1D51250BCABA2E33</string>
+				<string>9EE896659DCEB890A029DD199588945B</string>
+				<string>FD6A120E6370AEA901F7ACD941360A3F</string>
+				<string>AA9661D0FB118947D5A13E8227D2CBC4</string>
+				<string>F7DEBD0848BFDF230E601336CD941322</string>
+				<string>4982B40C758178AC13D8C8D0341C12EA</string>
+				<string>6C2EA71720189DCBD05C9A3A4FDE923E</string>
+				<string>F4CD44A962CB03CB4636BA7B5D5C57E2</string>
+				<string>206B63B381454A8E97057FD9944F5F43</string>
+				<string>9A7C1AEDFA82553219EC44878459421F</string>
+				<string>5829401F914988E3B46BC1DF7A19F91B</string>
+				<string>F6B16BAE62252DB77322A899728F15B0</string>
+				<string>0CA6A2FD4DE92014CC77BDCE7B66AAD5</string>
+				<string>7C85623C1A890BE2A5A9528772153526</string>
+				<string>ECC8F7EFBADEB435ADD90C0B7323F966</string>
+				<string>33ED766023A94248A4644EBAD35F3168</string>
+				<string>76D652BDF8BB3DCC8193DF0700507C2B</string>
+				<string>A3CE8954685834DA2E5BFDBDFF2C3940</string>
+				<string>F65CBEC95F02D2369E33177B4520684F</string>
+				<string>C657672D49D38B1CC52550B1F95E14F8</string>
+				<string>71151759D1229FB877B6511D1FDAAC72</string>
+				<string>129313BA3E8B09918E4AAE696956FAF1</string>
+				<string>C9B263EF348F573BA514837B02C2EF55</string>
+				<string>DF6A16290FEB17627B850EAACE384C3C</string>
+				<string>8BF0BE2AA8B79A71D7FCF639A49B35E8</string>
+				<string>828F45FC530EBF6A6BFE7854B70712E3</string>
+				<string>C86F334ECE020B18861061E4515F097D</string>
+				<string>3AC1B3C9BCEF47E2A8A7BD8DEDEC994F</string>
+				<string>4B7D0C9760B1632AB0ABDC5EEE2D800E</string>
+				<string>242F71C241F1BF223CAD27F64E471B2E</string>
+				<string>DA8B71238F49B26D277B3D4951B950CF</string>
+				<string>EF9C6AC27C7628748E87889F14FF764F</string>
+				<string>55AE8C8D00F67B4C293900487053D9C5</string>
+				<string>D6F50DE36C5CA56E57406B983B714BCE</string>
+				<string>6C41D6A8C2EE8A81B44A66B83D70F870</string>
+				<string>BD87D1E75AE69CA6722D400EFAAC1554</string>
+				<string>87E654A2D917A9A65203AF43A26478FE</string>
+				<string>EBCCF38B221AD1D91A160645C7C0E116</string>
+				<string>2B51760CD15EFD86A2240D7AA0609A37</string>
+				<string>4001F7B110DA7A31C18FD16E58ECEAE8</string>
+				<string>9620A76DD4072C6F15DF5D2BCE0C2FB0</string>
+				<string>714336EA73531A86BDB060C3C30E6FEB</string>
+				<string>96C50772D73A9F2105F075258369B08D</string>
+				<string>94EA2843C7D83D7819161D03DC0D2B71</string>
+				<string>640F07850FF05A1A9D89350BB809E278</string>
+				<string>30FB03C3FDEDCF4E384BF3F4EFB49F6F</string>
+				<string>57B246D62CC3E4D1F1B7E17F15B57AE0</string>
+				<string>CDC3FD52910938AE74CD46A6C9D95C5B</string>
+				<string>F824B65F95433E688ABF0C209DB69C93</string>
+				<string>5EC49240854D41B9D7DA31D30839D6F1</string>
+				<string>C39AB92BA6F6024654F01390C86CF5A4</string>
+				<string>22C69356F5B2F7FD865B9C13E9E9E558</string>
+				<string>1D51574D9C7FF33F1A1D538F7649CA43</string>
+				<string>E6CFD725FE542F66610279FCC8B4B666</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>XlsxReaderWriter</string>
+			<key>path</key>
+			<string>XlsxReaderWriter</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>98F669BCB6AEE9F6BCE0AC25E0FEDB43</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C39AB92BA6F6024654F01390C86CF5A4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>996F0028467BC3F330E1AA1AB22767E8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRACellFill.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9A7C1AEDFA82553219EC44878459421F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAOfficeDocument.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9B7586FD11D288FCB455A0B9C99DE648</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>ioapi.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2355,14 +2195,44 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>9DA181797073D21866CF46125DB8D84E</key>
+		<key>9EE896659DCEB890A029DD199588945B</key>
 		<dict>
-			<key>fileRef</key>
-			<string>0A2F2A9A233D182B3A1B34B4B28E2573</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAElementWithRelationships.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9DB355B60B99B4F6051EA8279922F714</key>
+		<key>9FCCBC9DACC330D92409A2780ED3CDE4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAComment.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A1CA793C64433E6D66D65D8C6C76DCD3</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>zip.c</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A3697818623AE9C35F1079D6F588A1E8</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2370,14 +2240,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAStyles.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAStyles.m</string>
+			<string>BRACalcChainCell.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9E18632C55ED9C282319CC5850D8698A</key>
+		<key>A3CE8954685834DA2E5BFDBDFF2C3940</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2385,104 +2253,8 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>SSZipArchive.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/SSZipArchive.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A0B4CD79D0B6941D4B6195D41C2576F3</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>0B030BA79FC7FBC32974FDF0C749653B</string>
-				<string>0FC9020C5AD3897B666F49141BF98057</string>
-				<string>A66E8248CE6919B32E57CE5576BF5660</string>
-				<string>50734EAF0C66787594040DD34100DB29</string>
-				<string>E6BAE29AB23078411AE26BF8D8EF3367</string>
-				<string>0A26649CB5318C8FE9809B13EEDEB62A</string>
-				<string>E031A34CB98C7BB9A34FBBD183F17F7B</string>
-				<string>CEA1E32DF02CB619F752FDAFECEE252D</string>
-				<string>2D6A488501F60D4E4197A9C62D47146E</string>
-				<string>2B044396ADD8CC5252A24B1563C30095</string>
-				<string>3819E08E6440B8486AF92429E97DFDF3</string>
-				<string>46189FD2E22E33266B6E1647002D479E</string>
-				<string>A4A2BD30B64742120A96FD59434218EA</string>
-				<string>2593DAA96A1A37022E3D21E227D2D1F2</string>
-				<string>B8A0834BB27B0853157D74F188F74AAF</string>
-				<string>64542B83A155CA4AAE94A669EBD8AB41</string>
-				<string>EBBF3B6D7F7FEAD5338623C95FBAFF20</string>
-				<string>A562C402CE80DAEF697020E41D6B27FA</string>
-				<string>285D7F1BE83830C4C9A792270D266C3D</string>
-				<string>12B34AF7317407F39C2440D33F40CECB</string>
-				<string>6C00DB3ACD6D843ECAAD9B39252DFDB8</string>
-				<string>0FF97A2D03EBE0182A61979E17FB4742</string>
-				<string>929E821C415423D5AFEB706734D97B22</string>
-				<string>19D4D2D63288160F7261B512905E90FF</string>
-				<string>F6E4FA2CC8D0313BB022FC8DCAF1CAE7</string>
-				<string>91338BD0FE9A59FDBE16D579284B7F22</string>
-				<string>70BEAE703DB4B6B22467FB4BE771AC7B</string>
-				<string>1A539906126CDF943A4D7006EF7822F4</string>
-				<string>9898EC71D4BF2B584A7CF7C9B1E571EA</string>
-				<string>65EC6502AE2A3172152FD451BF2E8D1F</string>
-				<string>15F94DD8BF28B823DDAF4E75FD03439A</string>
-				<string>4D13F5758DDDE0E363BDDA3BF0B2F6B5</string>
-				<string>F668257CAFB61BFD5318E9ED18AFA243</string>
-				<string>47C28533250182E42F6053283708CA94</string>
-				<string>5663EF0C5C6288C729C152AB292AC718</string>
-				<string>A8F275A43D57258E8C8EEAED12E1741E</string>
-				<string>33E3A29333ACD5227DD2281284510164</string>
-				<string>5793093AA22D85FB40BFC336194615C2</string>
-				<string>50AF687EB9CBED42EF0087D3C08E671E</string>
-				<string>118FD58E5F364CD18B7972E7C2B94EA9</string>
-				<string>15E3E15AB8619E9E85CBBFE8CF458FD2</string>
-				<string>3CA20267157A52E3077C5824C78FC520</string>
-				<string>0CD0BB655F7046690BF5D7F5354E90CC</string>
-				<string>6E874818BAFF19CA538137E26E300FF6</string>
-				<string>172072F644918DAD4E6D1AA31B40A629</string>
-				<string>574A41555EDE676221226936AE8AE95E</string>
-				<string>65612A0441C0980D3829F18242530780</string>
-				<string>751D4F83C727A3C6E26806F7A97828F2</string>
-				<string>BCCEB3766C7C80CB480EA4284075377F</string>
-				<string>4CF2C93CD31C6B4CC615423FBE953EC0</string>
-				<string>8538E5963C9F4E7686751E93B9F06DCA</string>
-				<string>9B0D28D007D71387DE25808689679128</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>A1FB9CBEAE76662D44920D09575146F2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAContentTypesDefaultExtension.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAContentTypesDefaultExtension.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A34935C1CF91432F204F374BC7906077</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>crypt.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/crypt.h</string>
+			<string>BRAPlatformSpecificDefines.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2499,48 +2271,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A40F80C4CF56EA98BF38E28C2D213106</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAMergeCell.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAMergeCell.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A426822A267AB3EF478D610212C80B48</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>mztools.c</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/mztools.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A4A2BD30B64742120A96FD59434218EA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>79A04213042C365484E7790764EDF4D4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>A4ADF7BDDEDEF4AC3D05A166A551512D</key>
 		<dict>
 			<key>buildConfigurations</key>
@@ -2555,10 +2285,17 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>A562C402CE80DAEF697020E41D6B27FA</key>
+		<key>A75B55BD84C6BAC735C2E1A73E278E4C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>73744942EA6086099A2225361E182416</string>
+			<string>0CA6A2FD4DE92014CC77BDCE7B66AAD5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A84C48C201225E9CFC7C09DC0DBDF8BD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>22C69356F5B2F7FD865B9C13E9E9E558</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2569,25 +2306,17 @@
 				</array>
 			</dict>
 		</dict>
-		<key>A63FEBA6BD651D539FE8D6DE12E9B4F1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRANumberFormat.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRANumberFormat.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A66E8248CE6919B32E57CE5576BF5660</key>
+		<key>A91C13E11EC3A29D84A08D0B8357233E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8301DEB9A1C6B01EB8A242EC81637FAD</string>
+			<string>ECC8F7EFBADEB435ADD90C0B7323F966</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>A9669A9D4154D45D44ECCBA3F72FA62A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>09DE6CC04A22B1E4B20B0E3C4F5EE187</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -2598,7 +2327,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>A78544CE3FD63C445E7E436B5BE73BF4</key>
+		<key>A99C583793DA9417C36C4C5A781D8860</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2606,28 +2335,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRADrawing.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRADrawing.m</string>
+			<string>BRAComments.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A8F275A43D57258E8C8EEAED12E1741E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AB1F4B647375BE3CDDED9F677332BBF3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>A93B36FDFC58C129DDFDF78E32E097E3</key>
+		<key>AA9661D0FB118947D5A13E8227D2CBC4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2635,47 +2348,8 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAComment.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAComment.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>A97C9D38F6840DE38E7FFB31F3848DA3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E5A52F66FE829A80D7A7BD3473F37C16</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A98160F5ED90304A32507BC0E36BAE27</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAContentTypes.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAContentTypes.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AB1F4B647375BE3CDDED9F677332BBF3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>DHcell.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/DHxlsReader/DHcell.h</string>
+			<string>BRAImage.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2693,18 +2367,14 @@
 				</array>
 			</dict>
 		</dict>
-		<key>AC34AA954EA27EDD8318D6AD3AB4A530</key>
+		<key>ABF5B16BD241B335DFEBF0DD8865918C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>XMLDictionary.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XMLDictionary/XMLDictionary.h</string>
+			<string>unzip.c</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2722,7 +2392,7 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>B0F34F094FAE0FA9163EE0EE82F22D9E</key>
+		<key>AF18CD2684643E705090853F64A24CA9</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2730,10 +2400,8 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAWorksheet.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAWorksheet.m</string>
+			<string>XMLDictionary.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2810,25 +2478,10 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>B46D4CDD9C1ADA1A044CE094EFB07FC1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRACellFill.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACellFill.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>B49062A3AFD40C37485AA98A291550BB</key>
 		<dict>
 			<key>baseConfigurationReference</key>
-			<string>830A7BF52B7DFCAB6E30389953F9DB17</string>
+			<string>F15BAA5D93B881F2DAB175736EE74652</string>
 			<key>buildSettings</key>
 			<dict>
 				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
@@ -2881,19 +2534,18 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>B4E3B5A5C4917D5965B9649BFDFBD8EF</key>
+		<key>B6ABC68675BD1D827FF50146B12ECDA8</key>
 		<dict>
-			<key>fileRef</key>
-			<string>1A88E35AC57EDC7B030EC5556337D7FA</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B58D18D9EDA982D78FE6A4F62E726003</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FF09EFACC2DA72F9DB172F84ECF25F24</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAContentTypesOverride.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>B798FD5BB543F34BC645401B2433A799</key>
 		<dict>
@@ -2906,7 +2558,7 @@
 			<key>targetProxy</key>
 			<string>79BAE3E7C06C87E1F25ECC1616899FE8</string>
 		</dict>
-		<key>B826A6AF7B55702594CF6436A2B4EEBA</key>
+		<key>B8450EB68B3C119A6282AB973DF4CBA6</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2914,33 +2566,10 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRANumberFormat.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRANumberFormat.m</string>
+			<string>BRAColumn.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B8A0834BB27B0853157D74F188F74AAF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D21989BA49E5ECB8FF1CE7033217723F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>BA27E06C221337C6809208688CD65542</key>
-		<dict>
-			<key>fileRef</key>
-			<string>801FACB3F3710AF65AA0F33AA662AAB9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>BA6428E9F66FD5A23C0A2E06ED26CD2F</key>
 		<dict>
@@ -2959,18 +2588,12 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>BBAC9987A16A97A21750FDC3BF451251</key>
+		<key>BB547F756DCCB58F6F914E3D7769B993</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>ABF5B16BD241B335DFEBF0DD8865918C</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>LwExcelParseTools-prefix.pch</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>BC3CA7F9E30CC8F7E2DD044DD34432FC</key>
 		<dict>
@@ -2985,7 +2608,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BC74664C680B4B874032EB48D58E010F</key>
+		<key>BC54EA51EC81A810D2D09E5A6B251BCE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRACellRange.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BD356A175071A8FBCF4F77CFA255F536</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2993,17 +2629,15 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSDictionary+OpenXmlString.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+OpenXmlString.h</string>
+			<string>BRAContentTypesDefaultExtension.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BCCEB3766C7C80CB480EA4284075377F</key>
+		<key>BD5ECE3EF54A0A58B646FFC240E32DB7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E14DB50C01913FCAF8C37962116344A0</string>
+			<string>33ED766023A94248A4644EBAD35F3168</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3014,7 +2648,20 @@
 				</array>
 			</dict>
 		</dict>
-		<key>BCECCB178980F04F24974C37CE9D262A</key>
+		<key>BD81089A729022EA25681771E365598F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>SSZipArchive.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>BD87D1E75AE69CA6722D400EFAAC1554</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3022,19 +2669,10 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRACellRange.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACellRange.h</string>
+			<string>BRAVmlDrawing.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BE8C2A68F513D3543836FCF5541F5A92</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C54F6F81F926CFC2E16E4D95ED6C42A0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>BF6342C8B29F4CEEA088EFF7AB4DE362</key>
 		<dict>
@@ -3049,54 +2687,30 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C0A9D84B2F42621D6E0EEB3599A08439</key>
+		<key>C039AF4118BEBE08136C83953BD3BE93</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5BF825763D1217B67F8093C8EBC30FA9</string>
+			<string>DA8B71238F49B26D277B3D4951B950CF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>C12779B0C7533C14B196E388FD075AC0</key>
+		<key>C271B3E16C5CBF2F32E13C866C549E06</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5D91E4136723E06029CD4EDFD5E1F599</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C39AB92BA6F6024654F01390C86CF5A4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAMergeCell.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAMergeCell.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C3466DEF072A7D3520A988FC9E7C0048</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4BA0F8CA0DE09994ADB194B188DFCDBD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C39F7DC02B844C049C420D5828EA869F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B0F34F094FAE0FA9163EE0EE82F22D9E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>C42C963BEBC1D813EA3B5A69018B8251</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>LwExcelParseTools.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/LwExcelParseTools.h</string>
+			<string>NSDictionary+OpenXMLDictionaryParser.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3124,7 +2738,69 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C54F6F81F926CFC2E16E4D95ED6C42A0</key>
+		<key>C58E8BE3C8509E613DCD23E158924F23</key>
+		<dict>
+			<key>fileRef</key>
+			<string>242F71C241F1BF223CAD27F64E471B2E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C5F27F4BBA07A4C0635FEA90D965089D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EBCCF38B221AD1D91A160645C7C0E116</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C657672D49D38B1CC52550B1F95E14F8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRARelationship.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C6B500124A8B304A75B7A49CF4BDA093</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B8450EB68B3C119A6282AB973DF4CBA6</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>C6EED23A3A3AF958897F38AD25327A94</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F6B16BAE62252DB77322A899728F15B0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>C86F334ECE020B18861061E4515F097D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3132,27 +2808,104 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRACalcChainCell.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACalcChainCell.m</string>
+			<string>BRASharedString.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C576036B2BC69DDFD9CBA268A6CABB81</key>
+		<key>C9B263EF348F573BA514837B02C2EF55</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRARelationships.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C9FE9353D5ED583C68BA335C78DAEC90</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>archive.ar</string>
+			<key>name</key>
+			<string>libExcelReader.a</string>
+			<key>path</key>
+			<string>ExcelParseTools/Assets/libExcelReader.a</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CB3FA6BE8A291471C7D3922C5D72B625</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E6CFD725FE542F66610279FCC8B4B666</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CB4B58BEBAE0BD074C6BAE021FDF461C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>FD6A120E6370AEA901F7ACD941360A3F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CBA34E077033BC65015BA546004B99F4</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>62DD4E88EE04712D81F54B32A60D6E88</string>
+				<string>0574F7241E3106BDCC2896D62F845415</string>
+				<string>948C2F4A56E5A3936004CC10E2A6F92C</string>
+				<string>F15BAA5D93B881F2DAB175736EE74652</string>
+				<string>5D91E4136723E06029CD4EDFD5E1F599</string>
+				<string>794A4C249AA7A748345028EBC0342D38</string>
+				<string>D81837BCA41C04A3CF2E14D592F065DC</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Frameworks</string>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>LwExcelParseTools/Pods/Target Support Files/LwExcelParseTools</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C8740E2CC2F745887E3827F6DCE7C16C</key>
+		<key>CC48421FD8F00BB36CD01A15F4DBF86D</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>6B0F3D27FB5ECD30CD9F15463048FC4C</string>
+				<string>52B019786C1AF9F38E6D60D662F46B5B</string>
+				<string>9B7586FD11D288FCB455A0B9C99DE648</string>
+				<string>902A24DA639BA0CCE2B53BD58413B30E</string>
+				<string>795358E315B25C089E504F40A49B28A2</string>
+				<string>ABF5B16BD241B335DFEBF0DD8865918C</string>
+				<string>784059D2A16F32B46A414AE580DDCA4E</string>
+				<string>A1CA793C64433E6D66D65D8C6C76DCD3</string>
+				<string>74BF5B330E62E2E111B27A14DA464AD8</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>minizip</string>
+			<key>path</key>
+			<string>minizip</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>CCB3E52D92A7EE1010A200B5E8EE4D1A</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3160,14 +2913,19 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRACellFormat.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACellFormat.h</string>
+			<string>BRACalcChainCell.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C984B554DF3162A649A20C87169B4069</key>
+		<key>CD22B7A5135A6B4696343B1C157BE0F6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BD81089A729022EA25681771E365598F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CDC3FD52910938AE74CD46A6C9D95C5B</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3175,27 +2933,17 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAPlatformSpecificDefines.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAPlatformSpecificDefines.h</string>
+			<string>NSDictionary+DeepCopy.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>CB7D8CB662E5E77C717E3DB163058FFE</key>
+		<key>CE1024DFB731593D9EB6A60243CD3EA9</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>AF18CD2684643E705090853F64A24CA9</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRACell.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRACell.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>CE5FD12A1F2DA79E10F859FF2075EC01</key>
 		<dict>
@@ -3212,21 +2960,7 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>CEA1E32DF02CB619F752FDAFECEE252D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A93B36FDFC58C129DDFDF78E32E097E3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>CF0EF8C704AC46A2E7709DE83A04427B</key>
+		<key>CEC39D2682B4BD6B66794B2ABBC61B54</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3234,19 +2968,32 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>ioapi.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/ioapi.h</string>
+			<string>SSZipArchive.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>CFD74F3C13560AFE4DC60EE418131FB9</key>
+		<key>CFA6A83240864233B01B96ADDA9A591A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>755D16F627597544875ECF6922530647</string>
+			<string>131A6330D4F10FDF72D00873645A89E7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>CFA8C49DBA02BC3C3D04671023E38858</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>E02D60A2544BA31E26583E6826633D84</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>ExcelParseTools</string>
+			<key>path</key>
+			<string>ExcelParseTools</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D067781498EF75A0893DFE812043E83C</key>
 		<dict>
@@ -3258,36 +3005,6 @@
 			<string>text.plist.xml</string>
 			<key>path</key>
 			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D110C68D088B4CF3E1C8D56893132C6E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>zip.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/zip.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>D14A5264149414583F0748AD6E6FC289</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAContentTypesOverride.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAContentTypesOverride.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3318,20 +3035,19 @@
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>D21989BA49E5ECB8FF1CE7033217723F</key>
+		<key>D38F33BD62C9356B86FE0AD9F2137D24</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>ED30C63052B3D56BE63D3D6E74CAE1FE</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>BRAImage.h</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAImage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>D41D8CD98F00B204E9800998ECF8427E</key>
 		<dict>
@@ -3372,42 +3088,129 @@
 				<string>D1E7D0A4F48A42120FAF69320A54F783</string>
 			</array>
 		</dict>
-		<key>D53657522BD6024880BA781F17ADCCB3</key>
+		<key>D5FEAFD0E4715426E1056EBD22CA5822</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRACellRange.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D6F4D10F9DB34043AB00C2BFEFB3AAA7</key>
 		<dict>
 			<key>fileRef</key>
-			<string>30B834FA207EA1B55D5F222D9C565A5B</string>
+			<string>2B51760CD15EFD86A2240D7AA0609A37</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>D97B79E65263C1733C0AEEE4328E258E</key>
+		<key>D6F50DE36C5CA56E57406B983B714BCE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>XMLDictionary.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XMLDictionary/XMLDictionary.m</string>
+			<string>BRATheme.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DA03A7E9100CD6B0757F1DB55A733C8D</key>
+		<key>D81837BCA41C04A3CF2E14D592F065DC</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAOpenXmlSubElement.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOpenXmlSubElement.m</string>
+			<string>LwExcelParseTools-umbrella.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D9BB9F785A424FD7206FED49B4225CF7</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>2C5E1E336C9B0CAAD495B461E1254117</string>
+				<string>3BC21F8B098CEF6809F30BDC209190AF</string>
+				<string>A9669A9D4154D45D44ECCBA3F72FA62A</string>
+				<string>EEC2FC08FC33BAF8908C2BF5B2E020A1</string>
+				<string>836D6F0B6191384218CDA35242F7E798</string>
+				<string>153C0F56FB847AB7166ACBC90EAC7ACD</string>
+				<string>D38F33BD62C9356B86FE0AD9F2137D24</string>
+				<string>8D4F318C23B66B13E672189C47198614</string>
+				<string>706EC546E46B490F78BC19747F79633E</string>
+				<string>5ED57628EF74BE93BD7F55FBA52255F0</string>
+				<string>F153061E76538E0D157DD92F29F518D1</string>
+				<string>1F3E462C34161DC549BA459B22C97C79</string>
+				<string>48538FD5CA176F4CD7E902CC0282B3F3</string>
+				<string>922322A4AFE054BF31A7FE3BFAE34B7B</string>
+				<string>1F1BEF92B352F47BE1E8909634B20914</string>
+				<string>90C94152E2A0CC8F59CD303692E251AB</string>
+				<string>46AC3062DB385CCF20E30F627544ED80</string>
+				<string>494CF35E65C3EB6FCDF1C01FF736F1E5</string>
+				<string>C6EED23A3A3AF958897F38AD25327A94</string>
+				<string>37271BF6A82B86B20206DBFCBF6666F6</string>
+				<string>BD5ECE3EF54A0A58B646FFC240E32DB7</string>
+				<string>091B9998047D730742DB27087391D3D7</string>
+				<string>02AB39A39D44DD83E2A7F215A5997885</string>
+				<string>908D2A9B00906DDEDE2CD9E36710E484</string>
+				<string>754B75D20FB9AF4DFD117986399CE40F</string>
+				<string>8D2F3E3954F77184AD7FD9E83CD22522</string>
+				<string>2A525D84033BFAD1E8607BDB70F7FE1C</string>
+				<string>1F73D023C892CED9EE6A9A5939E8BD1D</string>
+				<string>C58E8BE3C8509E613DCD23E158924F23</string>
+				<string>1460659BC3A344A0214E1A699A6824DB</string>
+				<string>DA39BB1D89F2BE304EF99CB4F6110B1F</string>
+				<string>47E638A58FB7748A670534042335D69B</string>
+				<string>C5F27F4BBA07A4C0635FEA90D965089D</string>
+				<string>1AA616C617E53FF46997C7420FD11B82</string>
+				<string>889652F16176DBFB576B0165EE3DDDC4</string>
+				<string>7571A660598FEDCDACFFCD9484DF0D53</string>
+				<string>EFC94C26BE080B22DA217575F4725781</string>
+				<string>E0099E17D40785949D39DE82F00A2378</string>
+				<string>90F82D6EF51E274B03C14201C072832C</string>
+				<string>E5BBDBD86A379C4EAF0454BAB833F36C</string>
+				<string>22B4EAEDF308081625ABDC2168CFB294</string>
+				<string>79A71E566FF1DF199D3278C80246221C</string>
+				<string>2204B9CBF450B3F2A027383A3D5AB2BF</string>
+				<string>381DB67F4C7DA270AC005F2E5476DFAE</string>
+				<string>8F1B2BC35135C18538933978E5661F8A</string>
+				<string>3DE15C81594AE172A455A9EC3857385F</string>
+				<string>A84C48C201225E9CFC7C09DC0DBDF8BD</string>
+				<string>E7E3F94EC59D033BD541C8708FDB4D3D</string>
+				<string>2C0EE146BD5CE0A994668D0A564266D2</string>
+				<string>CB3FA6BE8A291471C7D3922C5D72B625</string>
+				<string>4E75C21695E3B423C8A1D66FB97E2075</string>
+				<string>61A456CE5E88411B9D23DCB5B4EBC8D6</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>DA39BB1D89F2BE304EF99CB4F6110B1F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D6F50DE36C5CA56E57406B983B714BCE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>DA448F278355EEE084089949455D2938</key>
 		<dict>
@@ -3424,7 +3227,7 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>DB5C459277AFE6741A34B6E63F840B65</key>
+		<key>DA8B71238F49B26D277B3D4951B950CF</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3432,17 +3235,15 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRASharedString.m</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRASharedString.m</string>
+			<string>BRASheet.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DB8BA981651B39A2D19EF7DAA17EC394</key>
+		<key>DB01EAA578A315AC25E59C642EE835C4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>FA102429B280812F451FFBAA1F7AAD4C</string>
+			<string>96C50772D73A9F2105F075258369B08D</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3460,19 +3261,34 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DC9E759B45E64A7716DA65B014895BC5</key>
+		<key>DCE9608CB88D23FB2146EBF99B2C4A44</key>
 		<dict>
-			<key>fileRef</key>
-			<string>04B572A8B89929988533B91E755C8B69</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRACellFormat.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DD3FC2C6A4382656563BD98A1F0D4787</key>
+		<key>DD6EF17877C8D99B7E343E5050DA7558</key>
 		<dict>
-			<key>fileRef</key>
-			<string>32047252BCE718771C4F69DF44B8972D</string>
+			<key>children</key>
+			<array>
+				<string>071F77A535000727A31C34EA502EFB04</string>
+				<string>AF18CD2684643E705090853F64A24CA9</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>XMLDictionary</string>
+			<key>path</key>
+			<string>XMLDictionary</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>DD85FE830F8338E410DEA49134352FD4</key>
 		<dict>
@@ -3487,7 +3303,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DF201D03113DF3A6A6203E5BE63CEDA8</key>
+		<key>DF6A16290FEB17627B850EAACE384C3C</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3495,17 +3311,15 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NativeColor+OpenXML.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NativeColor+OpenXML.h</string>
+			<string>BRARow.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E031A34CB98C7BB9A34FBBD183F17F7B</key>
+		<key>E0099E17D40785949D39DE82F00A2378</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9BA54A65F02A5A98F955452872BD289F</string>
+			<string>9B7586FD11D288FCB455A0B9C99DE648</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3516,7 +3330,61 @@
 				</array>
 			</dict>
 		</dict>
-		<key>E14DB50C01913FCAF8C37962116344A0</key>
+		<key>E02D60A2544BA31E26583E6826633D84</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>4D519E20D9725B36E3ABBB846C1ACF9C</string>
+				<string>264EEED7A4A1C25AE305BA4E7ED48AEE</string>
+				<string>54A619A8748271CAEC2023798094C246</string>
+				<string>78A2F5E619500A11B754F6B499CB8EB7</string>
+				<string>98CF720F3685A1BD973F85D4033AB8AE</string>
+				<string>DD6EF17877C8D99B7E343E5050DA7558</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E449D20E8DF32D2CB98E4E63A48C82BD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAContentTypesDefaultExtension.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E476686A348595232A6B61E5076B101B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9620A76DD4072C6F15DF5D2BCE0C2FB0</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>E5BBDBD86A379C4EAF0454BAB833F36C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4D519E20D9725B36E3ABBB846C1ACF9C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>E6CFD725FE542F66610279FCC8B4B666</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3524,62 +3392,15 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>unzip.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/unzip.h</string>
+			<string>XlsxReaderWriter-swift-bridge.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E262860017B684C3D234743046D437EE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAComment.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAComment.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E47B926F890DEADBACFB0E8C68D1ED22</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAElementWithRelationships.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAElementWithRelationships.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E5A52F66FE829A80D7A7BD3473F37C16</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>BRAOfficeDocumentPackage.m</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/BRAOfficeDocumentPackage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E6BAE29AB23078411AE26BF8D8EF3367</key>
+		<key>E7E3F94EC59D033BD541C8708FDB4D3D</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C8740E2CC2F745887E3827F6DCE7C16C</string>
+			<string>CEC39D2682B4BD6B66794B2ABBC61B54</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3590,17 +3411,56 @@
 				</array>
 			</dict>
 		</dict>
-		<key>E8490D043612ADA89A87DB91B56D1004</key>
+		<key>E8D892475488B37363B36C86372E1465</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D97B79E65263C1733C0AEEE4328E258E</string>
+			<string>5829401F914988E3B46BC1DF7A19F91B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>EBBF3B6D7F7FEAD5338623C95FBAFF20</key>
+		<key>EBCCF38B221AD1D91A160645C7C0E116</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAWorksheet.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ECC8F7EFBADEB435ADD90C0B7323F966</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAOpenXmlElement.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ED30C63052B3D56BE63D3D6E74CAE1FE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRAColumn.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>EEC2FC08FC33BAF8908C2BF5B2E020A1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>A63FEBA6BD651D539FE8D6DE12E9B4F1</string>
+			<string>4EC30A49A0AA45E394B8D5995667E15C</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3611,34 +3471,86 @@
 				</array>
 			</dict>
 		</dict>
-		<key>ED150CE7C299DFE07B328DB36CBBEEF3</key>
+		<key>EF9C6AC27C7628748E87889F14FF764F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>name</key>
-			<string>LwExcelParseTools.m</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/LwExcelParseTools.m</string>
+			<string>BRAStyles.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>ED53C82DC67ECB83055B9443F0F6195D</key>
+		<key>EFC94C26BE080B22DA217575F4725781</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2F480F1D779739BBB295E8B383640589</string>
+			<string>825EAD5BD92AF32B5B208A159717B37C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F03142482902EE1AA856159C6D018317</key>
+		<dict>
+			<key>fileRef</key>
+			<string>996F0028467BC3F330E1AA1AB22767E8</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>F18DCBB87FE956687E10EE456828F71D</key>
+		<key>F0F68F274AF60833E60C8D534807348E</key>
 		<dict>
 			<key>fileRef</key>
-			<string>55036D74D4FDA5CA3A22B17460AE8695</string>
+			<string>A3697818623AE9C35F1079D6F588A1E8</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>F153061E76538E0D157DD92F29F518D1</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BD356A175071A8FBCF4F77CFA255F536</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>F15BAA5D93B881F2DAB175736EE74652</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>LwExcelParseTools.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F4CD44A962CB03CB4636BA7B5D5C57E2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>BRANumberFormat.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>F5A863A7846385FD4658E3AC174A5ED9</key>
 		<dict>
@@ -3653,55 +3565,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F668257CAFB61BFD5318E9ED18AFA243</key>
-		<dict>
-			<key>fileRef</key>
-			<string>62DE16D4CC89552267B29230CF1621A8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F6E4FA2CC8D0313BB022FC8DCAF1CAE7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>924B39D3925F361FA78539F8FD44252C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F94C0FE0369B6570F94886FCA1529120</key>
-		<dict>
-			<key>fileRef</key>
-			<string>555C9DB95FB8552797F42C4BF1BF6050</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FA102429B280812F451FFBAA1F7AAD4C</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>ioapi.c</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/ioapi.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FAAB7F0FB743DA1ACE90177DCD24C545</key>
+		<key>F65CBEC95F02D2369E33177B4520684F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3709,21 +3573,12 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>mztools.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/mztools.h</string>
+			<string>BRARelatedToColumnAndRowProtocol.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FAE81549E1473784E094C959BFA1651A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9074427E6BAD4E83F41AADE3894DFE48</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>FD2407BDBAF891632CB5603B2CD7E024</key>
+		<key>F6B16BAE62252DB77322A899728F15B0</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3731,27 +3586,19 @@
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
-			<key>name</key>
-			<string>NSDictionary+OpenXMLDictionaryParser.h</string>
 			<key>path</key>
-			<string>ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+OpenXMLDictionaryParser.h</string>
+			<string>BRAOfficeDocumentPackage.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FECE6289CABEFCBBEFDFE2C77DCE5B4F</key>
+		<key>F6D37DE45ACF5D0DC22862FC9F054996</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>C86F334ECE020B18861061E4515F097D</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>zip.c</string>
-			<key>path</key>
-			<string>ExcelParseTools/Classes/SSZipArchive/minizip/zip.c</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>FF09EFACC2DA72F9DB172F84ECF25F24</key>
+		<key>F70BACF7B222257E1D51250BCABA2E33</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3760,9 +3607,75 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>LwExcelParseTools-dummy.m</string>
+			<string>BRADrawing.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F7DEBD0848BFDF230E601336CD941322</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAImage.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F7E9C28B5D3EF6E7A8EF0156A46C39FC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>DHcell.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F824B65F95433E688ABF0C209DB69C93</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>NSDictionary+DeepCopy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FAE1B32B4929325D0A0167F3B287469E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>87E654A2D917A9A65203AF43A26478FE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>FD6A120E6370AEA901F7ACD941360A3F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>BRAElementWithRelationships.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>FF950B77847EC6FD7107E48E9C4CE354</key>
+		<dict>
+			<key>fileRef</key>
+			<string>6C2EA71720189DCBD05C9A3A4FDE923E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>

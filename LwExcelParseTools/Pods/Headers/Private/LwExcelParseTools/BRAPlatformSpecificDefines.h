@@ -1,1 +1,1 @@
-../../../LwExcelParseTools/ExcelParseTools/Classes/XlsxReaderWriter/BRAPlatformSpecificDefines.h
+../../../../../ExcelParseTools/Classes/XlsxReaderWriter/BRAPlatformSpecificDefines.h

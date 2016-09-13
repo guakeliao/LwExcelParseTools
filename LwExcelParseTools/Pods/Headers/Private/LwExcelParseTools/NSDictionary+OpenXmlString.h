@@ -1,1 +1,1 @@
-../../../LwExcelParseTools/ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+OpenXmlString.h
+../../../../../ExcelParseTools/Classes/XlsxReaderWriter/NSDictionary+OpenXmlString.h

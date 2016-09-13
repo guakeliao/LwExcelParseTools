@@ -1,1 +1,1 @@
-../../../LwExcelParseTools/ExcelParseTools/Classes/XlsxReaderWriter/XlsxReaderWriter-swift-bridge.h
+../../../../../ExcelParseTools/Classes/XlsxReaderWriter/XlsxReaderWriter-swift-bridge.h

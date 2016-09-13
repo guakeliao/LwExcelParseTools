@@ -10,13 +10,13 @@
 
 @implementation LwExcelParseTools
 
-+ (NSArray *)excelParseForResource:(NSString *)name ofType:(NSString *)type
++ (NSArray *)excelParseForResource:(NSString *)filePath
 {
     NSMutableArray *totalArray = [NSMutableArray array];
-    NSString *path = [[NSBundle mainBundle] pathForResource:name ofType:type];
+    NSString *type = [[[filePath lastPathComponent] componentsSeparatedByString:@"."] lastObject];
     if ([[type lowercaseString] isEqualToString:@"xls"])
     {
-        DHxlsReader *reader = [DHxlsReader xlsReaderWithPath:path];
+        DHxlsReader *reader = [DHxlsReader xlsReaderWithPath:filePath];
         assert(reader);
         //每个sheet
         for (uint32_t i = 0; i <= [reader numberOfSheets]; i++)
@@ -39,7 +39,7 @@
     }
     else if ([[type lowercaseString] isEqualToString:@"xlsx"])
     {
-        BRAOfficeDocumentPackage *spreadsheet = [BRAOfficeDocumentPackage open:path];
+        BRAOfficeDocumentPackage *spreadsheet = [BRAOfficeDocumentPackage open:filePath];
         for (BRAWorksheet *worksheet in spreadsheet.workbook.worksheets)
         {
             NSMutableArray *sheetArray = [NSMutableArray array];
