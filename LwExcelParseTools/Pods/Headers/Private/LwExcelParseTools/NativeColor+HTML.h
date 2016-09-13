@@ -1,0 +1,1 @@
+../../../../../ExcelParseTools/Classes/XlsxReaderWriter/NativeColor+HTML.h

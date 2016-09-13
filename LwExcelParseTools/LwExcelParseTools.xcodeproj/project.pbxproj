@@ -1,0 +1,423 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		66C89F811D640294005CEB13 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 66C89F801D640294005CEB13 /* main.m */; };
+		66C89F841D640294005CEB13 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 66C89F831D640294005CEB13 /* AppDelegate.m */; };
+		66C89F871D640294005CEB13 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 66C89F861D640294005CEB13 /* ViewController.m */; };
+		66C89F8A1D640294005CEB13 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F881D640294005CEB13 /* Main.storyboard */; };
+		66C89F8C1D640294005CEB13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F8B1D640294005CEB13 /* Assets.xcassets */; };
+		66C89F8F1D640294005CEB13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F8D1D640294005CEB13 /* LaunchScreen.storyboard */; };
+		66C89F991D640584005CEB13 /* datasets.xls in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F971D640584005CEB13 /* datasets.xls */; };
+		66C89F9A1D640584005CEB13 /* datasets.xlsx in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F981D640584005CEB13 /* datasets.xlsx */; };
+		66C89F9F1D6405B0005CEB13 /* LwExcelParseTools.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F9C1D6405B0005CEB13 /* LwExcelParseTools.podspec */; };
+		66C89FA01D6405B0005CEB13 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 66C89F9D1D6405B0005CEB13 /* LICENSE */; };
+		66C89FA11D6405B0005CEB13 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 66C89F9E1D6405B0005CEB13 /* README.md */; };
+		F1F2EAB214554F514D89E4D3 /* Pods_LwExcelParseTools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B8FF25F4EA6D3A6A038ACC09 /* Pods_LwExcelParseTools.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		66C89F7C1D640294005CEB13 /* LwExcelParseTools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LwExcelParseTools.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		66C89F801D640294005CEB13 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		66C89F821D640294005CEB13 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		66C89F831D640294005CEB13 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		66C89F851D640294005CEB13 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		66C89F861D640294005CEB13 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		66C89F891D640294005CEB13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		66C89F8B1D640294005CEB13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		66C89F8E1D640294005CEB13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		66C89F901D640294005CEB13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66C89F971D640584005CEB13 /* datasets.xls */ = {isa = PBXFileReference; lastKnownFileType = file; path = datasets.xls; sourceTree = "<group>"; };
+		66C89F981D640584005CEB13 /* datasets.xlsx */ = {isa = PBXFileReference; lastKnownFileType = file; path = datasets.xlsx; sourceTree = "<group>"; };
+		66C89F9C1D6405B0005CEB13 /* LwExcelParseTools.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LwExcelParseTools.podspec; path = ../LwExcelParseTools.podspec; sourceTree = "<group>"; };
+		66C89F9D1D6405B0005CEB13 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		66C89F9E1D6405B0005CEB13 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		886197DE7DE39AD44298BC82 /* Pods-LwExcelParseTools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LwExcelParseTools.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools.debug.xcconfig"; sourceTree = "<group>"; };
+		B06F5EF3F6693ED6CBCF4BE7 /* Pods-LwExcelParseTools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LwExcelParseTools.release.xcconfig"; path = "Pods/Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools.release.xcconfig"; sourceTree = "<group>"; };
+		B8FF25F4EA6D3A6A038ACC09 /* Pods_LwExcelParseTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LwExcelParseTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		66C89F791D640294005CEB13 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F1F2EAB214554F514D89E4D3 /* Pods_LwExcelParseTools.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		28EDEB3A60B4B68AADB3410A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B8FF25F4EA6D3A6A038ACC09 /* Pods_LwExcelParseTools.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		66C89F731D640294005CEB13 = {
+			isa = PBXGroup;
+			children = (
+				66C89F961D640584005CEB13 /* testthat */,
+				66C89F9B1D6405A0005CEB13 /* Podspec Metadata */,
+				66C89F7E1D640294005CEB13 /* LwExcelParseTools */,
+				66C89F7D1D640294005CEB13 /* Products */,
+				E84924FA056D1C05E04690A0 /* Pods */,
+				28EDEB3A60B4B68AADB3410A /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		66C89F7D1D640294005CEB13 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				66C89F7C1D640294005CEB13 /* LwExcelParseTools.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		66C89F7E1D640294005CEB13 /* LwExcelParseTools */ = {
+			isa = PBXGroup;
+			children = (
+				66C89F821D640294005CEB13 /* AppDelegate.h */,
+				66C89F831D640294005CEB13 /* AppDelegate.m */,
+				66C89F851D640294005CEB13 /* ViewController.h */,
+				66C89F861D640294005CEB13 /* ViewController.m */,
+				66C89F881D640294005CEB13 /* Main.storyboard */,
+				66C89F8B1D640294005CEB13 /* Assets.xcassets */,
+				66C89F8D1D640294005CEB13 /* LaunchScreen.storyboard */,
+				66C89F901D640294005CEB13 /* Info.plist */,
+				66C89F7F1D640294005CEB13 /* Supporting Files */,
+			);
+			path = LwExcelParseTools;
+			sourceTree = "<group>";
+		};
+		66C89F7F1D640294005CEB13 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				66C89F801D640294005CEB13 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		66C89F961D640584005CEB13 /* testthat */ = {
+			isa = PBXGroup;
+			children = (
+				66C89F971D640584005CEB13 /* datasets.xls */,
+				66C89F981D640584005CEB13 /* datasets.xlsx */,
+			);
+			path = testthat;
+			sourceTree = "<group>";
+		};
+		66C89F9B1D6405A0005CEB13 /* Podspec Metadata */ = {
+			isa = PBXGroup;
+			children = (
+				66C89F9C1D6405B0005CEB13 /* LwExcelParseTools.podspec */,
+				66C89F9D1D6405B0005CEB13 /* LICENSE */,
+				66C89F9E1D6405B0005CEB13 /* README.md */,
+			);
+			name = "Podspec Metadata";
+			sourceTree = "<group>";
+		};
+		E84924FA056D1C05E04690A0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				886197DE7DE39AD44298BC82 /* Pods-LwExcelParseTools.debug.xcconfig */,
+				B06F5EF3F6693ED6CBCF4BE7 /* Pods-LwExcelParseTools.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		66C89F7B1D640294005CEB13 /* LwExcelParseTools */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 66C89F931D640294005CEB13 /* Build configuration list for PBXNativeTarget "LwExcelParseTools" */;
+			buildPhases = (
+				07FBFB42A67BBCB0C2CE20EB /* Check Pods Manifest.lock */,
+				66C89F781D640294005CEB13 /* Sources */,
+				66C89F791D640294005CEB13 /* Frameworks */,
+				66C89F7A1D640294005CEB13 /* Resources */,
+				32BE839113D45AEC084B590F /* Embed Pods Frameworks */,
+				ECB836D4E64638C2CAD86B4B /* Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LwExcelParseTools;
+			productName = LwExcelParseTools;
+			productReference = 66C89F7C1D640294005CEB13 /* LwExcelParseTools.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		66C89F741D640294005CEB13 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = guakeliao;
+				TargetAttributes = {
+					66C89F7B1D640294005CEB13 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 66C89F771D640294005CEB13 /* Build configuration list for PBXProject "LwExcelParseTools" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 66C89F731D640294005CEB13;
+			productRefGroup = 66C89F7D1D640294005CEB13 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				66C89F7B1D640294005CEB13 /* LwExcelParseTools */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		66C89F7A1D640294005CEB13 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				66C89F9A1D640584005CEB13 /* datasets.xlsx in Resources */,
+				66C89F9F1D6405B0005CEB13 /* LwExcelParseTools.podspec in Resources */,
+				66C89F8F1D640294005CEB13 /* LaunchScreen.storyboard in Resources */,
+				66C89FA01D6405B0005CEB13 /* LICENSE in Resources */,
+				66C89F8C1D640294005CEB13 /* Assets.xcassets in Resources */,
+				66C89F991D640584005CEB13 /* datasets.xls in Resources */,
+				66C89F8A1D640294005CEB13 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		07FBFB42A67BBCB0C2CE20EB /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		32BE839113D45AEC084B590F /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ECB836D4E64638C2CAD86B4B /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LwExcelParseTools/Pods-LwExcelParseTools-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		66C89F781D640294005CEB13 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				66C89F871D640294005CEB13 /* ViewController.m in Sources */,
+				66C89F841D640294005CEB13 /* AppDelegate.m in Sources */,
+				66C89FA11D6405B0005CEB13 /* README.md in Sources */,
+				66C89F811D640294005CEB13 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		66C89F881D640294005CEB13 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				66C89F891D640294005CEB13 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		66C89F8D1D640294005CEB13 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				66C89F8E1D640294005CEB13 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		66C89F911D640294005CEB13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		66C89F921D640294005CEB13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		66C89F941D640294005CEB13 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 886197DE7DE39AD44298BC82 /* Pods-LwExcelParseTools.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LwExcelParseTools/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.guakeliao.LwExcelParseTools;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		66C89F951D640294005CEB13 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B06F5EF3F6693ED6CBCF4BE7 /* Pods-LwExcelParseTools.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = LwExcelParseTools/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.guakeliao.LwExcelParseTools;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		66C89F771D640294005CEB13 /* Build configuration list for PBXProject "LwExcelParseTools" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				66C89F911D640294005CEB13 /* Debug */,
+				66C89F921D640294005CEB13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		66C89F931D640294005CEB13 /* Build configuration list for PBXNativeTarget "LwExcelParseTools" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				66C89F941D640294005CEB13 /* Debug */,
+				66C89F951D640294005CEB13 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 66C89F741D640294005CEB13 /* Project object */;
+}
