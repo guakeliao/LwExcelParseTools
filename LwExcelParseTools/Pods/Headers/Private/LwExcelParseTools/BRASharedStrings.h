@@ -1,1 +1,1 @@
-../../../../../ExcelParseTools/Classes/XlsxReaderWriter/BRASharedStrings.h
+../../../LwExcelParseTools/ExcelParseTools/Classes/XlsxReaderWriter/BRASharedStrings.h

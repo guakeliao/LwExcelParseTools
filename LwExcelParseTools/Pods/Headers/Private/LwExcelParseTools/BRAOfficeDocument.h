@@ -1,1 +1,1 @@
-../../../../../ExcelParseTools/Classes/XlsxReaderWriter/BRAOfficeDocument.h
+../../../LwExcelParseTools/ExcelParseTools/Classes/XlsxReaderWriter/BRAOfficeDocument.h

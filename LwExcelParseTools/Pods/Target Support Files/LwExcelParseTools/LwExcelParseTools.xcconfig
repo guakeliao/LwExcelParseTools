@@ -1,6 +1,6 @@
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = "${PODS_ROOT}/Headers/Private" "${PODS_ROOT}/Headers/Private/LwExcelParseTools" "${PODS_ROOT}/Headers/Public"
-LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/../../ExcelParseTools/Assets"
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/LwExcelParseTools/ExcelParseTools/Assets"
 OTHER_LDFLAGS = -l"ExcelReader" -l"iconv" -l"z"
 PODS_ROOT = ${SRCROOT}
 SKIP_INSTALL = YES

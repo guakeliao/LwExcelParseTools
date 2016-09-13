@@ -2,11 +2,7 @@ PODS:
   - LwExcelParseTools (0.1.0)
 
 DEPENDENCIES:
-  - LwExcelParseTools (from `../`)
-
-EXTERNAL SOURCES:
-  LwExcelParseTools:
-    :path: ../
+  - LwExcelParseTools (~> 0.1.0)
 
 SPEC CHECKSUMS:
   LwExcelParseTools: ee18fc9fa7f1b6c97eceee6a3921372e312c8e90
